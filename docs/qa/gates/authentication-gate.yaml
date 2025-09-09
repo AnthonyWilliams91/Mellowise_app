@@ -1,0 +1,72 @@
+schema: 1
+component: Authentication & Authorization
+gate: FAIL  
+status_reason: 'Supabase RLS configuration incomplete, missing critical security controls.'
+reviewer: 'Quinn'
+updated: '2025-09-09T18:43:00Z'
+top_issues:
+  - id: 'SEC-002'
+    severity: high
+    finding: 'RLS policies not defined for user isolation'
+    suggested_action: 'Create and test RLS policies before any database work'
+  - id: 'SEC-003'
+    severity: high
+    finding: 'No JWT refresh token rotation'
+    suggested_action: 'Implement secure token rotation strategy'
+  - id: 'TEST-001'
+    severity: medium
+    finding: 'No authorization bypass testing'
+    suggested_action: 'Create comprehensive auth test suite'
+
+acceptance_criteria:
+  authentication:
+    - criterion: 'JWT expiration < 24 hours'
+      status: NOT_MET
+      test: 'Token validation test'
+    - criterion: 'Refresh token rotation on use'
+      status: NOT_MET
+      test: 'Security audit'
+    - criterion: 'Session invalidation on logout'
+      status: NOT_MET
+      test: 'Functional test'
+    - criterion: 'MFA support for admins'
+      status: NOT_MET
+      test: 'Integration test'
+  
+  authorization:
+    - criterion: 'RLS policies for all tables'
+      status: NOT_MET
+      test: 'Database security audit'
+    - criterion: 'User data isolation verified'
+      status: NOT_MET
+      test: 'Cross-tenant access test'
+    - criterion: 'Admin actions audited'
+      status: NOT_MET
+      test: 'Audit log verification'
+    - criterion: 'API endpoint authorization'
+      status: NOT_MET
+      test: 'Penetration test'
+  
+  compliance:
+    - criterion: 'FERPA-compliant data access'
+      status: NOT_MET
+      test: 'Compliance audit'
+    - criterion: 'Consent management system'
+      status: NOT_MET
+      test: 'User flow test'
+
+required_before_development:
+  - Define RLS policies for each table
+  - Create auth testing framework
+  - Document permission matrix
+  - Implement audit logging
+  - Design token rotation flow
+
+test_scenarios:
+  - User A attempts to access User B's progress data
+  - Expired token usage attempt
+  - Concurrent session management
+  - Password reset flow
+  - Account deletion and data removal
+
+waiver: { active: false }

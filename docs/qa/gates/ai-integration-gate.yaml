@@ -1,0 +1,59 @@
+schema: 1
+component: AI Integration Layer
+gate: FAIL
+status_reason: 'Critical security and performance requirements not yet implemented.'
+reviewer: 'Quinn'
+updated: '2025-09-09T18:43:00Z'
+top_issues:
+  - id: 'SEC-001'
+    severity: high
+    finding: 'AI API keys would be exposed in frontend'
+    suggested_action: 'Implement backend proxy before ANY AI integration'
+  - id: 'PERF-001'
+    severity: high
+    finding: 'No caching strategy for AI responses'
+    suggested_action: 'Implement Redis cache with 60% hit rate target'
+  - id: 'BUS-001'
+    severity: high
+    finding: 'No question validation pipeline'
+    suggested_action: 'Build quality assurance workflow for generated questions'
+
+acceptance_criteria:
+  security:
+    - criterion: 'All AI API calls through backend proxy'
+      status: NOT_MET
+      test: 'Code review and penetration test'
+    - criterion: 'API keys in environment variables only'
+      status: NOT_MET
+      test: 'Automated credential scan'
+    - criterion: 'Rate limiting per user (100 req/hour)'
+      status: NOT_MET
+      test: 'Load test with abuse scenarios'
+  
+  performance:
+    - criterion: 'P95 latency < 3 seconds'
+      status: NOT_MET
+      test: 'Load test with 100 concurrent users'
+    - criterion: 'Cache hit rate > 60%'
+      status: NOT_MET
+      test: 'Production metrics monitoring'
+    - criterion: 'Graceful fallback on timeout'
+      status: NOT_MET
+      test: 'Chaos engineering test'
+  
+  quality:
+    - criterion: '95% accuracy on LSAT questions'
+      status: NOT_MET
+      test: 'Expert review of 100 samples'
+    - criterion: 'Zero hallucinations in legal content'
+      status: NOT_MET
+      test: 'Automated fact checking'
+
+required_before_development:
+  - Design backend proxy architecture
+  - Select caching strategy (Redis recommended)
+  - Create prompt engineering templates
+  - Establish question review process
+  - Define fallback behavior
+
+waiver: { active: false }
