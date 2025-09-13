@@ -1,0 +1,83 @@
+#!/usr/bin/env sh
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "🚀 Running pre-commit checks..."
+
+# Check if this is the initial commit
+if git rev-parse --verify HEAD >/dev/null 2>&1
+then
+    against=HEAD
+else
+    # Initial commit: diff against an empty tree object
+    against=$(git hash-object -t tree /dev/null)
+fi
+
+# Get list of staged files
+staged_files=$(git diff --cached --name-only --diff-filter=ACM)
+
+if [ -z "$staged_files" ]; then
+    echo "No staged files to check"
+    exit 0
+fi
+
+echo "📝 Staged files:"
+echo "$staged_files" | sed 's/^/  /'
+
+# Run TypeScript type checking
+echo "🔍 Type checking..."
+if ! npx tsc --noEmit; then
+    echo "❌ TypeScript type checking failed"
+    exit 1
+fi
+
+# Run ESLint on staged files
+echo "🔧 Linting..."
+echo "$staged_files" | grep -E '\.(js|jsx|ts|tsx)$' | xargs -r npx eslint
+if [ $? -ne 0 ]; then
+    echo "❌ Linting failed"
+    exit 1
+fi
+
+# Run Prettier on staged files
+echo "💅 Formatting check..."
+echo "$staged_files" | xargs -r npx prettier --check
+if [ $? -ne 0 ]; then
+    echo "❌ Code formatting check failed"
+    echo "💡 Run 'npm run format' to fix formatting issues"
+    exit 1
+fi
+
+# Run tests affected by staged files
+echo "🧪 Running tests..."
+if ! npm run test:affected 2>/dev/null || ! npm run test -- --passWithNoTests --silent; then
+    echo "❌ Tests failed"
+    exit 1
+fi
+
+# Check for secrets or sensitive information
+echo "🔒 Security check..."
+if echo "$staged_files" | xargs -r grep -Hn -E "(api_key|secret|password|token)" --include="*.js" --include="*.ts" --include="*.jsx" --include="*.tsx" --exclude-dir=node_modules; then
+    echo "❌ Potential secrets detected in staged files"
+    echo "💡 Please remove sensitive information before committing"
+    exit 1
+fi
+
+# Check package.json and package-lock.json are in sync
+if echo "$staged_files" | grep -q "package\.json"; then
+    if [ ! -f "package-lock.json" ] || [ "package.json" -nt "package-lock.json" ]; then
+        echo "❌ package-lock.json is out of sync with package.json"
+        echo "💡 Run 'npm install' to update package-lock.json"
+        exit 1
+    fi
+fi
+
+# Size check for large files
+echo "📏 Checking file sizes..."
+large_files=$(echo "$staged_files" | xargs -r ls -la | awk '$5 > 1048576 {print $9, "(" $5 " bytes)"}')
+if [ -n "$large_files" ]; then
+    echo "⚠️  Large files detected:"
+    echo "$large_files"
+    echo "💡 Consider using Git LFS for large binary files"
+fi
+
+echo "✅ All pre-commit checks passed!"

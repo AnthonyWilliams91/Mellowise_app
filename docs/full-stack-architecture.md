@@ -82,6 +82,29 @@ Mellowise employs a **hybrid monolithic + serverless functions** approach, optim
 │  ├─ Twilio (SMS Notifications)                                     │
 │  └─ Supabase Realtime (Live Updates)                             │
 └─────────────────────────────────────────────────────────────────────┘
+                                  │
+                                  ▼
+┌─────────────────────────────────────────────────────────────────────┐
+│                   MONITORING & OBSERVABILITY                      │
+├─────────────────────────────────────────────────────────────────────┤
+│  Health Monitoring                                                 │
+│  ├─ Application Health Endpoints (/api/health/status)             │
+│  ├─ Database Health Checks (/api/health/ready)                    │
+│  ├─ External Service Health Monitoring                            │
+│  └─ Automated Alerting (Performance & Availability)               │
+│                                                                    │
+│  Performance Monitoring                                            │
+│  ├─ Core Web Vitals Tracking (LCP: 1.2s, FID: 30ms, CLS: 0.03)  │
+│  ├─ API Response Time Monitoring (< 200ms target)                 │
+│  ├─ Database Query Performance (< 100ms target)                   │
+│  └─ Real User Monitoring (RUM) with Web Vitals API                │
+│                                                                    │
+│  Error Tracking & Logging                                         │
+│  ├─ Structured Error Logging with Context                         │
+│  ├─ User-Friendly Error Messages (Multilingual Support)           │
+│  ├─ Error Rate Monitoring (< 1% target)                          │
+│  └─ Automatic Error Recovery & Fallback Mechanisms               │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 ### Data Flow Overview

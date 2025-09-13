@@ -1,0 +1,2842 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-001",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-002",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-003",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-004",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-005",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-006",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-007",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-008",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-009",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-010",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-011",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-012",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-013",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-014",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-015",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-016",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-017",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-018",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-019",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-020",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-021",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-022",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-023",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-024",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-025",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-026",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-027",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-028",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-029",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-030",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-031",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-032",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-033",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-034",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-035",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-036",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-037",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-038",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-039",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-persp-040",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Perspectives",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "resource-allocation",
+        "technology-vs-personnel"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "A school district must choose between investing in new technology for classrooms or hiring additional teachers to reduce class sizes. Budget constraints mean they cannot do both simultaneously."
+    },
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic evaluation focusing on argumentation quality, evidence use, and acknowledgment of competing priorities.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1
+          },
+          {
+            "name": "Organization",
+            "max_points": 1
+          },
+          {
+            "name": "Argumentation",
+            "max_points": 2
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1
+          },
+          {
+            "name": "Mechanics",
+            "max_points": 1
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis with supporting arguments and address counterarguments.",
+        "strategy_tips": "Consider both immediate and long-term impacts of each choice on student outcomes."
+      }
+    },
+    "question_text": "Write an essay that takes a position on whether the school district should prioritize technology investment OR hiring more teachers. Explain your reasoning and address the opposing perspective."
+  }
+]

@@ -1,0 +1,3682 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-001",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-002",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-003",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-004",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-005",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-006",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-007",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-008",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-009",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-010",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-011",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-012",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-013",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-014",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-015",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-016",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-017",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-018",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-019",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-020",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-021",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-022",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-023",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-024",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-025",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-026",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-027",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-028",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-029",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-030",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-031",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-032",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-033",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-034",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-035",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-036",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-037",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-038",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-039",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-org-040",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Passage Organization / Structure",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "organization",
+        "structure",
+        "problem-solution",
+        "comparative"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This approach has both advantages and drawbacks.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. The coming years will likely determine whether current regulatory approaches are sufficient."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "presenting a problem, then examining two different approaches to addressing it"
+      },
+      {
+        "id": "B",
+        "text": "making an argument and then providing supporting evidence"
+      },
+      {
+        "id": "C",
+        "text": "describing a historical progression from past to present"
+      },
+      {
+        "id": "D",
+        "text": "comparing advantages and disadvantages of a single solution"
+      },
+      {
+        "id": "E",
+        "text": "defining a concept and then providing multiple examples"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the logical flow and structural organization of ideas.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The passage identifies the regulation challenge, then examines EU and US approaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Identify how paragraphs relate to each other and build the overall argument."
+      }
+    },
+    "question_text": "The passage is organized by"
+  }
+]

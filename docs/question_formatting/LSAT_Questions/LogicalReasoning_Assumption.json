@@ -1,0 +1,3533 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-001",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "A recent study found that companies implementing remote work policies experienced a 25% increase in employee productivity. The CEO of TechFlow Inc. concluded that adopting remote work would directly cause similar productivity gains for their company. The CEO's conclusion assumes which of the following?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "TechFlow's employees are currently working below their maximum productivity potential.",
+        "rationale": "While possibly true, this isn't necessary for the causal conclusion."
+      },
+      {
+        "id": "B",
+        "text": "Remote work policies are the primary factor responsible for the productivity increases observed in the study.",
+        "rationale": "This directly addresses the causal assumption - that remote work caused the gains, not other factors."
+      },
+      {
+        "id": "C",
+        "text": "TechFlow's employees would prefer to work remotely rather than in the office.",
+        "rationale": "Employee preference isn't necessary for the productivity argument."
+      },
+      {
+        "id": "D",
+        "text": "The study included companies similar in size and industry to TechFlow Inc.",
+        "rationale": "Company similarity helps but isn't the core assumption about causation."
+      },
+      {
+        "id": "E",
+        "text": "Productivity gains from remote work can be sustained over long periods.",
+        "rationale": "Long-term sustainability isn't addressed in the immediate causal claim."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "The CEO assumes remote work caused the productivity gains. This requires assuming no other major factors were responsible for the 25% increase observed in the study.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Current productivity levels don't affect whether remote work would cause gains."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. The causal conclusion requires assuming remote work was the primary cause, not coincidental correlation."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Employee preferences don't determine productivity outcomes."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "While helpful for generalization, this doesn't address the causal assumption."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "The CEO's conclusion is about immediate adoption effects, not long-term sustainability."
+          }
+        ],
+        "strategy_tips": "For assumption questions, use the negation test: if negating the answer choice destroys the argument, it's a necessary assumption."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "necessary",
+        "causation",
+        "business-scenario"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-002",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Environmental scientist Maria argues that installing solar panels on all government buildings would significantly reduce the city's carbon emissions. She notes that government buildings account for 15% of the city's total energy consumption. Maria's argument depends on the assumption that:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Solar panels are the most cost-effective renewable energy option for large buildings."
+      },
+      {
+        "id": "B",
+        "text": "The electricity currently used by government buildings is generated primarily from carbon-emitting sources."
+      },
+      {
+        "id": "C",
+        "text": "Government buildings have adequate roof space and sun exposure for solar panel installation."
+      },
+      {
+        "id": "D",
+        "text": "Installing solar panels would not require significant changes to the buildings' electrical systems."
+      },
+      {
+        "id": "E",
+        "text": "The city government has sufficient budget allocated for renewable energy initiatives."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "For solar panels to reduce carbon emissions, the current electricity must be generating carbon emissions. If the grid is already clean, solar panels wouldn't reduce emissions significantly.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Cost-effectiveness isn't necessary for the carbon reduction argument."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. If current electricity is already carbon-free, solar panels wouldn't reduce emissions."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Physical feasibility is important but not the core logical assumption about emissions."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Installation complexity doesn't affect the emissions reduction argument."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Budget considerations don't affect whether the plan would reduce emissions if implemented."
+          }
+        ],
+        "strategy_tips": "Identify the gap between premises and conclusion. What must be true for the conclusion to follow?"
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "environmental",
+        "logical-gap"
+      ],
+      "estimated_time_sec": 85,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-003",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "The new health insurance policy will cover preventive care visits at no cost to patients. Dr. Johnson believes this will lead to earlier detection of serious diseases and ultimately save the insurance company money. Dr. Johnson's reasoning assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Most patients currently avoid preventive care due to cost concerns."
+      },
+      {
+        "id": "B",
+        "text": "Early detection of diseases typically results in less expensive treatment than late detection."
+      },
+      {
+        "id": "C",
+        "text": "Preventive care visits are generally less expensive than treatment visits."
+      },
+      {
+        "id": "D",
+        "text": "The insurance company is currently spending too much money on disease treatment."
+      },
+      {
+        "id": "E",
+        "text": "Patients will take advantage of free preventive care visits."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "The argument concludes that free preventive care will save money through early detection. This requires assuming early detection leads to cost savings compared to late detection.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "While this supports increased usage, it doesn't establish the cost-saving mechanism."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. Without this assumption, early detection might not save money overall."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This compares preventive to treatment costs but doesn't address the timing issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Current spending levels don't affect whether the policy will save money."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Patient usage is necessary but doesn't guarantee cost savings."
+          }
+        ],
+        "strategy_tips": "Look for the causal link between the action and the predicted outcome."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "healthcare",
+        "causal-reasoning"
+      ],
+      "estimated_time_sec": 85,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-004",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Restaurant critic Sarah claims that the downtown location of Milano's will fail within six months because it lacks adequate parking. She points out that the restaurant has only 12 parking spaces for a 150-seat establishment. Sarah's prediction rests on which assumption?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Successful restaurants typically have a parking space-to-seat ratio of at least 1:4."
+      },
+      {
+        "id": "B",
+        "text": "Most of Milano's potential customers will drive to the restaurant rather than use alternative transportation."
+      },
+      {
+        "id": "C",
+        "text": "The downtown area has limited street parking available to restaurant patrons."
+      },
+      {
+        "id": "D",
+        "text": "Milano's food quality is not exceptional enough to overcome parking inconvenience."
+      },
+      {
+        "id": "E",
+        "text": "Other restaurants in the area have more parking spaces than Milano's."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "The critic assumes parking shortage will cause failure. This requires assuming customers need parking - that most will drive rather than walk, take public transport, etc.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "A specific ratio isn't necessary; the general principle that parking affects success is sufficient."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. If most customers use alternative transportation, parking wouldn't be a limiting factor."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Limited street parking would compound the problem but isn't necessary for the argument."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This assumption would strengthen the argument but isn't necessary for the basic causal claim."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Competitive comparison isn't required for the parking-failure connection."
+          }
+        ],
+        "strategy_tips": "In causal arguments, identify what conditions must exist for the cause to produce the effect."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "business-failure",
+        "causal-reasoning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-005",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "The archaeology professor argued that the recently discovered pottery fragments are at least 3,000 years old because they were found in the same soil layer as bones from extinct animals known to have lived 3,000 years ago. The professor's reasoning depends on assuming:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The pottery and animal bones were deposited in the soil layer at approximately the same time."
+      },
+      {
+        "id": "B",
+        "text": "No other pottery fragments have been found in deeper soil layers at the site."
+      },
+      {
+        "id": "C",
+        "text": "The extinct animals lived exclusively 3,000 years ago and at no other time."
+      },
+      {
+        "id": "D",
+        "text": "The soil layers at this archaeological site have not been significantly disturbed."
+      },
+      {
+        "id": "E",
+        "text": "Similar pottery fragments found at other sites have been reliably dated to 3,000 years ago."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "The argument uses co-location in the same soil layer to infer contemporaneous age. This requires assuming items in the same layer were deposited around the same time.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If the pottery was deposited much later, being in the same layer wouldn't indicate similar age."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Other pottery locations don't affect the dating of these specific fragments."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The animals living at other times wouldn't affect the inference if they lived 3,000 years ago too."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "While relevant, this is more specific than necessary - some disturbance could occur without affecting the co-location inference."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Comparative dating from other sites isn't necessary for this soil-layer argument."
+          }
+        ],
+        "strategy_tips": "For co-location arguments, consider what must be true about the relationship between the co-located items."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "archaeology",
+        "co-location-inference"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-006",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Legal scholar Martinez contends that the new witness protection program will significantly reduce organized crime prosecutions because potential witnesses will be more willing to testify. However, she notes that the program can only protect a limited number of witnesses each year. Martinez's argument assumes which of the following?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The current witness protection program is inadequate for prosecuting organized crime."
+      },
+      {
+        "id": "B",
+        "text": "Fear of retaliation is currently the primary factor preventing witnesses from testifying in organized crime cases."
+      },
+      {
+        "id": "C",
+        "text": "The number of witnesses willing to testify will not exceed the program's capacity to protect them."
+      },
+      {
+        "id": "D",
+        "text": "Organized crime groups are not aware of the witness protection program's limitations."
+      },
+      {
+        "id": "E",
+        "text": "Successful prosecutions of organized crime require testimony from multiple witnesses."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "The argument claims protection will increase prosecutions by making witnesses more willing to testify. This assumes fear is currently the main barrier to testimony.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Current program adequacy doesn't affect whether the new program will increase prosecutions."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. If witnesses aren't testifying for other reasons, protection wouldn't increase their willingness."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The limited capacity could be a concern but isn't necessary for the basic causal claim about willingness."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Criminal awareness of limitations doesn't affect whether protection increases witness willingness."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "The number of witnesses needed per case doesn't affect whether protection increases availability."
+          }
+        ],
+        "strategy_tips": "When an argument claims a solution will work, identify what problem must exist for that solution to be effective."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "legal-reasoning",
+        "policy-effectiveness"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-007",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "The city council's decision to replace all parking meters with mobile payment systems will increase parking revenue, according to transportation director Chen. She argues that mobile payments are more convenient, so more people will choose to pay for parking rather than risk tickets. Chen's conclusion assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The current parking meter system frequently malfunctions and discourages payment."
+      },
+      {
+        "id": "B",
+        "text": "Many people currently park illegally specifically because of the inconvenience of feeding parking meters."
+      },
+      {
+        "id": "C",
+        "text": "Mobile payment systems are less expensive to maintain than traditional parking meters."
+      },
+      {
+        "id": "D",
+        "text": "Most drivers own smartphones capable of making mobile payments."
+      },
+      {
+        "id": "E",
+        "text": "The fines for parking violations will remain at their current levels."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "The argument claims mobile payment convenience will increase compliance. This requires assuming that inconvenience is currently causing some people to park illegally.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Malfunctions could be a factor but aren't necessary for the convenience-based argument."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. If people aren't avoiding payment due to inconvenience, convenience won't increase revenue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Maintenance costs affect profitability but not revenue from increased compliance."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "While practically important, smartphone ownership isn't logically required for the convenience argument."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Fine levels don't affect whether convenience increases voluntary compliance."
+          }
+        ],
+        "strategy_tips": "For arguments about behavioral change, identify what current behavior must exist for the proposed change to work."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "policy-change",
+        "behavioral-prediction"
+      ],
+      "estimated_time_sec": 85,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-008",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Nutritionist Williams argues that banning soft drink sales in schools will improve students' dental health because students will consume fewer cavity-causing beverages during school hours. Williams' reasoning depends on which assumption?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Soft drinks are the primary cause of dental problems among school-age children."
+      },
+      {
+        "id": "B",
+        "text": "Students currently purchase soft drinks from school vending machines and cafeterias."
+      },
+      {
+        "id": "C",
+        "text": "Students will not bring soft drinks from home to replace those banned from school sales."
+      },
+      {
+        "id": "D",
+        "text": "Alternative beverages available at school are less harmful to dental health than soft drinks."
+      },
+      {
+        "id": "E",
+        "text": "Reducing cavity-causing beverage consumption will improve dental health outcomes."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "C"
+      },
+      "explanations": {
+        "general": "The argument claims banning school sales will reduce consumption. This assumes students won't simply obtain soft drinks through alternative means that bypass the ban.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Soft drinks need only contribute to dental problems, not be the primary cause."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "While this supports the relevance of a ban, it's more of a premise than an assumption."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Correct. If students compensate by bringing soft drinks from home, the ban won't reduce consumption."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Alternative beverage quality affects the degree of improvement but not whether improvement occurs."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is a reasonable scientific premise rather than a logical assumption specific to this argument."
+          }
+        ],
+        "strategy_tips": "When evaluating policy effectiveness arguments, consider what could undermine the intended behavioral change."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "policy-effectiveness",
+        "behavioral-substitution"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-009",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "The museum director believes that offering free admission on weekday afternoons will attract more local families because working parents will bring their children after school. However, the museum is located in a business district with limited residential housing nearby. The director's reasoning assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Local families are currently unable to visit the museum due to admission costs."
+      },
+      {
+        "id": "B",
+        "text": "Parents in the area have flexible work schedules that allow afternoon museum visits."
+      },
+      {
+        "id": "C",
+        "text": "The museum's current programming is suitable for children and families."
+      },
+      {
+        "id": "D",
+        "text": "Families are willing to travel from residential areas to the business district for free museum visits."
+      },
+      {
+        "id": "E",
+        "text": "Weekday afternoons are more convenient for families than weekends or evenings."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "D"
+      },
+      "explanations": {
+        "general": "Given the business district location with limited nearby residential housing, attracting 'local families' requires assuming families will travel from residential areas to reach the museum.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Cost barriers could be a factor but don't address the location challenge."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Parent availability is important but doesn't solve the proximity issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Suitable programming is necessary but doesn't address whether families can reach the museum."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Correct. With limited nearby residents, 'local families' must be willing to make the trip to the business district."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Timing preference doesn't address the fundamental location accessibility issue."
+          }
+        ],
+        "strategy_tips": "Pay attention to geographical or logistical constraints mentioned in the argument that must be overcome."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "location-constraint",
+        "family-attraction"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-010",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Computer scientist Roberts claims that implementing two-factor authentication will eliminate security breaches at the company because hackers will no longer be able to access accounts with just stolen passwords. Roberts' argument rests on which assumption?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The company's current security breaches are caused primarily by hackers using stolen passwords."
+      },
+      {
+        "id": "B",
+        "text": "Employees will consistently use the two-factor authentication system when required."
+      },
+      {
+        "id": "C",
+        "text": "Two-factor authentication is more secure than single-password systems."
+      },
+      {
+        "id": "D",
+        "text": "Hackers cannot obtain or bypass both factors required for two-factor authentication."
+      },
+      {
+        "id": "E",
+        "text": "The company's sensitive data is currently stored in password-protected accounts."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Roberts claims two-factor authentication will eliminate breaches by preventing password-based access. This requires assuming password theft is the primary current breach method.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If breaches occur through other methods, preventing password access won't eliminate all breaches."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Employee compliance affects implementation success but isn't required for the logical claim about elimination."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is a general premise rather than a specific assumption needed for this argument."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "While important for security effectiveness, this doesn't address whether password theft is the main current threat."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Data storage methods don't affect whether preventing password access eliminates breaches."
+          }
+        ],
+        "strategy_tips": "For arguments claiming a solution will completely eliminate a problem, identify what aspect of the problem must be dominant."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "cybersecurity",
+        "complete-elimination"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-011",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "The mayor announced that the new bike-sharing program will reduce traffic congestion downtown because commuters will choose bicycles over cars for short trips. The program will place 200 bikes at 20 stations throughout the downtown area. The mayor's conclusion assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Downtown commuters currently make a significant number of short trips by car."
+      },
+      {
+        "id": "B",
+        "text": "The bike stations will be conveniently located near major destinations."
+      },
+      {
+        "id": "C",
+        "text": "Weather conditions will not prevent regular bicycle use throughout the year."
+      },
+      {
+        "id": "D",
+        "text": "The 200 bicycles will be sufficient to meet demand from interested users."
+      },
+      {
+        "id": "E",
+        "text": "Bicycle sharing programs in other cities have successfully reduced traffic congestion."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "The mayor claims bikes will reduce congestion by replacing car trips. This requires assuming people currently make car trips that could be replaced by bikes.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If commuters don't currently drive for short trips, switching to bikes won't reduce car traffic."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Convenient location helps the program succeed but isn't logically necessary for the basic causal claim."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Year-round usage affects the degree of impact but not whether any impact occurs."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Adequate bike supply is practically important but doesn't affect the substitution logic."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Success in other cities provides support but isn't necessary for this specific causal argument."
+          }
+        ],
+        "strategy_tips": "For substitution arguments, identify what current behavior must exist to be replaced by the proposed alternative."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "transportation-policy",
+        "behavioral-substitution"
+      ],
+      "estimated_time_sec": 80,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-012",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "University administrator Phillips argues that requiring all students to take a financial literacy course will reduce student loan defaults after graduation. She notes that many graduates struggle with debt management and loan repayment. Phillips' reasoning depends on which assumption?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Current financial literacy education at the university is inadequate or nonexistent."
+      },
+      {
+        "id": "B",
+        "text": "Students who default on loans lack sufficient financial knowledge rather than face unavoidable economic hardship."
+      },
+      {
+        "id": "C",
+        "text": "A single required course provides sufficient time to teach practical debt management skills."
+      },
+      {
+        "id": "D",
+        "text": "Students will retain and apply financial knowledge learned during their college years."
+      },
+      {
+        "id": "E",
+        "text": "Financial literacy courses have proven effective at reducing loan defaults at other universities."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "The argument claims education will reduce defaults. This assumes defaults result from lack of knowledge rather than external economic factors beyond education's influence.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Current education adequacy doesn't affect whether new education will prevent defaults."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. If defaults result from economic hardship rather than ignorance, education won't reduce them."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Course length affects education quality but doesn't address the fundamental cause of defaults."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Knowledge retention is important for education effectiveness but secondary to the causation issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "External evidence supports the argument but isn't logically necessary for the reasoning."
+          }
+        ],
+        "strategy_tips": "When an argument proposes education as a solution, consider whether the problem stems from lack of knowledge or other causes."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "education-policy",
+        "causal-attribution"
+      ],
+      "estimated_time_sec": 100,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-013",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Sports journalist Kim predicts that the new salary cap will make professional basketball more competitive because wealthy teams will no longer be able to acquire all the best players. Kim's prediction assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The current lack of competitiveness is primarily due to unequal distribution of talented players."
+      },
+      {
+        "id": "B",
+        "text": "All teams will spend up to the maximum allowed under the salary cap."
+      },
+      {
+        "id": "C",
+        "text": "The best players are currently concentrated on a few wealthy teams."
+      },
+      {
+        "id": "D",
+        "text": "Teams will not find alternative ways to attract top players within salary cap constraints."
+      },
+      {
+        "id": "E",
+        "text": "Player salaries are the primary factor in athletes' team selection decisions."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Kim predicts salary caps will increase competitiveness by redistributing talent. This assumes that talent concentration is the main factor reducing current competitiveness.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If other factors (coaching, management, etc.) cause the competitiveness problem, redistributing talent won't solve it."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Maximum spending by all teams isn't necessary for talent redistribution to occur."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This describes current talent distribution but doesn't establish the connection to competitiveness."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Alternative attraction methods could limit the cap's effectiveness but don't affect the basic competitiveness assumption."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Salary importance affects how redistribution occurs but not whether redistribution improves competitiveness."
+          }
+        ],
+        "strategy_tips": "For predictions about policy effects, identify what current problem the policy must address to achieve the predicted outcome."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "sports-policy",
+        "competitive-balance"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-014",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Marketing director Torres believes that switching from plastic to biodegradable packaging will increase sales because environmentally conscious consumers will prefer products with sustainable packaging. The company's customer surveys show that 78% of respondents express concern about environmental issues. Torres' argument assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Biodegradable packaging costs will not significantly increase the product's retail price."
+      },
+      {
+        "id": "B",
+        "text": "Environmentally concerned consumers will translate their stated concerns into purchasing decisions."
+      },
+      {
+        "id": "C",
+        "text": "The company's competitors are not already using biodegradable packaging."
+      },
+      {
+        "id": "D",
+        "text": "Biodegradable packaging will not negatively affect product quality or shelf life."
+      },
+      {
+        "id": "E",
+        "text": "The 78% of environmentally concerned consumers represents the majority of the company's target market."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "Torres uses survey data showing environmental concern to predict purchasing behavior. This requires assuming stated concerns translate into actual buying decisions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Cost impact affects feasibility but not the basic assumption about consumer preference driving sales."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. Environmental concern doesn't automatically lead to changed purchasing behavior - many factors influence buying decisions."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Competitor actions affect competitive advantage but don't determine whether environmental preference increases this company's sales."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Product quality considerations could affect the decision but don't address the consumer preference assumption."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "The percentage of concerned consumers doesn't matter if those consumers don't act on their concerns when purchasing."
+          }
+        ],
+        "strategy_tips": "Be wary of arguments that assume stated preferences or attitudes will directly translate into behavior without considering other influencing factors."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "consumer-behavior",
+        "attitude-behavior-gap"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-015",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "The library director claims that extending weekend hours will significantly increase book circulation because many working people cannot visit the library during current weekday-only hours. However, the extended weekend service will require hiring additional staff at premium weekend pay rates. The director's argument assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The increased circulation revenue will offset the additional staffing costs."
+      },
+      {
+        "id": "B",
+        "text": "Working people constitute a substantial portion of the library's potential user base."
+      },
+      {
+        "id": "C",
+        "text": "Current users will not decrease their weekday visits due to increased weekend availability."
+      },
+      {
+        "id": "D",
+        "text": "Weekend library users will check out books rather than simply use library computers or study spaces."
+      },
+      {
+        "id": "E",
+        "text": "Other activities competing for weekend time will not prevent working people from visiting the library."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "The director predicts significant circulation increases from serving working people on weekends. This assumes working people represent a large enough group to create significant impact.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Cost-benefit analysis is important for decision-making but not required for the circulation prediction itself."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. If working people are a small portion of potential users, serving them won't significantly increase circulation."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "User substitution could affect net change but doesn't impact the basic assumption about working people's impact."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "While important for circulation specifically, this doesn't address whether the target group is large enough for significant impact."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Weekend competition affects utilization rates but not the fundamental assumption about the potential user base size."
+          }
+        ],
+        "strategy_tips": "When arguments predict 'significant' effects from targeting specific groups, consider whether those groups are large enough to create the predicted impact."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "service-expansion",
+        "user-base-size"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-016",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Technology blogger Anderson argues that the new smartwatch will fail commercially because it requires daily charging, unlike competing devices that need charging only weekly. Anderson claims busy professionals will find daily charging inconvenient. Anderson's prediction rests on which assumption?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Busy professionals constitute the primary target market for smartwatches."
+      },
+      {
+        "id": "B",
+        "text": "Daily charging represents a significant inconvenience compared to weekly charging."
+      },
+      {
+        "id": "C",
+        "text": "The smartwatch offers no advantages that would offset the charging inconvenience."
+      },
+      {
+        "id": "D",
+        "text": "Competing devices with weekly charging are readily available and similarly priced."
+      },
+      {
+        "id": "E",
+        "text": "Professional users primarily make purchasing decisions based on convenience factors rather than features."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "Anderson predicts failure based on charging frequency difference. This requires assuming the frequency difference is meaningful enough to influence purchase decisions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "While the target market matters, the assumption applies regardless of who the primary users are."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. If daily vs. weekly charging isn't perceived as significantly different, it won't drive purchase decisions."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Offsetting advantages could mitigate the charging issue but aren't necessary for the basic inconvenience argument."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Alternative availability supports the prediction but doesn't establish that charging frequency matters to consumers."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Decision-making priorities affect the outcome but don't establish that the charging difference is significant."
+          }
+        ],
+        "strategy_tips": "For arguments based on comparative inconvenience, question whether the difference is meaningful enough to influence behavior."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "product-failure",
+        "comparative-inconvenience"
+      ],
+      "estimated_time_sec": 85,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-017",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Economic analyst Green contends that the proposed minimum wage increase will reduce employment opportunities for entry-level workers because employers will hire fewer people rather than pay higher wages. Green's reasoning assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Employers currently hire the optimal number of entry-level workers at present wage levels."
+      },
+      {
+        "id": "B",
+        "text": "Entry-level workers' productivity levels justify the current minimum wage but not the proposed higher wage."
+      },
+      {
+        "id": "C",
+        "text": "Employers cannot offset wage increases through other cost reductions or productivity improvements."
+      },
+      {
+        "id": "D",
+        "text": "The demand for entry-level workers is sufficiently sensitive to wage costs that higher wages will reduce hiring."
+      },
+      {
+        "id": "E",
+        "text": "Alternative employment options are not available to workers who lose entry-level positions."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "D"
+      },
+      "explanations": {
+        "general": "Green predicts employment reduction from wage increases. This assumes employer demand for workers is responsive enough to wage costs that higher costs will reduce hiring.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Current hiring optimality doesn't affect how employers will respond to mandatory wage increases."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Productivity justification is one factor but doesn't capture the broader demand responsiveness assumption."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Alternative cost management could affect the outcome but doesn't address the fundamental demand assumption."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Correct. If labor demand is inelastic (not sensitive to wage changes), higher wages won't reduce hiring significantly."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Worker alternatives affect unemployment consequences but not whether initial job loss occurs."
+          }
+        ],
+        "strategy_tips": "For economic predictions about behavioral responses to policy changes, identify assumptions about how responsive the behavior is to the policy variable."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "economic-policy",
+        "labor-demand-elasticity"
+      ],
+      "estimated_time_sec": 100,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-018",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Medical researcher Taylor argues that the new screening test will save lives by detecting cancer earlier in high-risk patients. The test has a 95% accuracy rate and can identify tumors six months sooner than current methods. Taylor's conclusion assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "High-risk patients will comply with recommended screening schedules."
+      },
+      {
+        "id": "B",
+        "text": "Earlier detection by six months leads to significantly improved treatment outcomes."
+      },
+      {
+        "id": "C",
+        "text": "The 5% false positive rate will not cause harmful unnecessary treatments."
+      },
+      {
+        "id": "D",
+        "text": "Current screening methods are inadequate for detecting early-stage cancers."
+      },
+      {
+        "id": "E",
+        "text": "The cost of the new screening test is reasonable compared to treatment savings."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "Taylor claims earlier detection will save lives. This requires assuming the six-month head start provides clinically meaningful benefits for patient outcomes.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Patient compliance affects implementation but doesn't establish whether earlier detection improves outcomes."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. If six months earlier detection doesn't improve outcomes, the test won't save lives despite its accuracy."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "False positives are important for overall benefit assessment but don't affect the core timing assumption."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Current method adequacy doesn't determine whether earlier detection improves outcomes."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Cost considerations affect adoption but not the clinical effectiveness of early detection."
+          }
+        ],
+        "strategy_tips": "For medical arguments about early detection benefits, consider whether the timing difference translates into clinical improvements."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "medical-screening",
+        "temporal-benefit"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-019",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Urban planner Wilson proposes that creating more pedestrian-only zones will revitalize the downtown shopping district because foot traffic will increase when people can walk freely without vehicle interference. Wilson's argument depends on which assumption?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Current vehicle traffic is discouraging people from walking in the downtown area."
+      },
+      {
+        "id": "B",
+        "text": "Downtown businesses depend primarily on foot traffic rather than vehicle-accessible customers."
+      },
+      {
+        "id": "C",
+        "text": "Pedestrian zones in other cities have successfully revitalized their shopping districts."
+      },
+      {
+        "id": "D",
+        "text": "Alternative parking will be available near the pedestrian-only zones."
+      },
+      {
+        "id": "E",
+        "text": "The downtown shopping district currently lacks sufficient pedestrian infrastructure."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Wilson claims removing vehicles will increase foot traffic, which will revitalize shopping. This assumes vehicles are currently deterring pedestrian activity.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If vehicles aren't currently discouraging walking, removing them won't increase foot traffic significantly."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "While relevant to revitalization, this doesn't address whether foot traffic will actually increase."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "External success stories support the proposal but aren't necessary for the logical argument."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Parking availability affects implementation feasibility but doesn't determine whether foot traffic increases."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Current infrastructure adequacy doesn't affect whether removing vehicles increases pedestrian activity."
+          }
+        ],
+        "strategy_tips": "For arguments claiming removal of barriers will increase activity, identify what must be true about current barrier effects."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "urban-planning",
+        "barrier-removal"
+      ],
+      "estimated_time_sec": 85,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-020",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Education consultant Martinez believes that implementing year-round schooling will improve student academic performance because students will retain more knowledge without the long summer break that causes learning loss. Martinez's reasoning assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Students currently experience significant learning loss during summer vacations."
+      },
+      {
+        "id": "B",
+        "text": "Year-round schedules provide the same total instructional time as traditional calendars."
+      },
+      {
+        "id": "C",
+        "text": "Teachers and students will adapt successfully to the year-round schedule."
+      },
+      {
+        "id": "D",
+        "text": "The shorter breaks in year-round scheduling will not cause learning loss."
+      },
+      {
+        "id": "E",
+        "text": "Academic performance depends primarily on knowledge retention rather than other factors."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Martinez claims year-round school will improve performance by reducing learning loss from summer breaks. This requires assuming significant learning loss currently occurs during summers.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If students don't currently lose significant learning over summer, eliminating summer break won't improve performance."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Equal instructional time ensures fair comparison but doesn't establish that summer learning loss is the current problem."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Successful adaptation affects implementation but not the logical connection between summer break and learning loss."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "While relevant, this is less critical than establishing that current long breaks cause the problem."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Knowledge retention importance doesn't establish that summer break currently undermines retention."
+          }
+        ],
+        "strategy_tips": "For arguments proposing to solve specific problems, verify that the proposed solution addresses an actual existing problem."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "education-policy",
+        "problem-solution-fit"
+      ],
+      "estimated_time_sec": 85,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-021",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Film critic Johnson argues that streaming services will ultimately replace movie theaters because the convenience of home viewing outweighs the social experience of theater attendance for most people. Johnson cites the rapid growth in streaming subscriptions over the past five years. Johnson's prediction assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Streaming technology will continue to improve picture and sound quality."
+      },
+      {
+        "id": "B",
+        "text": "The cost of theater tickets will continue to increase relative to streaming subscriptions."
+      },
+      {
+        "id": "C",
+        "text": "Consumer preferences that drove past streaming growth will continue to prioritize convenience over social experience."
+      },
+      {
+        "id": "D",
+        "text": "Movie theaters will not adapt their offerings to compete more effectively with home viewing."
+      },
+      {
+        "id": "E",
+        "text": "The social experience of theater attendance is less important to consumers than previously believed."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "C"
+      },
+      "explanations": {
+        "general": "Johnson uses past streaming growth to predict theater replacement based on convenience preferences. This assumes current consumer priorities will persist and continue driving market changes.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Technology improvements could support the trend but aren't necessary for the preference-based argument."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Cost factors could influence the outcome but don't address the core assumption about consumer priorities."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Correct. If consumer preferences shift back toward valuing social experience, convenience won't drive theater replacement."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Theater adaptation could affect competition but doesn't determine whether convenience preferences continue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Past underestimation of social value doesn't predict future preference stability."
+          }
+        ],
+        "strategy_tips": "When arguments extrapolate from past trends, consider whether the underlying preferences driving those trends will remain stable."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "market-prediction",
+        "preference-stability"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-022",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Environmental engineer Clark claims that installing green roofs on downtown office buildings will significantly reduce urban heat island effects because vegetation absorbs heat and provides cooling through evapotranspiration. Clark notes that downtown temperatures average 4-6 degrees higher than surrounding areas. Clark's argument depends on which assumption?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Office buildings are major contributors to the current urban heat island effect."
+      },
+      {
+        "id": "B",
+        "text": "Green roof technology is cost-effective compared to alternative cooling solutions."
+      },
+      {
+        "id": "C",
+        "text": "Building owners will voluntarily install green roofs or be required to do so by regulation."
+      },
+      {
+        "id": "D",
+        "text": "The cooling effects from green roofs will scale up sufficiently to impact citywide temperatures."
+      },
+      {
+        "id": "E",
+        "text": "Current urban heat island effects cause significant problems that justify intervention."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "D"
+      },
+      "explanations": {
+        "general": "Clark argues individual green roofs will significantly reduce citywide heat island effects. This assumes localized cooling benefits will aggregate into meaningful citywide temperature changes.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Building contribution to heat island effects supports targeting them but doesn't ensure aggregate impact."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Cost-effectiveness affects adoption but not whether the cooling mechanism works at city scale."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Implementation methods affect feasibility but not the scaling assumption."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Correct. Individual building cooling must aggregate sufficiently to affect the 4-6 degree citywide temperature difference."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Problem significance justifies action but doesn't address whether the solution scales appropriately."
+          }
+        ],
+        "strategy_tips": "For arguments claiming local interventions will have system-wide effects, consider whether the scaling assumption is justified."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "environmental-engineering",
+        "scaling-effects"
+      ],
+      "estimated_time_sec": 100,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-023",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Social media analyst Roberts predicts that the new privacy regulations will cause users to abandon the platform because the opt-in consent requirements will be too cumbersome for casual users. Roberts notes that similar regulations reduced user engagement on other platforms by 15-20%. Roberts' prediction assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Users prioritize convenience over privacy protection when using social media platforms."
+      },
+      {
+        "id": "B",
+        "text": "The platform's user base consists primarily of casual users rather than committed regular users."
+      },
+      {
+        "id": "C",
+        "text": "Alternative social media platforms with fewer privacy requirements will be available to users."
+      },
+      {
+        "id": "D",
+        "text": "The consent process cannot be streamlined to reduce user burden while maintaining compliance."
+      },
+      {
+        "id": "E",
+        "text": "The platform's unique features are not compelling enough to retain users despite consent inconvenience."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Roberts predicts user abandonment due to consent process inconvenience. This assumes users will choose convenience over privacy protection, even when given the choice.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If users strongly value privacy protection, they might accept consent inconvenience rather than abandon the platform."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "User base composition affects the scale of impact but doesn't establish the basic convenience-privacy trade-off assumption."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Alternative platforms provide exit options but don't determine user willingness to tolerate consent processes."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Process optimization possibilities don't affect the core assumption about user priorities."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Platform features could offset convenience concerns but don't establish the basic user priority assumption."
+          }
+        ],
+        "strategy_tips": "For predictions about user behavior changes, identify assumptions about user priorities and willingness to accept trade-offs."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "user-behavior",
+        "privacy-convenience-tradeoff"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-024",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Public health director Kim argues that implementing calorie labeling requirements for restaurant menu items will reduce obesity rates because consumers will make healthier choices when informed about caloric content. Kim cites studies showing 60% of consumers want calorie information available. Kim's argument assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Consumers currently underestimate the caloric content of restaurant meals."
+      },
+      {
+        "id": "B",
+        "text": "Caloric awareness will translate into actual changes in food ordering behavior."
+      },
+      {
+        "id": "C",
+        "text": "Restaurant compliance with calorie labeling requirements will be consistent and accurate."
+      },
+      {
+        "id": "D",
+        "text": "Consumers who want calorie information represent those most likely to change their behavior."
+      },
+      {
+        "id": "E",
+        "text": "Reducing caloric intake is the most effective approach to addressing obesity."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "Kim claims information availability will lead to healthier choices and reduced obesity. This assumes consumers will act on calorie information rather than simply having access to it.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Current estimation accuracy affects information value but doesn't guarantee behavioral change when accurate information is provided."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. Wanting information and having information doesn't automatically lead to changed behavior - many factors influence food choices."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Implementation quality affects effectiveness but doesn't address the information-to-behavior link."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This helps target the right audience but doesn't establish that even interested consumers will change behavior."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Calorie reduction effectiveness addresses the intervention's mechanism but not consumer response to information."
+          }
+        ],
+        "strategy_tips": "Be careful with arguments that assume information provision automatically changes behavior - consider the information-to-action gap."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "public-health",
+        "information-behavior-gap"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-025",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Aviation expert Thompson claims that electric aircraft will revolutionize short-distance air travel within a decade because battery technology improvements are making electric propulsion viable for flights under 300 miles. Thompson notes that battery energy density has doubled in the past five years. Thompson's prediction rests on which assumption?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Current battery technology improvements will continue at the same rate for the next decade."
+      },
+      {
+        "id": "B",
+        "text": "Short-distance flights represent a significant portion of the commercial aviation market."
+      },
+      {
+        "id": "C",
+        "text": "Electric aircraft will be cost-competitive with conventional aircraft for short flights."
+      },
+      {
+        "id": "D",
+        "text": "Regulatory authorities will approve electric aircraft for commercial passenger service."
+      },
+      {
+        "id": "E",
+        "text": "Airlines will adopt electric aircraft technology once it becomes technically feasible."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Thompson extrapolates from past battery improvements to predict aviation revolution within a decade. This assumes the historical rate of improvement will continue sufficiently long to enable revolution.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If battery improvement slows significantly, the timeline for revolutionary change might be much longer than predicted."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Market size affects impact scale but doesn't determine whether the technological revolution will occur."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Cost competitiveness affects adoption rates but doesn't determine whether technical capability enables revolution."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulatory approval affects implementation but not the underlying technological revolution assumption."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Industry adoption affects revolution timing but requires prior technological feasibility through continued battery improvement."
+          }
+        ],
+        "strategy_tips": "When arguments extrapolate technological trends, consider whether past rates of improvement can be assumed to continue."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "technological-prediction",
+        "trend-extrapolation"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-026",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Corporate trainer Lee argues that mandatory workplace diversity training will improve employee relations and reduce discrimination complaints because employees will develop better understanding of colleagues from different backgrounds. Lee's argument assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Current employee relations problems stem primarily from lack of understanding rather than intentional discrimination."
+      },
+      {
+        "id": "B",
+        "text": "Employees will approach diversity training with genuine openness to learning rather than resistance."
+      },
+      {
+        "id": "C",
+        "text": "The training program content and delivery will be effective at building understanding."
+      },
+      {
+        "id": "D",
+        "text": "Improved understanding between colleagues will translate into measurably better workplace behavior."
+      },
+      {
+        "id": "E",
+        "text": "Discrimination complaints accurately reflect the level of workplace discrimination problems."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Lee claims training will improve relations by building understanding. This assumes current problems result from lack of understanding that education can address, rather than deeper issues.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If problems stem from intentional bias or systemic issues rather than misunderstanding, education won't solve them."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Employee receptiveness affects training effectiveness but doesn't address what underlying problems training can solve."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Training quality is important for success but doesn't establish whether understanding addresses the root causes."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Understanding-to-behavior translation is important but secondary to whether understanding addresses the core problem."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Complaint accuracy affects measurement but not the fundamental assumption about what causes workplace problems."
+          }
+        ],
+        "strategy_tips": "When arguments propose education as a solution to social problems, examine assumptions about the root causes of those problems."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "workplace-training",
+        "problem-causation"
+      ],
+      "estimated_time_sec": 105,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-027",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Agricultural economist Davis contends that vertical farming will become economically viable for staple crops within five years because LED lighting costs have decreased by 80% over the past decade and continue falling. Davis notes that energy costs represent 60% of current vertical farming expenses. Davis' conclusion assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "LED lighting cost reductions will continue at the current rate for the next five years."
+      },
+      {
+        "id": "B",
+        "text": "Reducing energy costs by continuing LED improvements will make vertical farming cost-competitive with traditional agriculture."
+      },
+      {
+        "id": "C",
+        "text": "Other vertical farming costs besides energy will not increase significantly to offset lighting savings."
+      },
+      {
+        "id": "D",
+        "text": "Staple crops can be grown successfully using current vertical farming techniques."
+      },
+      {
+        "id": "E",
+        "text": "Consumer demand for vertically farmed products will support economic viability."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "Davis argues LED cost reductions will make vertical farming viable. This requires assuming continued energy cost reduction will close the economic gap with traditional farming.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Rate continuation is important but doesn't establish whether any reduction level achieves competitiveness."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. Even dramatic LED cost reductions might still leave vertical farming more expensive than traditional methods."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Other cost stability is important but secondary to whether energy savings achieve overall competitiveness."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Technical feasibility is necessary but doesn't address the economic viability assumption."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Market demand affects viability but doesn't determine whether cost reductions make the economics work."
+          }
+        ],
+        "strategy_tips": "For economic viability arguments based on cost reductions, consider whether the reductions are sufficient to achieve competitive position."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "economic-viability",
+        "cost-competitiveness"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-028",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Technology ethicist White argues that artificial intelligence systems should be required to provide explanations for their decisions because users have a right to understand how conclusions that affect them are reached. White's position assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Current AI systems are capable of generating meaningful explanations for their decision-making processes."
+      },
+      {
+        "id": "B",
+        "text": "Users will be able to understand and effectively utilize AI-generated explanations."
+      },
+      {
+        "id": "C",
+        "text": "The right to explanation is more important than potential decreases in AI system accuracy that might result from explanation requirements."
+      },
+      {
+        "id": "D",
+        "text": "AI systems make decisions that significantly impact individuals' lives in ways that justify explanation requirements."
+      },
+      {
+        "id": "E",
+        "text": "Explanation requirements will not make AI development prohibitively expensive or technically impractical."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "D"
+      },
+      "explanations": {
+        "general": "White argues for explanation requirements based on user rights. This assumes AI decisions have sufficient impact on users to justify the burden of mandatory explanations.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Technical capability affects implementation but doesn't establish whether the explanation right exists."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "User comprehension affects explanation effectiveness but not whether the right to explanation exists."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is a value judgment that could support the position but isn't logically necessary for the rights-based argument."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Correct. If AI decisions don't significantly impact users, the burden of explanation requirements wouldn't be justified by user rights."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Implementation costs affect feasibility but don't determine whether users have the right to explanations."
+          }
+        ],
+        "strategy_tips": "For rights-based arguments, consider what conditions must exist to justify the claimed right and its associated burdens."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "technology-ethics",
+        "rights-justification"
+      ],
+      "estimated_time_sec": 100,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-029",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Retail analyst Brown predicts that physical bookstores will experience a resurgence because younger consumers increasingly value tangible, tactile shopping experiences over digital alternatives. Brown cites surveys showing 65% of people under 30 prefer handling products before purchasing. Brown's prediction assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "The preference for tactile experiences will outweigh other factors like convenience and price in book purchasing decisions."
+      },
+      {
+        "id": "B",
+        "text": "Younger consumers represent a sufficient market segment to drive overall bookstore resurgence."
+      },
+      {
+        "id": "C",
+        "text": "Physical bookstores will successfully adapt their offerings to appeal to younger consumers."
+      },
+      {
+        "id": "D",
+        "text": "The current decline in bookstore visits is primarily due to lack of tactile experience rather than other factors."
+      },
+      {
+        "id": "E",
+        "text": "Survey responses about shopping preferences accurately predict actual purchasing behavior."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Brown uses tactile preference data to predict bookstore resurgence. This assumes tactile preferences will be the dominant factor in purchasing decisions despite competing considerations.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. Even strong tactile preferences might not overcome online advantages like lower prices, wider selection, and convenience."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Market size is important but doesn't address whether tactile preferences will drive bookstore visits."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Store adaptation affects success but assumes tactile preferences will motivate store visits in the first place."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "While relevant to the solution-problem fit, this doesn't address whether tactile preferences override other purchase factors."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Preference-behavior alignment is important but secondary to whether tactile preferences dominate decision-making."
+          }
+        ],
+        "strategy_tips": "When arguments predict market changes based on consumer preferences, consider whether those preferences will be decisive among multiple competing factors."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "retail-prediction",
+        "preference-dominance"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-030",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Cybersecurity specialist Garcia argues that quantum encryption will be essential for protecting sensitive data within the next decade because quantum computers will be able to break current encryption methods. Garcia notes that quantum computing capabilities are advancing rapidly. Garcia's argument assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Quantum computers capable of breaking current encryption will be developed within ten years."
+      },
+      {
+        "id": "B",
+        "text": "Organizations will not develop alternative non-quantum encryption methods that are secure against quantum attacks."
+      },
+      {
+        "id": "C",
+        "text": "Quantum encryption technology will be mature and commercially available within the required timeframe."
+      },
+      {
+        "id": "D",
+        "text": "The cost of quantum encryption will be reasonable compared to the value of protected data."
+      },
+      {
+        "id": "E",
+        "text": "Current encryption methods provide adequate security and are worth protecting against quantum threats."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Garcia claims quantum encryption will be essential due to quantum computing threats within a decade. This requires assuming quantum computers will pose actual threats within that timeframe.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If quantum computers can't break current encryption within ten years, quantum encryption isn't urgently needed."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Alternative solutions could change the landscape but don't affect whether quantum threats materialize within the decade."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Quantum encryption availability is necessary for the solution but doesn't establish that the threat timeline assumption is correct."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Cost considerations affect adoption but don't determine whether quantum threats emerge within the predicted timeframe."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Current encryption value doesn't affect the timeline assumption about when quantum threats materialize."
+          }
+        ],
+        "strategy_tips": "For predictions about technological necessities, focus on assumptions about the timeline when the motivating threat or opportunity will actually materialize."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "cybersecurity",
+        "threat-timeline"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-031",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Climate researcher Jones predicts that carbon capture technology will become crucial for meeting climate targets because renewable energy adoption alone cannot reduce emissions quickly enough to prevent dangerous warming. Jones notes that global emissions must be cut by 50% within eight years. Jones' argument assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Carbon capture technology will become cost-effective and scalable within the required timeframe."
+      },
+      {
+        "id": "B",
+        "text": "Renewable energy deployment rates cannot be accelerated beyond current projections."
+      },
+      {
+        "id": "C",
+        "text": "Other emission reduction strategies besides renewable energy and carbon capture are insufficient."
+      },
+      {
+        "id": "D",
+        "text": "The 50% emission reduction target within eight years is both necessary and achievable."
+      },
+      {
+        "id": "E",
+        "text": "Current emission trends will continue without intervention beyond renewable energy adoption."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "Jones claims carbon capture is needed because renewables alone are insufficient. This assumes renewable deployment cannot be accelerated enough to meet targets independently.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Carbon capture feasibility is necessary for the proposed solution but doesn't support the claim that it's crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. If renewable adoption could be dramatically accelerated, carbon capture might not be crucial for meeting targets."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Other strategy limitations support the argument but aren't necessary for the specific renewable-insufficiency claim."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Target validity affects the urgency but doesn't determine whether renewables alone can meet whatever target exists."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Current trends provide context but don't establish renewable energy deployment limitations."
+          }
+        ],
+        "strategy_tips": "When arguments claim certain approaches are insufficient, focus on assumptions about limitations or constraints on those approaches."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "climate-policy",
+        "solution-insufficiency"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-032",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Transportation planner Mitchell argues that autonomous vehicle technology will solve urban traffic congestion because self-driving cars can travel more closely together and coordinate their movements to optimize traffic flow. Mitchell notes that human reaction time limitations cause current following distance requirements. Mitchell's reasoning assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Current traffic congestion is primarily caused by inefficient vehicle spacing and coordination rather than insufficient road capacity."
+      },
+      {
+        "id": "B",
+        "text": "Autonomous vehicles will be adopted widely enough to create coordinated traffic flow effects."
+      },
+      {
+        "id": "C",
+        "text": "The technology for vehicle coordination and close following will be reliable and safe."
+      },
+      {
+        "id": "D",
+        "text": "Road infrastructure will not require significant modifications to support autonomous vehicle coordination."
+      },
+      {
+        "id": "E",
+        "text": "Autonomous vehicles will not create new forms of traffic problems that offset efficiency gains."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Mitchell claims autonomous vehicles will solve congestion through better spacing and coordination. This assumes current congestion stems from these inefficiencies rather than fundamental capacity limits.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If congestion results from too many cars for available road space, better coordination won't solve the fundamental capacity problem."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Adoption rates affect implementation but don't determine whether the coordination approach addresses congestion causes."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Technology reliability is necessary for safety but doesn't address whether coordination solves congestion."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Infrastructure requirements affect implementation costs but not the fundamental assumption about congestion causes."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "New problems could limit benefits but don't affect the basic assumption about what causes current congestion."
+          }
+        ],
+        "strategy_tips": "When solutions target specific mechanisms of a problem, verify assumptions about whether those mechanisms are the primary cause of the problem."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "transportation-technology",
+        "problem-causation"
+      ],
+      "estimated_time_sec": 105,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-033",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Media studies professor Allen contends that subscription-based journalism will produce higher quality reporting than advertising-supported models because journalists will focus on serving subscribers rather than attracting advertiser-friendly content. Allen's argument assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Subscriber preferences align better with quality journalism standards than advertiser preferences do."
+      },
+      {
+        "id": "B",
+        "text": "Journalists currently compromise reporting quality to accommodate advertiser interests."
+      },
+      {
+        "id": "C",
+        "text": "Subscription revenue will be sufficient to support comprehensive news operations."
+      },
+      {
+        "id": "D",
+        "text": "Subscribers will be willing to pay for higher quality journalism rather than consume free alternatives."
+      },
+      {
+        "id": "E",
+        "text": "Publishers will pass the benefits of subscription independence on to journalists rather than retain them."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Allen claims subscription funding will improve quality by changing the audience journalists serve. This assumes subscribers want higher quality journalism than advertisers do.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. If subscribers prefer sensational or biased content like advertisers might, changing the audience won't improve quality."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Current advertiser influence supports the need for change but doesn't establish that subscriber preferences are better."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Revenue adequacy affects sustainability but not whether subscriber preferences drive quality improvements."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Subscriber willingness to pay is important for the model but doesn't determine whether their preferences improve quality."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Publisher behavior affects implementation but doesn't address whether subscriber preferences drive quality."
+          }
+        ],
+        "strategy_tips": "For arguments about improving outcomes by changing incentives, examine assumptions about whether the new incentives actually promote the desired outcomes."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "journalism-economics",
+        "incentive-alignment"
+      ],
+      "estimated_time_sec": 100,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-034",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Renewable energy consultant Parker claims that offshore wind farms will become the dominant source of electricity generation because they can operate at higher capacity factors than land-based wind or solar installations. Parker notes that offshore winds are more consistent and stronger than onshore alternatives. Parker's prediction assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Higher capacity factors will make offshore wind more cost-effective than alternative energy sources despite higher installation costs."
+      },
+      {
+        "id": "B",
+        "text": "Suitable offshore locations are available in sufficient quantity to meet electricity demand."
+      },
+      {
+        "id": "C",
+        "text": "Environmental and regulatory barriers will not prevent large-scale offshore wind development."
+      },
+      {
+        "id": "D",
+        "text": "Transmission infrastructure can be built to connect offshore wind farms to electricity grids economically."
+      },
+      {
+        "id": "E",
+        "text": "Offshore wind technology will continue to improve and become more reliable over time."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Parker uses capacity factor advantages to predict dominance. This assumes efficiency advantages will outweigh cost disadvantages to make offshore wind economically superior.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. Higher capacity factors don't guarantee dominance if offshore installations remain prohibitively expensive compared to alternatives."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Site availability affects implementation scale but doesn't establish whether capacity factors create economic advantage."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Regulatory barriers could prevent development but don't address the fundamental economic competitiveness assumption."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Transmission infrastructure is important for implementation but doesn't determine whether capacity factors drive economic dominance."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Technology improvement could support the prediction but doesn't address whether current capacity advantages create economic superiority."
+          }
+        ],
+        "strategy_tips": "When arguments predict market dominance based on technical advantages, consider whether those advantages translate into economic competitiveness."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "energy-markets",
+        "technical-economic-advantage"
+      ],
+      "estimated_time_sec": 95,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-035",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Food scientist Rodriguez argues that lab-grown meat will replace conventional animal agriculture within two decades because it can produce protein more efficiently while eliminating animal welfare concerns. Rodriguez notes that early lab-grown products have achieved cost parity with premium conventional meat. Rodriguez's argument assumes:",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Consumers will accept lab-grown meat as an equivalent substitute for conventional meat products."
+      },
+      {
+        "id": "B",
+        "text": "Lab-grown meat production costs will continue decreasing to achieve broader price competitiveness."
+      },
+      {
+        "id": "C",
+        "text": "Animal welfare concerns are significant enough to influence widespread consumer purchasing decisions."
+      },
+      {
+        "id": "D",
+        "text": "Regulatory authorities will approve lab-grown meat for mass market distribution."
+      },
+      {
+        "id": "E",
+        "text": "Lab-grown meat will achieve the same nutritional profile and taste as conventional meat."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Rodriguez predicts replacement of conventional agriculture despite noting only premium price parity. This assumes consumers will embrace lab-grown alternatives rather than reject them due to production method preferences.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. Even with cost and welfare advantages, many consumers might prefer 'natural' products and resist lab-grown alternatives."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Continued cost reduction supports adoption but doesn't address fundamental consumer acceptance issues."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Welfare concern significance affects one advantage but doesn't ensure overall consumer acceptance of the production method."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulatory approval is necessary but doesn't guarantee consumer market acceptance."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Product equivalence supports acceptability but doesn't address consumer attitudes toward the production process itself."
+          }
+        ],
+        "strategy_tips": "For predictions about product replacement, consider consumer psychology and acceptance barriers beyond technical or economic factors."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "food-technology",
+        "consumer-acceptance"
+      ],
+      "estimated_time_sec": 85,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-036",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "The city's new bike-sharing program will reduce downtown parking problems. Studies from similar cities show that bike-sharing programs decrease car usage by 15%. Therefore, implementing our program will free up significant parking spaces. The argument's conclusion depends on assuming which of the following?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Most people who use bike-sharing would otherwise drive downtown"
+      },
+      {
+        "id": "B",
+        "text": "The bike-sharing program will be popular with tourists and visitors"
+      },
+      {
+        "id": "C",
+        "text": "Other cities have similar downtown layouts to our city"
+      },
+      {
+        "id": "D",
+        "text": "The program will operate efficiently and remain well-maintained"
+      },
+      {
+        "id": "E",
+        "text": "Bike-sharing is more environmentally friendly than driving"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For assumption questions, identify what unstated premise the argument requires to be valid.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. Without this assumption, bike sharing might not reduce car usage and parking demand."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Tourist usage doesn't affect the parking argument."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "While helpful for comparison, not necessary for the parking conclusion."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Operational efficiency doesn't affect the parking assumption."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Environmental benefits aren't part of the parking argument."
+          }
+        ],
+        "strategy_tips": "Use the negation test: if negating the answer choice destroys the argument, it's a necessary assumption."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:54:20Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "necessary",
+        "bike-sharing",
+        "parking-policy"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:54:20Z",
+      "last_modified_date": "2025-09-12T23:54:20Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-037",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Online education is more effective than traditional classroom instruction because students can learn at their own pace. A recent survey found that 85% of online learners reported higher satisfaction with their educational experience compared to in-person classes. The argument assumes which of the following?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Student satisfaction correlates with educational effectiveness"
+      },
+      {
+        "id": "B",
+        "text": "Online education is less expensive than traditional classroom instruction"
+      },
+      {
+        "id": "C",
+        "text": "Most students prefer flexible scheduling options"
+      },
+      {
+        "id": "D",
+        "text": "Traditional classrooms cannot accommodate different learning paces"
+      },
+      {
+        "id": "E",
+        "text": "Online technology will continue to improve over time"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For assumption questions, identify what unstated premise the argument requires to be valid.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The argument uses satisfaction data to support an effectiveness claim."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Cost isn't mentioned in the effectiveness argument."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Preference for flexibility isn't necessary for the effectiveness claim."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "The argument doesn't require traditional classrooms to be completely inflexible."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Future improvements aren't relevant to current effectiveness claims."
+          }
+        ],
+        "strategy_tips": "Use the negation test: if negating the answer choice destroys the argument, it's a necessary assumption."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:54:20Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "survey-data",
+        "education",
+        "satisfaction-effectiveness"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:54:20Z",
+      "last_modified_date": "2025-09-12T23:54:20Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-038",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "The municipality's proposed bike-sharing program will reduce downtown parking problems. Research in similar cities show that bike-sharing programs decrease car usage by 15%. Therefore, implementing our program will free up significant parking spaces. The argument's conclusion depends on assuming which of the following?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Most people who use bike-sharing would otherwise drive downtown"
+      },
+      {
+        "id": "B",
+        "text": "The bike-sharing program will be popular with tourists and visitors"
+      },
+      {
+        "id": "C",
+        "text": "Other cities have similar downtown layouts to our city"
+      },
+      {
+        "id": "D",
+        "text": "The program will operate efficiently and remain well-maintained"
+      },
+      {
+        "id": "E",
+        "text": "Bike-sharing is more environmentally friendly than driving"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For assumption questions, identify what unstated premise the argument requires to be valid.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. Without this assumption, bike sharing might not reduce car usage and parking demand."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Tourist usage doesn't affect the parking argument."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "While helpful for comparison, not necessary for the parking conclusion."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Operational efficiency doesn't affect the parking assumption."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Environmental benefits aren't part of the parking argument."
+          }
+        ],
+        "strategy_tips": "Use the negation test: if negating the answer choice destroys the argument, it's a necessary assumption."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:54:20Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "necessary",
+        "bike-sharing",
+        "parking-policy"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:54:20Z",
+      "last_modified_date": "2025-09-12T23:54:20Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-039",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "Online education is more effective than traditional classroom instruction because students can learn at their own pace. A recent survey found that 85% of online learners reported higher satisfaction with their educational experience compared to in-person classes. The argument assumes which of the following?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Student satisfaction correlates with educational effectiveness"
+      },
+      {
+        "id": "B",
+        "text": "Online education is less expensive than traditional classroom instruction"
+      },
+      {
+        "id": "C",
+        "text": "Most students prefer flexible scheduling options"
+      },
+      {
+        "id": "D",
+        "text": "Traditional classrooms cannot accommodate different learning paces"
+      },
+      {
+        "id": "E",
+        "text": "Online technology will continue to improve over time"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For assumption questions, identify what unstated premise the argument requires to be valid.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The argument uses satisfaction data to support an effectiveness claim."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Cost isn't mentioned in the effectiveness argument."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Preference for flexibility isn't necessary for the effectiveness claim."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "The argument doesn't require traditional classrooms to be completely inflexible."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Future improvements aren't relevant to current effectiveness claims."
+          }
+        ],
+        "strategy_tips": "Use the negation test: if negating the answer choice destroys the argument, it's a necessary assumption."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:54:20Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "survey-data",
+        "education",
+        "satisfaction-effectiveness"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:54:20Z",
+      "last_modified_date": "2025-09-12T23:54:20Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-assum-040",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Assumption",
+    "question_text": "The municipality's proposed bike-sharing program will reduce downtown parking problems. Research in similar cities show that bike-sharing programs decrease car usage by 15%. Therefore, implementing our program will free up significant parking spaces. The argument's conclusion depends on assuming which of the following?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Most people who use bike-sharing would otherwise drive downtown"
+      },
+      {
+        "id": "B",
+        "text": "The bike-sharing program will be popular with tourists and visitors"
+      },
+      {
+        "id": "C",
+        "text": "Other cities have similar downtown layouts to our city"
+      },
+      {
+        "id": "D",
+        "text": "The program will operate efficiently and remain well-maintained"
+      },
+      {
+        "id": "E",
+        "text": "Bike-sharing is more environmentally friendly than driving"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For assumption questions, identify what unstated premise the argument requires to be valid.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. Without this assumption, bike sharing might not reduce car usage and parking demand."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Tourist usage doesn't affect the parking argument."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "While helpful for comparison, not necessary for the parking conclusion."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Operational efficiency doesn't affect the parking assumption."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Environmental benefits aren't part of the parking argument."
+          }
+        ],
+        "strategy_tips": "Use the negation test: if negating the answer choice destroys the argument, it's a necessary assumption."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:54:20Z"
+    },
+    "metadata": {
+      "tags": [
+        "assumption",
+        "necessary",
+        "bike-sharing",
+        "parking-policy"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:54:20Z",
+      "last_modified_date": "2025-09-12T23:54:20Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  }
+]

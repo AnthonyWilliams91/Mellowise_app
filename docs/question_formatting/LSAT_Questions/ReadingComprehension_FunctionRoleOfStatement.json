@@ -1,0 +1,3682 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-001",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-002",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-003",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-004",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-005",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-006",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-007",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-008",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-009",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-010",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-011",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-012",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-013",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-014",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-015",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-016",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-017",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-018",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-019",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-020",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-021",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-022",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-023",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-024",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-025",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-026",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-027",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-028",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-029",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-030",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-031",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-032",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-033",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-034",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-035",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-036",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-037",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-038",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-039",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-func-040",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Function / Role of Statement",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "statement function",
+        "contrast",
+        "transition",
+        "comparative-structure"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated, policymakers are grappling with regulation challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act. Meanwhile, the United States has favored a sector-specific approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "introduce a contrasting regulatory approach for comparison"
+      },
+      {
+        "id": "B",
+        "text": "provide supporting evidence for the EU's approach"
+      },
+      {
+        "id": "C",
+        "text": "criticize the US regulatory strategy"
+      },
+      {
+        "id": "D",
+        "text": "summarize the main argument of the passage"
+      },
+      {
+        "id": "E",
+        "text": "transition to a discussion of future regulatory needs"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Analyze how specific statements function within the passage's overall structure.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The word 'Meanwhile' signals a contrast with the EU approach just described."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look at transition words and consider what role the statement plays in the argument."
+      }
+    },
+    "question_text": "The phrase 'Meanwhile, the United States has favored a sector-specific approach' serves to"
+  }
+]

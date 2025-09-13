@@ -1,0 +1,3562 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-001",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-002",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-003",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-004",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-005",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-006",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-007",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-008",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-009",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-010",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-011",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-012",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-013",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-014",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-015",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-016",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-017",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-018",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-019",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-020",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-021",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-022",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-023",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-024",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-025",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-026",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-027",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-028",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-029",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-030",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-031",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-032",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-033",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-034",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-035",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-036",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "causation",
+        "alternative-explanation",
+        "business"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Company X's productivity increased 40% after implementing a four-day work week. The CEO concluded that shorter work weeks directly cause higher productivity. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Company X also upgraded its computer systems and software during the same period."
+      },
+      {
+        "id": "B",
+        "text": "Other companies have considered implementing four-day work weeks."
+      },
+      {
+        "id": "C",
+        "text": "Employee satisfaction surveys showed improved morale."
+      },
+      {
+        "id": "D",
+        "text": "The four-day work week reduced commuting costs for employees."
+      },
+      {
+        "id": "E",
+        "text": "Productivity was measured using the same metrics as before."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This alternative explanation weakens the causal claim about work week length."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-037",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-038",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-039",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-wk-040",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Weaken",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "weaken",
+        "correlation",
+        "confounding-variable",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Studies show that cities with more parks have lower crime rates. Therefore, building more parks will reduce crime in our city. Which one of the following, if true, most weakens the argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Wealthy neighborhoods tend to have both more parks and lower crime rates."
+      },
+      {
+        "id": "B",
+        "text": "Parks require ongoing maintenance and security."
+      },
+      {
+        "id": "C",
+        "text": "Other cities have successfully built new parks recently."
+      },
+      {
+        "id": "D",
+        "text": "The parks will include playgrounds and walking paths."
+      },
+      {
+        "id": "E",
+        "text": "Crime statistics are compiled by the police department."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evidence that makes the conclusion less likely or challenges key assumptions.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This suggests wealth is a confounding variable that explains both more parks and lower crime."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't address the main weaken issue."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't address the main weaken issue."
+          }
+        ],
+        "strategy_tips": "Find the answer that creates doubt about the conclusion or exposes flaws in reasoning."
+      }
+    }
+  }
+]

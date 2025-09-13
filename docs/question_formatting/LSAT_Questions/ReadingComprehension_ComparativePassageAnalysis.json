@@ -1,0 +1,3682 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-001",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-002",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-003",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-004",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-005",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-006",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-007",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-008",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-009",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-010",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-011",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-012",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-013",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-014",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-015",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-016",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-017",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-018",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-019",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-020",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-021",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-022",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-023",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-024",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-025",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-026",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-027",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-028",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-029",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-030",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-031",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-032",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-033",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-034",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-035",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-036",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-037",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-038",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-039",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-comp-040",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Comparative Passage Analysis",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "comparative analysis",
+        "renewable energy",
+        "government role",
+        "contrasting-views"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Passage A: The rapid advancement of renewable energy technology has made solar and wind power increasingly cost-competitive with fossil fuels. Government subsidies have accelerated this transition, but market forces alone are now sufficient to drive continued growth in renewable energy adoption.\\n\\nPassage B: While renewable energy costs have decreased, the transition away from fossil fuels faces significant challenges. Grid stability issues, energy storage limitations, and the existing infrastructure's dependence on traditional energy sources suggest that government support remains crucial for meaningful progress."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "assessment of whether government intervention is still necessary for renewable energy growth"
+      },
+      {
+        "id": "B",
+        "text": "views on the current cost-competitiveness of renewable energy"
+      },
+      {
+        "id": "C",
+        "text": "predictions about future technological developments"
+      },
+      {
+        "id": "D",
+        "text": "analysis of environmental benefits of renewable energy"
+      },
+      {
+        "id": "E",
+        "text": "discussion of specific renewable energy technologies"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Identify the main point of disagreement between the passages.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Passage A argues market forces are sufficient, while Passage B argues government support remains crucial."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for where the passages take different stances on the same issue."
+      }
+    },
+    "question_text": "The two passages differ primarily in their"
+  }
+]

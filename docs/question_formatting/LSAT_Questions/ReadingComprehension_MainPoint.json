@@ -1,0 +1,3682 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-001",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The rise of artificial intelligence in healthcare has generated both excitement and concern among medical professionals. Proponents argue that AI systems can analyze vast amounts of medical data more quickly and accurately than human physicians, potentially leading to earlier disease detection and more personalized treatment plans. These systems have already demonstrated success in areas such as radiology, where AI algorithms can identify cancerous tumors in medical imaging with accuracy rates comparable to or exceeding those of experienced radiologists.\n\nHowever, critics raise important questions about the integration of AI into medical practice. They point to the 'black box' problem—the inability to understand exactly how AI systems reach their conclusions. This lack of transparency could undermine the physician-patient relationship, which has traditionally been built on trust and clear communication about treatment decisions. Additionally, there are concerns about potential biases in AI systems, as these technologies learn from historical data that may reflect past inequities in healthcare delivery.\n\nDespite these concerns, the momentum behind AI adoption in healthcare appears unstoppable. Major hospitals are investing heavily in AI technologies, and regulatory bodies are beginning to establish frameworks for AI oversight. The key challenge moving forward will be finding ways to harness the benefits of AI while maintaining the human elements that are essential to compassionate medical care. Success will require ongoing collaboration between technologists, healthcare providers, and patients to ensure that AI enhances rather than replaces the fundamental aspects of healing."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "AI systems in healthcare, while promising, face significant challenges that must be addressed through collaboration between stakeholders."
+      },
+      {
+        "id": "B",
+        "text": "The adoption of AI in healthcare is inevitable despite valid concerns about transparency and bias in AI systems."
+      },
+      {
+        "id": "C",
+        "text": "AI technology has already proven more effective than human physicians in certain areas of medical diagnosis."
+      },
+      {
+        "id": "D",
+        "text": "The integration of AI into healthcare requires new regulatory frameworks to address potential risks and benefits."
+      },
+      {
+        "id": "E",
+        "text": "Healthcare AI systems must overcome the 'black box' problem before they can be widely adopted by medical professionals."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "The passage presents both benefits and concerns about AI in healthcare, concluding that success requires collaboration to harness benefits while maintaining essential human elements. This balanced view with emphasis on stakeholder collaboration represents the main point.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the balanced presentation of AI's promise and challenges, plus the key solution of stakeholder collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too strong. The passage doesn't claim adoption is inevitable, just that momentum exists."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. This focuses only on AI's current success, missing the broader discussion of challenges and solutions."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Too specific. Regulatory frameworks are mentioned but aren't the main focus of the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. The 'black box' problem is one concern among many, not the central focus."
+          }
+        ],
+        "strategy_tips": "For main point questions, look for the answer that encompasses the passage's overall argument without being too broad or too narrow. The correct answer should capture both the topic and the author's perspective."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "healthcare",
+        "technology",
+        "balanced-argument"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-002",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The concept of corporate social responsibility (CSR) has evolved dramatically over the past several decades. Initially viewed as a form of charitable giving or public relations, CSR has become an integral component of modern business strategy. Companies now recognize that their long-term success depends not only on financial performance but also on their impact on society and the environment.\n\nThis shift represents a fundamental change in how businesses understand their role in society. The traditional view held that a company's primary responsibility was to maximize shareholder value. However, stakeholder capitalism—which considers the interests of employees, customers, suppliers, communities, and the environment alongside shareholders—has gained significant traction among both corporate leaders and investors.\n\nThe benefits of robust CSR programs extend beyond moral imperatives. Research consistently shows that companies with strong sustainability practices and social programs often outperform their competitors in terms of employee satisfaction, customer loyalty, and even financial returns. Moreover, as consumers become increasingly conscious of corporate behavior, businesses that fail to demonstrate genuine commitment to social responsibility risk losing market share to more socially conscious competitors.\n\nYet challenges remain in implementing effective CSR programs. Critics argue that many corporate sustainability initiatives are merely 'greenwashing'—superficial efforts designed to improve public perception without meaningful change. The key to authentic CSR lies in integrating social and environmental considerations into core business operations rather than treating them as separate initiatives."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Corporate social responsibility has transformed from a peripheral concern to a strategic business imperative with measurable benefits."
+      },
+      {
+        "id": "B",
+        "text": "Companies that engage in greenwashing risk damage to their reputation and market position."
+      },
+      {
+        "id": "C",
+        "text": "Stakeholder capitalism has completely replaced the traditional focus on shareholder value maximization."
+      },
+      {
+        "id": "D",
+        "text": "Consumer awareness of corporate behavior is the primary driver of CSR adoption among businesses."
+      },
+      {
+        "id": "E",
+        "text": "The most effective CSR programs require companies to integrate social considerations into their core operations."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "The passage traces CSR's evolution from charitable giving to strategic imperative, emphasizing both the business case for CSR and its integration into core operations. The main point encompasses this transformation and its benefits.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's central theme of CSR's transformation from peripheral activity to strategic necessity with documented benefits."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too narrow. Greenwashing is mentioned as a challenge, not the main focus of the passage."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too strong. The passage says stakeholder capitalism has gained traction, not completely replaced shareholder focus."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Too narrow. Consumer awareness is one factor mentioned, but not presented as the primary driver."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. This addresses how to implement CSR effectively, not the passage's main point about CSR's overall evolution."
+          }
+        ],
+        "strategy_tips": "Look for the answer that captures the passage's overall trajectory and primary message, not just supporting details."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "business",
+        "corporate responsibility",
+        "evolution"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-003",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Recent archaeological discoveries have challenged traditional narratives about the development of early human societies. For decades, scholars assumed that complex civilizations emerged only after humans had mastered agriculture and established permanent settlements. The discovery of Göbekli Tepe in southeastern Turkey, however, has forced archaeologists to reconsider this timeline.\n\nGöbekli Tepe, dating to approximately 9600 BCE, predates Stonehenge by over 6,000 years and was constructed before the advent of agriculture in the region. The site consists of massive stone pillars arranged in circles, some weighing up to 16 tons, decorated with intricate carvings of animals and abstract symbols. The level of organization and craftsmanship required to build such a monument suggests that complex social structures existed among hunter-gatherer societies long before the agricultural revolution.\n\nThis discovery has profound implications for our understanding of human social evolution. It suggests that the drive to create monumental architecture and engage in complex ritual activities may have actually preceded and potentially catalyzed the development of agriculture, rather than following it. Some researchers propose that the need to maintain such sites and support the large gatherings they likely hosted could have motivated the domestication of plants and animals.\n\nWhile Göbekli Tepe remains unique among known archaeological sites, ongoing excavations continue to reveal evidence of sophisticated pre-agricultural societies across different regions. These findings collectively suggest that the path to civilization was far more complex and varied than previously believed."
+    },
+    "question_text": "The passage is primarily concerned with establishing which one of the following?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Göbekli Tepe represents the earliest known example of monumental architecture in human history."
+      },
+      {
+        "id": "B",
+        "text": "Archaeological evidence suggests that complex social organization preceded agriculture in human development."
+      },
+      {
+        "id": "C",
+        "text": "The construction of religious monuments was the primary factor that led to agricultural development."
+      },
+      {
+        "id": "D",
+        "text": "Traditional chronologies of human civilization require complete revision based on recent discoveries."
+      },
+      {
+        "id": "E",
+        "text": "Hunter-gatherer societies were more technologically advanced than previously recognized."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "B"
+      },
+      "explanations": {
+        "general": "The passage uses Göbekli Tepe as evidence to challenge the traditional view that agriculture preceded complex social organization. The main point is that archaeological evidence suggests complex societies existed before agriculture.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Too narrow. While Göbekli Tepe's age is important, the passage uses it to make a broader point about social development."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Correct. This captures the central argument that complex social organization existed among hunter-gatherers before agricultural development."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too strong. The passage suggests monument construction may have catalyzed agriculture, but doesn't claim it was the primary factor."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Too extreme. The passage suggests revision of traditional views, not complete overhaul of all chronologies."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Misses the point. The passage focuses on social organization, not technological advancement."
+          }
+        ],
+        "strategy_tips": "Focus on the central thesis that the author is trying to establish, using the specific example to support a broader claim."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "archaeology",
+        "social development",
+        "historical revision"
+      ],
+      "estimated_time_sec": 130,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-004",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-005",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-006",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-007",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-008",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-009",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-010",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-011",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-012",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-013",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-014",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-015",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-016",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-017",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-018",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-019",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-020",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-021",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-022",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-023",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-024",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-025",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-026",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-027",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-028",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-029",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-030",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-031",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-032",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-033",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-034",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-035",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-036",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-037",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-038",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-039",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "The emergence of artificial intelligence in medical diagnosis has sparked intense debate about the future role of human physicians. Proponents argue that AI systems can process vast amounts of medical data more quickly and consistently than human doctors, potentially reducing diagnostic errors and improving patient outcomes. AI algorithms have already demonstrated remarkable accuracy in interpreting medical images, with some studies showing performance equal to or exceeding that of experienced specialists.\\n\\nSkeptics, however, raise important concerns about the limitations of current AI technology. They point out that medical diagnosis involves more than pattern recognition—it requires understanding of complex interactions between symptoms, patient history, and contextual factors that may not be captured in algorithmic analysis. Moreover, the 'black box' nature of many AI systems makes it difficult for physicians to understand how diagnostic conclusions are reached, potentially undermining the trust and transparency essential to medical practice.\\n\\nThe most promising path forward likely involves collaboration rather than replacement. AI systems excel at processing large datasets and identifying patterns, while human physicians bring critical thinking, empathy, and the ability to navigate complex ethical decisions. Rather than viewing AI as a threat to human expertise, the medical community increasingly recognizes it as a powerful tool that can augment and enhance human clinical judgment when properly integrated into healthcare delivery."
+    },
+    "question_text": "The primary purpose of this passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "present different perspectives on AI in medical diagnosis and suggest a collaborative approach"
+      },
+      {
+        "id": "B",
+        "text": "argue that AI systems are superior to human physicians in medical diagnosis"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how AI diagnostic systems function"
+      },
+      {
+        "id": "D",
+        "text": "advocate for increased regulation of AI in healthcare settings"
+      },
+      {
+        "id": "E",
+        "text": "predict that AI will completely replace human doctors within the next decade"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both supportive and skeptical views, then proposes collaboration."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Contradicts the passage's balanced approach and collaborative conclusion."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "The passage doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Regulation is not discussed in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Contradicts the passage's emphasis on collaboration rather than replacement."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "AI in medicine",
+        "balanced-perspective",
+        "human-AI-collaboration"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-main-040",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Main Point",
+    "stimulus": {
+      "passage": "Climate change adaptation strategies have become increasingly important as extreme weather events become more frequent and severe. Traditional disaster response models, which focus primarily on emergency relief after events occur, are proving insufficient for addressing the scale and frequency of climate-related challenges. Forward-thinking communities are instead adopting comprehensive adaptation approaches that integrate risk reduction into long-term planning.\\n\\nThese proactive strategies include upgrading infrastructure to withstand extreme conditions, implementing early warning systems, and developing climate-resilient agricultural practices. Cities are redesigning urban spaces to manage increased flooding, while coastal communities are investing in natural barriers like restored wetlands and living shorelines. The key insight driving these efforts is that adaptation measures are most effective and cost-efficient when implemented before disasters strike.\\n\\nHowever, successful climate adaptation requires more than technical solutions. Community engagement, cross-sector collaboration, and adaptive governance structures are equally crucial. Without local buy-in and flexible institutional frameworks, even the most sophisticated adaptation technologies may fail to provide meaningful protection. The communities that have made the greatest progress in climate resilience are those that have embraced both technological innovation and social cooperation as complementary elements of their adaptation strategies."
+    },
+    "question_text": "Which one of the following most accurately expresses the main point of the passage?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Effective climate adaptation requires combining proactive planning, technical solutions, and community engagement"
+      },
+      {
+        "id": "B",
+        "text": "Traditional disaster response models are completely inadequate for addressing climate change"
+      },
+      {
+        "id": "C",
+        "text": "Technical infrastructure improvements are the most important aspect of climate adaptation"
+      },
+      {
+        "id": "D",
+        "text": "Climate adaptation is only possible in communities with significant financial resources"
+      },
+      {
+        "id": "E",
+        "text": "Early warning systems are the most cost-effective climate adaptation measure"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the passage's overall message and primary objective, not specific details or examples.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This captures the passage's emphasis on comprehensive approaches that include multiple elements."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too extreme. The passage says they're insufficient, not completely inadequate."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Contradicts the passage's emphasis on social factors being equally crucial."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Not mentioned or implied in the passage."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too specific. The passage doesn't compare cost-effectiveness of different measures."
+          }
+        ],
+        "strategy_tips": "Look for the answer that encompasses the passage's main argument without being too broad or too narrow."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "main point",
+        "climate adaptation",
+        "comprehensive-approach",
+        "proactive-planning"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  }
+]

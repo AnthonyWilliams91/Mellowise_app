@@ -1,0 +1,218 @@
+{
+  "exam": "LSAT",
+  "year_effective": 2025,
+  "sections": [
+    {
+      "name": "Logical Reasoning",
+      "count": 2,
+      "subsections": [
+        {
+          "name": "Assumption",
+          "tags": [
+            "assumption",
+            "unstated premise"
+          ]
+        },
+        {
+          "name": "Strengthen",
+          "tags": [
+            "strengthen",
+            "support",
+            "evidence"
+          ]
+        },
+        {
+          "name": "Weaken",
+          "tags": [
+            "weaken",
+            "undermine"
+          ]
+        },
+        {
+          "name": "Flaw in Reasoning",
+          "tags": [
+            "flaw",
+            "error",
+            "reasoning flaw"
+          ]
+        },
+        {
+          "name": "Inference / Must Be True",
+          "tags": [
+            "inference",
+            "must be true",
+            "logically follows"
+          ]
+        },
+        {
+          "name": "Point at Issue / Agreement",
+          "tags": [
+            "disagreement",
+            "agreement",
+            "issue",
+            "contention"
+          ]
+        },
+        {
+          "name": "Method of Reasoning",
+          "tags": [
+            "method",
+            "reasoning",
+            "argument technique"
+          ]
+        },
+        {
+          "name": "Role of a Statement",
+          "tags": [
+            "role",
+            "statement",
+            "part of argument"
+          ]
+        },
+        {
+          "name": "Parallel Reasoning",
+          "tags": [
+            "parallel reasoning",
+            "analogous"
+          ]
+        },
+        {
+          "name": "Parallel Flaw",
+          "tags": [
+            "parallel flaw",
+            "flawed analogy"
+          ]
+        },
+        {
+          "name": "Principle Support",
+          "tags": [
+            "principle",
+            "supports",
+            "conforms"
+          ]
+        },
+        {
+          "name": "Principle Application",
+          "tags": [
+            "principle",
+            "applied",
+            "rule"
+          ]
+        },
+        {
+          "name": "Paradox / Resolve-Explain",
+          "tags": [
+            "paradox",
+            "explain",
+            "discrepancy"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reading Comprehension",
+      "count": 1,
+      "subsections": [
+        {
+          "name": "Main Point",
+          "tags": [
+            "main idea",
+            "thesis"
+          ]
+        },
+        {
+          "name": "Primary Purpose",
+          "tags": [
+            "primary purpose",
+            "overall function"
+          ]
+        },
+        {
+          "name": "Author\u2019s Attitude / Tone",
+          "tags": [
+            "tone",
+            "attitude",
+            "perspective"
+          ]
+        },
+        {
+          "name": "Passage Organization / Structure",
+          "tags": [
+            "structure",
+            "organization"
+          ]
+        },
+        {
+          "name": "Specific Detail",
+          "tags": [
+            "detail",
+            "fact",
+            "according to passage"
+          ]
+        },
+        {
+          "name": "Inference",
+          "tags": [
+            "inference",
+            "implied",
+            "suggested"
+          ]
+        },
+        {
+          "name": "Function / Role of Statement",
+          "tags": [
+            "role",
+            "purpose",
+            "function"
+          ]
+        },
+        {
+          "name": "Comparative Passage Analysis",
+          "tags": [
+            "comparison",
+            "contrast",
+            "passage A vs B"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Writing Sample",
+      "count": 1,
+      "subsections": [
+        {
+          "name": "Prompt Text",
+          "tags": [
+            "writing",
+            "essay",
+            "issue prompt"
+          ]
+        },
+        {
+          "name": "Perspectives",
+          "tags": [
+            "perspective A",
+            "perspective B"
+          ]
+        },
+        {
+          "name": "Student Response",
+          "tags": [
+            "essay",
+            "analysis",
+            "argument"
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "difficulty_scale": "1-10",
+    "difficulty_method": "initially expert-approximated, adaptive via performance data",
+    "time_limits": {
+      "Logical Reasoning": "35 minutes per section (~90 sec per question)",
+      "Reading Comprehension": "35 minutes (~60\u201390 sec per question)",
+      "Writing Sample": "50 minutes (15 prep + 35 writing)"
+    }
+  }
+}

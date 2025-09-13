@@ -1,0 +1,3562 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-001",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-002",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-003",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-004",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-005",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-006",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-007",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-008",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-009",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-010",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-011",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-012",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-013",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-014",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-015",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-016",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-017",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-018",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-019",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-020",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-021",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-022",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-023",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-024",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-025",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-026",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-027",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-028",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-029",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-030",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-031",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-032",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-033",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-034",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-035",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-036",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-037",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-038",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-039",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "business",
+        "healthcare",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "The new employee wellness program will reduce healthcare costs by 20%. Other companies with similar programs saw cost reductions. Our company will achieve similar savings. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Our employees have similar health profiles to those at companies in the studies."
+      },
+      {
+        "id": "B",
+        "text": "The wellness program includes preventive care incentives."
+      },
+      {
+        "id": "C",
+        "text": "Healthcare costs have been rising steadily for three years."
+      },
+      {
+        "id": "D",
+        "text": "Employees have expressed interest in wellness programs."
+      },
+      {
+        "id": "E",
+        "text": "The program will be implemented over six months."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-str-040",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Strengthen",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:32:01Z"
+    },
+    "metadata": {
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:32:01Z",
+      "last_modified_date": "2025-09-12T23:32:01Z",
+      "source": "Mellowise-Generated",
+      "tags": [
+        "strengthen",
+        "traffic-safety",
+        "statistics",
+        "analogy"
+      ]
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "question_text": "Installing speed cameras reduces traffic accidents by 30%. Studies from five cities show consistent results. Installing speed cameras on Highway 101 will reduce accidents there. Which one of the following, if true, most strengthens this argument?",
+    "choices": [
+      {
+        "id": "A",
+        "text": "Highway 101 has traffic patterns similar to the studied roads."
+      },
+      {
+        "id": "B",
+        "text": "Speed cameras are solar-powered and environmentally friendly."
+      },
+      {
+        "id": "C",
+        "text": "The cameras will be monitored by trained traffic officers."
+      },
+      {
+        "id": "D",
+        "text": "Local residents support the camera installation."
+      },
+      {
+        "id": "E",
+        "text": "The highway has had 50 accidents in the past year."
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "For strengthen questions, look for evidence that makes the conclusion more likely to be true.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. This strengthens the analogy by establishing relevant similarity."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This doesn't strengthen the core argument about achieving similar results."
+          }
+        ],
+        "strategy_tips": "Identify what gap or assumption the argument relies on, then find evidence that supports that assumption."
+      }
+    }
+  }
+]

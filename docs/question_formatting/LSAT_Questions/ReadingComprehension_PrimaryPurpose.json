@@ -1,0 +1,3682 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-001",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-002",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-003",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-004",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-005",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-006",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-007",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-008",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-009",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-010",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-011",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-012",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-013",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-014",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-015",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-016",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-017",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-018",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-019",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-020",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-021",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-022",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-023",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-024",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-025",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-026",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-027",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-028",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-029",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-030",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-031",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-032",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-033",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-034",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-035",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-036",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-037",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-038",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-039",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-pp-040",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Primary Purpose",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:34:11Z"
+    },
+    "metadata": {
+      "tags": [
+        "primary purpose",
+        "technology",
+        "balanced-analysis",
+        "future-potential"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:34:11Z",
+      "last_modified_date": "2025-09-12T23:34:11Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "Recent advances in quantum computing have generated considerable excitement in the scientific community, but several significant challenges remain before quantum computers can achieve practical applications. Current quantum computers are extremely sensitive to environmental interference, requiring near-absolute zero temperatures and isolation from electromagnetic radiation. Additionally, quantum states are inherently fragile, with computational errors occurring frequently due to quantum decoherence.\\n\\nDespite these limitations, researchers are making steady progress. IBM and Google have demonstrated quantum supremacy in specific computational tasks, showing that quantum computers can solve certain problems exponentially faster than classical computers. However, these demonstrations involved highly specialized problems with limited real-world applications.\\n\\nThe most promising near-term applications for quantum computing include cryptography, drug discovery, and financial modeling. Quantum computers could potentially break current encryption methods while simultaneously enabling new forms of quantum encryption. In pharmaceutical research, quantum computers could model molecular interactions more accurately than classical computers, potentially accelerating drug development. For financial institutions, quantum algorithms could optimize portfolio management and risk analysis.\\n\\nWhile widespread practical quantum computing may still be years away, the potential benefits are driving continued investment from both government agencies and private companies. The quantum computing industry received over $1 billion in funding last year alone, indicating strong confidence in the technology's eventual commercial viability."
+    },
+    "question_text": "The primary purpose of the passage is to",
+    "choices": [
+      {
+        "id": "A",
+        "text": "provide a balanced overview of quantum computing's current challenges and future potential"
+      },
+      {
+        "id": "B",
+        "text": "argue that quantum computing will revolutionize multiple industries within the next decade"
+      },
+      {
+        "id": "C",
+        "text": "explain the technical details of how quantum computers achieve quantum supremacy"
+      },
+      {
+        "id": "D",
+        "text": "criticize the amount of funding being invested in quantum computing research"
+      },
+      {
+        "id": "E",
+        "text": "compare the computational capabilities of quantum and classical computers"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Focus on the overall goal or function of the passage, not specific details.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "Correct. The passage presents both limitations and promising applications of quantum computing."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "Too optimistic. The passage acknowledges that practical applications may still be years away."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "Too narrow. The passage mentions quantum supremacy but doesn't focus on technical explanations."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "Incorrect. The passage presents funding as evidence of confidence, not as criticism."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "Too narrow. While comparisons are mentioned, this isn't the primary purpose."
+          }
+        ],
+        "strategy_tips": "Ask yourself: Why did the author write this passage? What is the main objective?"
+      }
+    }
+  }
+]

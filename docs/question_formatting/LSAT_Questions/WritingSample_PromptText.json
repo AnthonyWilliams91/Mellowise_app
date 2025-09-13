@@ -1,0 +1,3044 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-001",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "The city of Riverside is considering two approaches to address its growing traffic congestion problem. City planners must choose between investing in expanded public transportation or implementing dynamic toll pricing on major highways during peak hours."
+    },
+    "question_text": "Write an essay in which you argue for one of the two approaches described above. Support your position with reasoning and examples, and address at least one potential objection to your chosen approach. There is no 'correct' choice; a reasonable argument can be made for either option.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, reasoning quality, use of examples, counterargument handling, organization, and writing mechanics. Scores based on overall effectiveness rather than position taken.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Position",
+            "max_points": 1,
+            "descriptor": "Clear, well-defined thesis that takes a definitive position on the choice."
+          },
+          {
+            "name": "Reasoning & Support",
+            "max_points": 2,
+            "descriptor": "Logical reasoning with relevant examples and evidence supporting the chosen position."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Acknowledges and responds to at least one significant objection to the chosen approach."
+          },
+          {
+            "name": "Organization & Clarity",
+            "max_points": 1,
+            "descriptor": "Well-structured essay with clear transitions and logical flow of ideas."
+          },
+          {
+            "name": "Writing Mechanics",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice enhance readability and clarity."
+          }
+        ],
+        "exemplar_response": "An effective essay might argue for public transportation expansion by citing environmental benefits, cost-effectiveness over time, and equity considerations, while acknowledging the counterargument about upfront costs and implementation time. Alternatively, it might support toll pricing by emphasizing immediate implementation, revenue generation for infrastructure, and market-based efficiency, while addressing concerns about equity and accessibility."
+      },
+      "explanations": {
+        "general": "This is an argumentative writing task requiring you to take a clear position and defend it. Success depends on reasoning quality, not which option you choose.",
+        "strategy_tips": "Spend 10-15 minutes planning. Choose the option you can argue most effectively, not necessarily your personal preference. Address a meaningful counterargument to show sophisticated thinking."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T22:30:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "argumentative",
+        "policy-choice",
+        "urban-planning"
+      ],
+      "estimated_time_sec": 2100,
+      "created_date": "2025-09-12T22:30:00Z",
+      "last_modified_date": "2025-09-12T22:30:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false,
+      "time_limit_sec": 2100
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-002",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-003",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-004",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-005",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-006",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city municipal authorities must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-007",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-008",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-009",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-010",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A corporation is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and corporation culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-011",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-012",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-013",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-014",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A academic institution is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all undergraduates or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-015",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-016",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-017",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-018",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city municipal authorities must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-019",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-020",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-021",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-022",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A corporation is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and corporation culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-023",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-024",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-025",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-026",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A academic institution is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all undergraduates or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-027",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-028",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-029",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-030",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city municipal authorities must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-031",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-032",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-033",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-034",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A corporation is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and corporation culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-035",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A university is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all students or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-036",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-037",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-038",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A academic institution is considering whether to require all students to complete an internship program as part of their degree requirements or to keep internships as optional opportunities that students can pursue independently."
+    },
+    "question_text": "Write an essay that takes a position on whether universities should require internships for all undergraduates or maintain them as optional opportunities. In your essay, analyze the advantages and disadvantages of both approaches and provide reasons and examples to support your position.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "education-policy",
+        "internship-requirement",
+        "mandatory-vs-optional"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-039",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A city government must decide between investing in expanding public transportation infrastructure or improving existing road systems to address growing traffic congestion. Budget limitations mean they can only pursue one approach comprehensively."
+    },
+    "question_text": "Write an essay arguing for either expanding public transportation OR improving road infrastructure as the better solution to traffic congestion. Support your position with reasoning and examples, and address potential counterarguments.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "urban-planning",
+        "transportation-policy",
+        "public-vs-private"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-prompt-040",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Prompt Text",
+    "stimulus": {
+      "passage": "A company is deciding whether to implement a remote work policy allowing employees to work from home permanently or to require all employees to return to office-based work to maintain company culture and collaboration."
+    },
+    "question_text": "Write an essay that argues for either permanent remote work OR mandatory office-based work. Discuss the implications of your chosen approach for productivity, employee satisfaction, and company culture, and address the main concerns raised by the opposing viewpoint.",
+    "response": {
+      "type": "essay",
+      "answer_key": {
+        "rubric": "Holistic 0-6 scale assessing thesis clarity, organization, argumentation quality, use of evidence, counterargument handling, and writing mechanics.",
+        "max_points": 6,
+        "dimensions": [
+          {
+            "name": "Thesis & Focus",
+            "max_points": 1,
+            "descriptor": "Clear, arguable thesis maintained throughout."
+          },
+          {
+            "name": "Organization",
+            "max_points": 1,
+            "descriptor": "Logical structure with effective transitions."
+          },
+          {
+            "name": "Argumentation & Evidence",
+            "max_points": 2,
+            "descriptor": "Well-supported claims with specific examples."
+          },
+          {
+            "name": "Counterargument",
+            "max_points": 1,
+            "descriptor": "Accurately addresses and responds to opposing viewpoint."
+          },
+          {
+            "name": "Mechanics & Style",
+            "max_points": 1,
+            "descriptor": "Grammar, syntax, and word choice aid readability."
+          }
+        ]
+      },
+      "explanations": {
+        "general": "Present a clear thesis, develop supporting arguments with evidence, address counterarguments, and maintain good organization and writing mechanics.",
+        "strategy_tips": "Spend 10-15 minutes planning your essay structure. Allocate specific paragraphs for your main arguments and counterargument response."
+      }
+    },
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:52:17Z"
+    },
+    "metadata": {
+      "tags": [
+        "writing",
+        "workplace-policy",
+        "remote-work",
+        "culture-vs-flexibility"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:52:17Z",
+      "last_modified_date": "2025-09-12T23:52:17Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    }
+  }
+]

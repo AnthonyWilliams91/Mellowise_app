@@ -1,0 +1,579 @@
+{
+  "schema": {
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://pokeswole.com/schemas/universal-question.schema.json",
+    "title": "UniversalQuestion",
+    "description": "A universal schema for exam questions across LSAT, GRE, GMAT, MCAT, etc. Supports multiple-choice and free-response (short answer/essay) with explanations and scoring metadata.",
+    "type": "object",
+    "required": [
+      "question_id",
+      "exam",
+      "section",
+      "subsection",
+      "question_text",
+      "response"
+    ],
+    "properties": {
+      "schema_version": {
+        "type": "string",
+        "description": "Semantic version of this schema definition (e.g., '1.0.0')."
+      },
+      "question_id": {
+        "type": "string",
+        "format": "uuid",
+        "description": "Stable UUID for the question."
+      },
+      "exam": {
+        "type": "string",
+        "description": "Exam identifier (e.g., 'LSAT', 'GRE', 'GMAT', 'MCAT')."
+      },
+      "section": {
+        "type": "string",
+        "description": "Section within the exam (e.g., 'Logical Reasoning', 'Reading Comprehension', 'Verbal', 'Quant')."
+      },
+      "subsection": {
+        "type": "string",
+        "description": "Question type/category within the section (e.g., 'Assumption', 'Inference', 'Main Point')."
+      },
+      "stimulus": {
+        "type": "object",
+        "description": "Optional shared material the question depends on (passage, data, media).",
+        "properties": {
+          "passage": {
+            "type": "string",
+            "description": "Primary text passage if applicable."
+          },
+          "media": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "image",
+                    "audio",
+                    "video",
+                    "pdf",
+                    "other"
+                  ]
+                },
+                "uri": {
+                  "type": "string",
+                  "description": "Relative or absolute URI to the asset."
+                },
+                "caption": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "type",
+                "uri"
+              ]
+            }
+          },
+          "tables": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "headers": {
+                  "type": "array",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "rows": {
+                  "type": "array",
+                  "items": {
+                    "type": "array",
+                    "items": {
+                      "type": [
+                        "string",
+                        "number",
+                        "null"
+                      ]
+                    }
+                  }
+                },
+                "caption": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      },
+      "question_text": {
+        "type": "string",
+        "description": "The prompt the learner sees."
+      },
+      "choices": {
+        "type": "array",
+        "description": "Present if response.type is single_choice or multi_select.",
+        "items": {
+          "type": "object",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "Choice identifier (e.g., 'A','B', or UUID)."
+            },
+            "text": {
+              "type": "string",
+              "description": "Choice content."
+            },
+            "rationale": {
+              "type": "string",
+              "description": "Optional per-choice rationale/explanation."
+            }
+          },
+          "required": [
+            "id",
+            "text"
+          ]
+        }
+      },
+      "response": {
+        "type": "object",
+        "description": "Defines how the question is answered/scored and includes explanations.",
+        "required": [
+          "type"
+        ],
+        "properties": {
+          "type": {
+            "type": "string",
+            "enum": [
+              "single_choice",
+              "multi_select",
+              "numeric",
+              "short_answer",
+              "essay"
+            ],
+            "description": "Response format."
+          },
+          "answer_key": {
+            "description": "Correctness specification based on response type.",
+            "oneOf": [
+              {
+                "type": "object",
+                "description": "Single-choice answer key.",
+                "properties": {
+                  "correct_choice_id": {
+                    "type": "string",
+                    "description": "ID matching one of the choices[].id"
+                  }
+                },
+                "required": [
+                  "correct_choice_id"
+                ]
+              },
+              {
+                "type": "object",
+                "description": "Multi-select answer key.",
+                "properties": {
+                  "correct_choice_ids": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    },
+                    "minItems": 1,
+                    "description": "IDs matching choices[].id; all required for full credit."
+                  },
+                  "partial_credit": {
+                    "type": "boolean",
+                    "description": "Whether partial credit is allowed."
+                  }
+                },
+                "required": [
+                  "correct_choice_ids"
+                ]
+              },
+              {
+                "type": "object",
+                "description": "Numeric answer key.",
+                "properties": {
+                  "value": {
+                    "type": "number",
+                    "description": "Correct numeric value."
+                  },
+                  "tolerance": {
+                    "type": "number",
+                    "description": "Accepted +/- tolerance (same units).",
+                    "default": 0
+                  }
+                },
+                "required": [
+                  "value"
+                ]
+              },
+              {
+                "type": "object",
+                "description": "Short answer (free-text) expected features and rules.",
+                "properties": {
+                  "expected_keywords": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    },
+                    "description": "Keywords/phrases expected for full credit."
+                  },
+                  "prohibited_keywords": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    },
+                    "description": "Words/phrases that indicate misunderstanding."
+                  },
+                  "min_length": {
+                    "type": "integer",
+                    "description": "Minimum characters or tokens.",
+                    "default": 1
+                  },
+                  "max_length": {
+                    "type": "integer",
+                    "description": "Optional maximum characters or tokens."
+                  },
+                  "rubric": {
+                    "type": "string",
+                    "description": "Human-readable scoring rubric."
+                  }
+                }
+              },
+              {
+                "type": "object",
+                "description": "Essay (long-form) rubric-based scoring.",
+                "properties": {
+                  "rubric": {
+                    "type": "string",
+                    "description": "Human-readable analytic or holistic rubric."
+                  },
+                  "max_points": {
+                    "type": "number",
+                    "description": "Maximum score possible."
+                  },
+                  "dimensions": {
+                    "type": "array",
+                    "description": "Optional multi-dimensional analytic rubric.",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "name": {
+                          "type": "string"
+                        },
+                        "max_points": {
+                          "type": "number"
+                        },
+                        "descriptor": {
+                          "type": "string"
+                        }
+                      },
+                      "required": [
+                        "name",
+                        "max_points"
+                      ]
+                    }
+                  },
+                  "exemplar_response": {
+                    "type": "string",
+                    "description": "Model response for reference."
+                  }
+                },
+                "required": [
+                  "rubric",
+                  "max_points"
+                ]
+              }
+            ]
+          },
+          "explanations": {
+            "type": "object",
+            "description": "Instructional explanations for learning.",
+            "properties": {
+              "general": {
+                "type": "string",
+                "description": "Overall explanation of the solution."
+              },
+              "per_choice": {
+                "type": "array",
+                "description": "For multiple-choice: why each option is right/wrong.",
+                "items": {
+                  "type": "object",
+                  "properties": {
+                    "choice_id": {
+                      "type": "string"
+                    },
+                    "explanation": {
+                      "type": "string"
+                    }
+                  },
+                  "required": [
+                    "choice_id",
+                    "explanation"
+                  ]
+                }
+              },
+              "strategy_tips": {
+                "type": "string",
+                "description": "Heuristics or strategies for this question type."
+              }
+            }
+          }
+        }
+      },
+      "difficulty": {
+        "type": "object",
+        "description": "Difficulty labeling and lifecycle.",
+        "properties": {
+          "initial_estimate": {
+            "type": "number",
+            "minimum": 1,
+            "maximum": 10,
+            "description": "Initial 1\u201310 estimate (expert-assigned)."
+          },
+          "method": {
+            "type": "string",
+            "description": "How difficulty is determined (expert, adaptive, hybrid)."
+          },
+          "last_update": {
+            "type": "string",
+            "format": "date-time"
+          }
+        }
+      },
+      "metadata": {
+        "type": "object",
+        "description": "General metadata for operations/analytics.",
+        "properties": {
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "estimated_time_sec": {
+            "type": "integer"
+          },
+          "created_date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "last_modified_date": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "source": {
+            "type": "string",
+            "description": "Origin (author, book, vendor)."
+          },
+          "license": {
+            "type": "string"
+          }
+        }
+      },
+      "administration": {
+        "type": "object",
+        "description": "Delivery/run-time attributes.",
+        "properties": {
+          "is_operational": {
+            "type": "boolean",
+            "description": "True if used for scored administrations."
+          },
+          "is_experimental": {
+            "type": "boolean",
+            "description": "True if used only in experimental/variable sections."
+          },
+          "time_limit_sec": {
+            "type": "integer",
+            "description": "Optional per-item timer override."
+          }
+        }
+      },
+      "versioning": {
+        "type": "object",
+        "description": "Version control for question edits.",
+        "properties": {
+          "rev": {
+            "type": "string",
+            "description": "Revision string (e.g., 'r3')."
+          },
+          "changelog": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "schema_version": "1.0.0",
+      "question_id": "65685072-a52d-4e25-ba63-49e0ad93fa4f",
+      "exam": "LSAT",
+      "section": "Logical Reasoning",
+      "subsection": "Assumption",
+      "question_text": "The argument assumes that the company\u2019s recent profits were due primarily to the new marketing strategy.",
+      "choices": [
+        {
+          "id": "A",
+          "text": "The marketing strategy increased customer awareness.",
+          "rationale": "This could be true without being required."
+        },
+        {
+          "id": "B",
+          "text": "Competitors did not also change their pricing.",
+          "rationale": "Potentially relevant but not required."
+        },
+        {
+          "id": "C",
+          "text": "No other major factors significantly affected profits during the period.",
+          "rationale": "Bridges the gap; required assumption."
+        },
+        {
+          "id": "D",
+          "text": "Employees strongly supported the new marketing strategy."
+        },
+        {
+          "id": "E",
+          "text": "The company\u2019s profits will continue to grow next year."
+        }
+      ],
+      "response": {
+        "type": "single_choice",
+        "answer_key": {
+          "correct_choice_id": "C"
+        },
+        "explanations": {
+          "general": "To conclude profits were due primarily to marketing, the argument must assume no other major factor explains the profits.",
+          "per_choice": [
+            {
+              "choice_id": "A",
+              "explanation": "Could be true without being required."
+            },
+            {
+              "choice_id": "B",
+              "explanation": "Even if competitors changed prices, marketing could still be primary."
+            },
+            {
+              "choice_id": "C",
+              "explanation": "Required to rule out alternative causes."
+            },
+            {
+              "choice_id": "D",
+              "explanation": "Employee support is not necessary."
+            },
+            {
+              "choice_id": "E",
+              "explanation": "Future projections are irrelevant to the premise-conclusion link."
+            }
+          ],
+          "strategy_tips": "Use the negation test for necessary assumptions."
+        }
+      },
+      "difficulty": {
+        "initial_estimate": 6.5,
+        "method": "expert",
+        "last_update": "2025-09-12T22:29:48Z"
+      },
+      "metadata": {
+        "tags": [
+          "assumption",
+          "necessary",
+          "negation-test"
+        ],
+        "estimated_time_sec": 90,
+        "created_date": "2025-09-12T22:29:48Z",
+        "last_modified_date": "2025-09-12T22:29:48Z",
+        "source": "In-house"
+      },
+      "administration": {
+        "is_operational": true,
+        "is_experimental": false
+      },
+      "versioning": {
+        "rev": "r1",
+        "changelog": [
+          "Initial import"
+        ]
+      }
+    },
+    {
+      "schema_version": "1.0.0",
+      "question_id": "41c09f1b-cfa7-4d39-bc83-7bb21e78f4eb",
+      "exam": "LSAT",
+      "section": "Writing Sample",
+      "subsection": "Issue Analysis",
+      "stimulus": {
+        "passage": "You are presented with a policy decision involving two options with competing priorities (cost vs. accessibility). Choose a position and defend it."
+      },
+      "question_text": "Write an essay that takes a position on the issue, supports it with reasons and examples, and addresses at least one counterargument.",
+      "response": {
+        "type": "essay",
+        "answer_key": {
+          "rubric": "Holistic 0\u20136 scale assessing thesis clarity, organization, argumentation, use of evidence, counterargument handling, and writing mechanics.",
+          "max_points": 6,
+          "dimensions": [
+            {
+              "name": "Thesis & Focus",
+              "max_points": 1,
+              "descriptor": "Clear, arguable thesis maintained throughout."
+            },
+            {
+              "name": "Organization",
+              "max_points": 1,
+              "descriptor": "Logical structure with effective transitions."
+            },
+            {
+              "name": "Argumentation & Evidence",
+              "max_points": 2,
+              "descriptor": "Well-supported claims with specific examples."
+            },
+            {
+              "name": "Counterargument",
+              "max_points": 1,
+              "descriptor": "Accurately addresses and responds to a key counterpoint."
+            },
+            {
+              "name": "Mechanics & Style",
+              "max_points": 1,
+              "descriptor": "Grammar, syntax, and word choice aid readability."
+            }
+          ],
+          "exemplar_response": "An effective essay presents a clear recommendation, justifies it with relevant evidence, and acknowledges trade-offs."
+        },
+        "explanations": {
+          "general": "This is scored by rubric, not a single correct answer. Provide a clear thesis, structured support, and address a counterargument.",
+          "strategy_tips": "Plan for 10\u201315 minutes; outline briefly; allocate a paragraph for the counterargument."
+        }
+      },
+      "difficulty": {
+        "initial_estimate": 5.0,
+        "method": "expert",
+        "last_update": "2025-09-12T22:29:48Z"
+      },
+      "metadata": {
+        "tags": [
+          "writing",
+          "issue-analysis",
+          "argumentative"
+        ],
+        "estimated_time_sec": 3000,
+        "created_date": "2025-09-12T22:29:48Z",
+        "last_modified_date": "2025-09-12T22:29:48Z",
+        "source": "In-house"
+      },
+      "administration": {
+        "is_operational": false,
+        "is_experimental": false,
+        "time_limit_sec": 3000
+      },
+      "versioning": {
+        "rev": "r1",
+        "changelog": [
+          "Initial import"
+        ]
+      }
+    }
+  ]
+}

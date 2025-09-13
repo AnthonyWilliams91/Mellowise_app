@@ -1,0 +1,3682 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-001",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-002",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-003",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-004",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-005",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-006",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-007",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-008",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-009",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-010",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-011",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-012",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-013",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-014",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-015",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-016",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-017",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-018",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-019",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-020",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-021",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-022",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-023",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-024",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-025",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-026",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-027",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-028",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-029",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-030",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-031",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-032",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-033",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-034",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-035",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-036",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-037",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-038",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-039",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-det-040",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Specific Detail",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "specific detail",
+        "factual recall",
+        "EU regulation",
+        "AI applications"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. The European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom.\\n\\nThe United States has favored a sector-specific approach, with different agencies regulating AI applications in their respective domains. This allows for specialized expertise but may create regulatory gaps."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "critical infrastructure and hiring decisions"
+      },
+      {
+        "id": "B",
+        "text": "entertainment and gaming platforms"
+      },
+      {
+        "id": "C",
+        "text": "social media content moderation"
+      },
+      {
+        "id": "D",
+        "text": "academic research and education"
+      },
+      {
+        "id": "E",
+        "text": "personal productivity software"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Find information directly stated in the passage.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This information is explicitly stated in the passage."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Look for exact matches or close paraphrases of passage content."
+      }
+    },
+    "question_text": "According to the passage, high-risk AI applications under the EU's AI Act include those used in"
+  }
+]

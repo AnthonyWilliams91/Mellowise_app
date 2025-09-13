@@ -1,0 +1,2482 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-001",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-002",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-003",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-004",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-005",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-006",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-007",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-008",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-009",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-010",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-011",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-012",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-013",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-014",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-015",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-016",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-017",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-018",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-019",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-020",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-021",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-022",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-023",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-024",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-025",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-026",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-027",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-028",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-029",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-030",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-031",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-032",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-033",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-034",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-035",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-036",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-037",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-038",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-039",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-papp-040",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Principle Application",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "principle application"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  }
+]

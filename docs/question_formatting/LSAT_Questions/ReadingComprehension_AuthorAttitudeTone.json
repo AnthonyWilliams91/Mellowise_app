@@ -1,0 +1,3682 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-001",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-002",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-003",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-004",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-005",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-006",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-007",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-008",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-009",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-010",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-011",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-012",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-013",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-014",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-015",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-016",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-017",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-018",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-019",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-020",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-021",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-022",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-023",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-024",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-025",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-026",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-027",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-028",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-029",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-030",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-031",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-032",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-033",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-034",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-035",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-036",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-037",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-038",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-039",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-att-040",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Author's Attitude / Tone",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "author attitude",
+        "AI regulation",
+        "neutral-analysis",
+        "policy-discussion"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. As AI systems become more sophisticated and widespread, policymakers worldwide are grappling with how to harness their benefits while mitigating potential risks. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges.\\n\\nThe European Union has taken the lead with its comprehensive AI Act, which categorizes AI systems by risk level and imposes corresponding regulatory requirements. High-risk applications, such as those used in critical infrastructure or hiring decisions, face strict oversight, while low-risk applications enjoy greater regulatory freedom. This risk-based approach represents a significant departure from the technology-neutral regulations of the past.\\n\\nMeanwhile, the United States has favored a more flexible, sector-specific approach, with different agencies regulating AI applications in their respective domains. This fragmented approach has both advantages and drawbacks: it allows for specialized expertise but may create regulatory gaps and inconsistencies.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked. The coming years will likely determine whether current regulatory approaches are sufficient or whether more fundamental changes are needed."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "objectively analytical about different regulatory approaches"
+      },
+      {
+        "id": "B",
+        "text": "strongly supportive of the European Union's approach"
+      },
+      {
+        "id": "C",
+        "text": "critical of all current regulatory efforts"
+      },
+      {
+        "id": "D",
+        "text": "optimistic about finding perfect regulatory solutions"
+      },
+      {
+        "id": "E",
+        "text": "dismissive of the need for AI regulation"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for evaluative language and the author's perspective toward the subject.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "The author presents different approaches neutrally without advocating for one over another."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Pay attention to word choice, qualifiers, and which aspects the author emphasizes."
+      }
+    },
+    "question_text": "The author's attitude toward AI regulation can best be described as"
+  }
+]

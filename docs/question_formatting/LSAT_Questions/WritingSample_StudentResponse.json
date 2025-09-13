@@ -1,0 +1,2482 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-001",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-002",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-003",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-004",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-005",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-006",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-007",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-008",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-009",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-010",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-011",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-012",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-013",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-014",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-015",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-016",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-017",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-018",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-019",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-020",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-021",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-022",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-023",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-024",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-025",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-026",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-027",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-028",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-029",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-030",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-031",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-032",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-033",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-034",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-035",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-036",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-037",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-038",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-039",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "ws-resp-040",
+    "exam": "LSAT",
+    "section": "Writing Sample",
+    "subsection": "Student Response",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "student response"
+      ],
+      "estimated_time_sec": 3000,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  }
+]

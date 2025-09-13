@@ -203,11 +203,19 @@ Establish the foundational technical infrastructure (authentication, database, d
 1. Next.js 14 project initialized with TypeScript, Tailwind CSS, and ESLint configuration
 2. GitHub repository created with feature branch protection and automated PR checks
 3. Supabase project configured with PostgreSQL database and authentication
-4. Vercel deployment pipeline connected to GitHub with preview deployments for PRs
-5. Environment variable management for development, staging, and production
-6. Basic error monitoring integrated (Sentry free tier)
-7. Code formatting and pre-commit hooks established
-8. API documentation structure prepared (Swagger/OpenAPI)
+4. **Core database schema defined and migrated using Supabase CLI:**
+   - User profiles table with authentication integration
+   - Question bank schema with LSAT-specific categorization (Logic Games, Logical Reasoning, Reading Comprehension)
+   - Progress tracking tables (sessions, analytics, streak tracking)
+   - Subscription management schema
+   - Migration workflow established (`supabase db diff`, `supabase db push`)
+5. **Cloudinary asset storage setup completed before question rendering features**
+6. Vercel deployment pipeline connected to GitHub with preview deployments for PRs
+7. Environment variable management for development, staging, and production
+8. **API key management workflow established with secure credential storage**
+9. Basic error monitoring integrated (Sentry free tier)
+10. Code formatting and pre-commit hooks established
+11. API documentation structure prepared (Swagger/OpenAPI)
 
 ### Story 1.2: User Authentication and Account Management
 
@@ -225,18 +233,18 @@ Establish the foundational technical infrastructure (authentication, database, d
 7. Email verification required before account activation
 8. Mobile-responsive authentication forms with loading states
 
-### Story 1.3: Core Database Schema and User Progress Tracking
+### Story 1.3: Advanced Database Operations and Optimization
 
 **As a system,**
-**I want to store user data and progress efficiently,**
-**so that personalization and analytics can function properly.**
+**I want optimized database operations and advanced schema features,**
+**so that the application performs efficiently at scale.**
 
 #### Acceptance Criteria
-1. User profiles table with authentication integration
-2. Question bank schema with LSAT-specific categorization (Logic Games, Logical Reasoning, Reading Comprehension)
-3. User session tracking for study time, questions attempted, and performance metrics
-4. Progress analytics tables for score trends, streak tracking, and topic mastery
-5. Database indexes optimized for common query patterns
+1. Database indexes optimized for common query patterns and performance
+2. Advanced analytics queries for user performance trends and insights
+3. Database connection pooling and query optimization strategies
+4. Data retention policies and automated cleanup procedures
+5. Database backup and recovery procedures established
 6. Data migration scripts for schema updates
 7. Backup and recovery procedures established
 8. FERPA-compliant data encryption at rest and in transit

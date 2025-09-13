@@ -23,7 +23,7 @@ Backend:      FastAPI (Python 3.11) + PostgreSQL + Redis
 Database:     Supabase (Managed PostgreSQL with RLS)
 AI Services:  Anthropic Claude + OpenAI (Multi-provider strategy)
 Hosting:      Vercel (Frontend) + Railway (Backend)
-Monitoring:   Sentry + Vercel Analytics + Custom performance tracking
+Monitoring:   Sentry + Vercel Analytics + Core Web Vitals + Health Checks
 ```
 
 ### Architecture Layers
@@ -89,6 +89,16 @@ Monitoring:   Sentry + Vercel Analytics + Custom performance tracking
 - **Image optimization** with Next.js Image component
 - **Database indexing** for query performance
 - **Caching strategies** at multiple layers (CDN, application, database)
+- **Core Web Vitals targets**: LCP < 1.2s, FID < 30ms, CLS < 0.03
+
+### Dependency Compatibility Matrix
+- **React 18.3.1 + Next.js 14**: Full compatibility validated with concurrent features
+- **TypeScript 5.x**: Fully compatible with all chosen libraries
+- **Supabase 2.38+**: Excellent React 18 and Next.js 14 integration
+- **Tailwind CSS 3.3+**: Optimized for Next.js 14 and React concurrent rendering
+- **ESLint React Hooks**: Version 4.6+ ensures React 18 concurrent feature support
+- **Zustand 4.4+**: Built specifically for React 18 concurrent rendering patterns
+- **TanStack Query 5.x**: Optimized for React 18 Suspense and concurrent features
 
 ## Scalability Considerations
 

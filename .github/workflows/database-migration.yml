@@ -1,0 +1,40 @@
+name: Database Migration
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'supabase/migrations/**'
+      - 'data/questions/**'
+  workflow_dispatch: # Manual trigger
+
+jobs:
+  migrate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Setup Supabase CLI
+        uses: supabase/setup-cli@v1
+        with:
+          version: latest
+      
+      - name: Run migrations
+        env:
+          SUPABASE_ACCESS_TOKEN: ${{ secrets.SUPABASE_ACCESS_TOKEN }}
+          SUPABASE_DB_PASSWORD: ${{ secrets.SUPABASE_DB_PASSWORD }}
+          SUPABASE_PROJECT_ID: ${{ secrets.SUPABASE_PROJECT_ID }}
+        run: |
+          supabase link --project-ref $SUPABASE_PROJECT_ID
+          supabase db push
+      
+      - name: Import question data
+        if: contains(github.event.head_commit.message, '[import-questions]')
+        run: |
+          python scripts/import-questions.py --source data/questions --env production
+      
+      - name: Verify migration
+        run: |
+          supabase db lint
+          python scripts/verify-migration.py

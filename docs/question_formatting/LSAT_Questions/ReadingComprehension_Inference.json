@@ -1,0 +1,3682 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-001",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-002",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-003",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-004",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-005",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-006",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-007",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-008",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-009",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-010",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-011",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-012",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-013",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-014",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-015",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-016",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-017",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-018",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-019",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-020",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-021",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-022",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-023",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-024",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-025",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-026",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-027",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-028",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-029",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-030",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-031",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-032",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-033",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-034",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-035",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-036",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-037",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-038",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-039",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "rc-inf-040",
+    "exam": "LSAT",
+    "section": "Reading Comprehension",
+    "subsection": "Inference",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "inference",
+        "regulatory inadequacy",
+        "technology-specific",
+        "logical-implication"
+      ],
+      "estimated_time_sec": 120,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "stimulus": {
+      "passage": "The debate over artificial intelligence regulation has reached a critical juncture. Current regulatory frameworks, developed for earlier technologies, are proving inadequate for addressing AI's unique challenges. The European Union has taken the lead with its comprehensive AI Act, while the United States has favored a more fragmented approach.\\n\\nThe challenge for all jurisdictions is balancing innovation with protection. Overly restrictive regulations could stifle beneficial AI development, while insufficient oversight could lead to harmful applications going unchecked."
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "existing regulatory frameworks were not designed with AI's specific characteristics in mind"
+      },
+      {
+        "id": "B",
+        "text": "the European Union's approach will definitely prove more effective than the US approach"
+      },
+      {
+        "id": "C",
+        "text": "harmful AI applications are currently widespread due to lack of regulation"
+      },
+      {
+        "id": "D",
+        "text": "innovation and protection cannot be balanced in AI regulation"
+      },
+      {
+        "id": "E",
+        "text": "all current AI regulation efforts are fundamentally flawed"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Look for what logically follows from the stated information.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This can be inferred from the statement about frameworks developed for earlier technologies being inadequate."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "C",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "D",
+            "explanation": "This is not the best answer."
+          },
+          {
+            "choice_id": "E",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Find implications that are supported by but not explicitly stated in the passage."
+      }
+    },
+    "question_text": "The passage suggests that"
+  }
+]

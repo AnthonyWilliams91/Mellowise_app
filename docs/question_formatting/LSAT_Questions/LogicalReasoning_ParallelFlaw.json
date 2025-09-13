@@ -1,0 +1,2482 @@
+[
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-001",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-002",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-003",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-004",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-005",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-006",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-007",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-008",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-009",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-010",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-011",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 2,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-012",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-013",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-014",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-015",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-016",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-017",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 9,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-018",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-019",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-020",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-021",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-022",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-023",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-024",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-025",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 3,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-026",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-027",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-028",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-029",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-030",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 10,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-031",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-032",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 8,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-033",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-034",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-035",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 1,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-036",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 7,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-037",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-038",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 6,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-039",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 4,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  },
+  {
+    "schema_version": "1.0.0",
+    "question_id": "lr-pflw-040",
+    "exam": "LSAT",
+    "section": "Logical Reasoning",
+    "subsection": "Parallel Flaw",
+    "difficulty": {
+      "initial_estimate": 5,
+      "method": "expert",
+      "last_update": "2025-09-12T23:44:00Z"
+    },
+    "metadata": {
+      "tags": [
+        "parallel flaw"
+      ],
+      "estimated_time_sec": 90,
+      "created_date": "2025-09-12T23:44:00Z",
+      "last_modified_date": "2025-09-12T23:44:00Z",
+      "source": "Mellowise-Generated"
+    },
+    "administration": {
+      "is_operational": true,
+      "is_experimental": false
+    },
+    "versioning": {
+      "rev": "r1",
+      "changelog": [
+        "Initial generation for Mellowise LSAT prep platform"
+      ]
+    },
+    "choices": [
+      {
+        "id": "A",
+        "text": "Option A"
+      },
+      {
+        "id": "B",
+        "text": "Option B"
+      }
+    ],
+    "response": {
+      "type": "single_choice",
+      "answer_key": {
+        "correct_choice_id": "A"
+      },
+      "explanations": {
+        "general": "Apply standard logical reasoning principles.",
+        "per_choice": [
+          {
+            "choice_id": "A",
+            "explanation": "This is the correct answer."
+          },
+          {
+            "choice_id": "B",
+            "explanation": "This is not the best answer."
+          }
+        ],
+        "strategy_tips": "Eliminate obviously wrong choices first."
+      }
+    },
+    "question_text": "Default template"
+  }
+]
