@@ -1,0 +1,29 @@
+# RecBole Configuration for Sequential Recommendation
+# Optimized for RTX 3090 (24GB VRAM)
+
+# Dataset Configuration
+USER_ID_FIELD: user_id
+ITEM_ID_FIELD: question_id
+TIME_FIELD: timestamp
+
+# Model Configuration
+model: SASRec
+embedding_size: 256
+hidden_size: 256
+num_layers: 2
+num_heads: 2
+dropout_prob: 0.2
+
+# Training Configuration
+epochs: 200
+train_batch_size: 4096
+eval_batch_size: 8192
+learning_rate: 0.001
+
+# Device Configuration
+device: cuda
+gpu_id: 0
+
+# Evaluation
+metrics: ['Recall', 'MRR', 'NDCG']
+topk: [5, 10, 20]

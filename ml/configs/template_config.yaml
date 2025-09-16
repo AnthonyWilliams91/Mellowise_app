@@ -1,0 +1,94 @@
+# Mellowise ML Experiment Configuration Template
+# Copy this file for each new experiment and customize as needed
+
+experiment:
+  name: "baseline_experiment"
+  description: "Template experiment configuration for Mellowise recommendation models"
+  created_by: "developer"
+  tags: ["baseline", "template"]
+
+# Model configuration
+model:
+  type: "ItemKNN"  # Options: ItemKNN, BPR, NeuMF, LightGCN, SASRec
+  params:
+    # ItemKNN specific
+    k: 20
+    shrink: 100
+    normalize: true
+    similarity: "cosine"
+
+    # # BPR specific (uncomment for BPR)
+    # embedding_size: 64
+    # reg_weight: 0.0001
+
+    # # NeuMF specific (uncomment for NeuMF)
+    # mf_embedding_size: 64
+    # mlp_embedding_size: 64
+    # mlp_hidden_size: [128, 64, 32]
+    # dropout_prob: 0.2
+
+# Data configuration
+data:
+  dataset: "mellowise_interactions"
+  split_ratio: [0.8, 0.1, 0.1]  # train, validation, test
+  split_mode: "RS"  # RS: random split, TO: time-ordered split
+  min_interactions_per_user: 10
+  min_interactions_per_item: 5
+  rating_threshold: 3  # Minimum rating to consider as positive interaction
+
+# Training configuration
+training:
+  epochs: 100
+  batch_size: 1024
+  learning_rate: 0.001
+  weight_decay: 0.0001
+  early_stopping: true
+  stopping_patience: 10
+  checkpoint_freq: 10  # Save checkpoint every N epochs
+
+# Evaluation configuration
+evaluation:
+  metrics: ["NDCG", "Recall", "Precision", "Hit", "MAP", "MRR"]
+  topk: [5, 10, 20]
+  valid_metric: "NDCG@10"  # Primary metric for model selection
+  test_batch_size: 2048
+
+# Logging configuration
+logging:
+  tensorboard: true
+  mlflow: true
+  wandb: false
+  log_level: "INFO"
+
+  # Optional: MLflow tracking server
+  # mlflow_tracking_uri: "http://localhost:5000"
+
+  # Optional: W&B project
+  # wandb_project: "mellowise-recommendations"
+  # wandb_entity: "your-username"
+
+# System configuration
+system:
+  device: "auto"  # auto, cpu, cuda, cuda:0, cuda:1, etc.
+  num_workers: 4  # Data loader workers
+  pin_memory: true
+  reproducibility: true
+  seed: 2023
+
+# Hyperparameter search (optional)
+# Uncomment and modify for hyperparameter optimization
+# hyperparameter_search:
+#   method: "grid"  # grid, random, bayesian
+#   n_trials: 50    # for random/bayesian search
+#
+#   search_space:
+#     learning_rate: [0.0001, 0.001, 0.01]
+#     embedding_size: [32, 64, 128]
+#     reg_weight: [1e-5, 1e-4, 1e-3]
+
+# Custom experiment settings
+custom:
+  # Add any experiment-specific settings here
+  description: "Baseline ItemKNN model for LSAT question recommendations"
+  research_question: "How well does collaborative filtering work for educational content?"
+  expected_outcome: "NDCG@10 > 0.3 for meaningful recommendations"
