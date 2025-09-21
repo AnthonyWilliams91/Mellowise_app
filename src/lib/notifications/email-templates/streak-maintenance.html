@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Keep Your Streak Alive - Mellowise</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #f9fafb;">
+  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #f9fafb;">
+    <tr>
+      <td align="center" style="padding: 20px 0;">
+        <table class="email-container" role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+
+          <!-- Header -->
+          <tr>
+            <td class="email-header" style="background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); padding: 32px 24px; text-align: center; border-radius: 12px 12px 0 0;">
+              <a href="{{dashboardUrl}}" class="email-logo" style="font-size: 28px; font-weight: 700; color: #ffffff; text-decoration: none; letter-spacing: -0.5px;">
+                Mellowise
+              </a>
+              <div class="email-tagline" style="font-size: 14px; color: #fed7aa; margin-top: 8px; font-weight: 500;">
+                {{#if (eq streakType 'current')}}
+                Streak celebration
+                {{else if (eq streakType 'at_risk')}}
+                Streak protection
+                {{else}}
+                Comeback time
+                {{/if}}
+              </div>
+            </td>
+          </tr>
+
+          <!-- Content -->
+          <tr>
+            <td class="email-content" style="background-color: #ffffff; padding: 40px 32px;">
+
+              <!-- Streak Display -->
+              <div style="text-align: center; margin-bottom: 32px;">
+                {{#if (eq streakType 'current')}}
+                <!-- Active Streak Celebration -->
+                <div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); border-radius: 16px; padding: 32px; margin-bottom: 24px; border: 2px solid #f59e0b;">
+                  <span style="font-size: 64px; display: block; margin-bottom: 16px; animation: bounce 2s infinite;">🔥</span>
+                  <h1 style="font-size: 36px; font-weight: 900; color: #92400e; margin: 0 0 8px 0;">{{streakCount}} DAYS</h1>
+                  <p style="font-size: 18px; color: #b45309; font-weight: 600; margin: 0;">Study Streak!</p>
+                </div>
+                <h2 style="font-size: 24px; font-weight: 700; color: #111827; margin: 0 0 16px 0;">Amazing consistency, {{userName}}!</h2>
+                <p style="font-size: 16px; color: #4b5563; margin: 0;">You're building incredible momentum. Keep this fire burning! 🚀</p>
+
+                {{else if (eq streakType 'at_risk')}}
+                <!-- At Risk Streak Warning -->
+                <div style="background: #fef3c7; border-radius: 16px; padding: 32px; margin-bottom: 24px; border: 2px dashed #f59e0b;">
+                  <span style="font-size: 64px; display: block; margin-bottom: 16px;">⚠️</span>
+                  <h1 style="font-size: 36px; font-weight: 900; color: #92400e; margin: 0 0 8px 0;">{{streakCount}} DAYS</h1>
+                  <p style="font-size: 18px; color: #b45309; font-weight: 600; margin: 0;">at risk!</p>
+                </div>
+                <h2 style="font-size: 24px; font-weight: 700; color: #dc2626; margin: 0 0 16px 0;">Don't lose your momentum, {{userName}}!</h2>
+                <p style="font-size: 16px; color: #4b5563; margin: 0;">Your {{streakCount}}-day streak is precious. Let's keep it alive! 💪</p>
+
+                {{else}}
+                <!-- Broken Streak Comeback -->
+                <div style="background: #f3f4f6; border-radius: 16px; padding: 32px; margin-bottom: 24px; border: 2px solid #9ca3af;">
+                  <span style="font-size: 64px; display: block; margin-bottom: 16px;">🔄</span>
+                  <h1 style="font-size: 28px; font-weight: 700; color: #374151; margin: 0 0 8px 0;">Time for a Fresh Start</h1>
+                  <p style="font-size: 16px; color: #6b7280; font-weight: 600; margin: 0;">Your previous best: {{streakCount}} days</p>
+                </div>
+                <h2 style="font-size: 24px; font-weight: 700; color: #111827; margin: 0 0 16px 0;">Ready for your comeback, {{userName}}?</h2>
+                <p style="font-size: 16px; color: #4b5563; margin: 0;">Every champion has setbacks. What matters is how you bounce back! 🎯</p>
+                {{/if}}
+              </div>
+
+              <!-- Streak Stats -->
+              {{#if (eq streakType 'current')}}
+              <div class="stats-container" style="background: #fef3c7; border-radius: 12px; padding: 24px; margin: 24px 0; border: 1px solid #f59e0b;">
+                <h3 style="margin: 0 0 20px 0; text-align: center; color: #92400e; font-size: 18px; font-weight: 700;">🏆 Streak Achievements</h3>
+
+                <div style="display: flex; justify-content: space-around; flex-wrap: wrap; margin-bottom: 20px;">
+                  <div class="stat-item" style="text-align: center; margin-bottom: 16px;">
+                    <span class="stat-number" style="font-size: 24px; font-weight: 700; color: #f59e0b; display: block;">{{streakCount}}</span>
+                    <span class="stat-label" style="font-size: 12px; color: #92400e; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Days</span>
+                  </div>
+                  <div class="stat-item" style="text-align: center; margin-bottom: 16px;">
+                    <span class="stat-number" style="font-size: 24px; font-weight: 700; color: #f59e0b; display: block;">{{nextMilestone}}</span>
+                    <span class="stat-label" style="font-size: 12px; color: #92400e; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Next Goal</span>
+                  </div>
+                  {{#if totalPoints}}
+                  <div class="stat-item" style="text-align: center; margin-bottom: 16px;">
+                    <span class="stat-number" style="font-size: 24px; font-weight: 700; color: #f59e0b; display: block;">{{totalPoints}}</span>
+                    <span class="stat-label" style="font-size: 12px; color: #92400e; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Points Earned</span>
+                  </div>
+                  {{/if}}
+                </div>
+
+                <!-- Progress to Next Milestone -->
+                {{#if nextMilestone}}
+                <div style="margin-top: 16px;">
+                  <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                    <span style="font-size: 14px; font-weight: 600; color: #92400e;">Progress to {{nextMilestone}} days</span>
+                    <span style="font-size: 14px; font-weight: 600; color: #f59e0b;">{{milestoneProgress}}%</span>
+                  </div>
+                  <div class="progress-container" style="background: #fed7aa; height: 8px; border-radius: 4px; overflow: hidden;">
+                    <div class="progress-bar" style="background: linear-gradient(90deg, #f59e0b 0%, #d97706 100%); height: 100%; border-radius: 4px; width: {{milestoneProgress}}%;"></div>
+                  </div>
+                </div>
+                {{/if}}
+              </div>
+              {{/if}}
+
+              <!-- Motivational Message -->
+              <div style="background: {{#if (eq streakType 'current')}}#eff6ff{{else if (eq streakType 'at_risk')}}#fefce8{{else}}#f0fdf4{{/if}}; border-radius: 12px; padding: 24px; margin: 24px 0; text-align: center; border: 1px solid {{#if (eq streakType 'current')}}#3b82f6{{else if (eq streakType 'at_risk')}}#eab308{{else}}#22c55e{{/if}};">
+                <h3 style="margin: 0 0 12px 0; color: {{#if (eq streakType 'current')}}#1d4ed8{{else if (eq streakType 'at_risk')}}#ca8a04{{else}}#15803d{{/if}}; font-size: 18px; font-weight: 700;">
+                  {{#if (eq streakType 'current')}}
+                  🌟 You're Unstoppable!
+                  {{else if (eq streakType 'at_risk')}}
+                  ⏰ Time is Ticking
+                  {{else}}
+                  🚀 Bounce Back Stronger
+                  {{/if}}
+                </h3>
+                <p style="margin: 0; color: {{#if (eq streakType 'current')}}#1e40af{{else if (eq streakType 'at_risk')}}#a16207{{else}}#166534{{/if}}; font-size: 16px; line-height: 1.5;">
+                  {{encouragementMessage}}
+                </p>
+              </div>
+
+              <!-- Streak Benefits -->
+              {{#if (eq streakType 'current')}}
+              <div style="background: #f8fafc; border-radius: 12px; padding: 24px; margin: 24px 0;">
+                <h3 style="margin: 0 0 16px 0; color: #374151; font-size: 16px; font-weight: 700;">🎁 Streak Benefits You've Unlocked:</h3>
+                <ul style="margin: 0; padding-left: 20px; color: #4b5563;">
+                  <li style="margin-bottom: 8px;">2x XP multiplier on all practice sessions</li>
+                  <li style="margin-bottom: 8px;">Priority access to new question sets</li>
+                  <li style="margin-bottom: 8px;">Streak badges for your profile</li>
+                  {{#if (gte streakCount 7)}}
+                  <li style="margin-bottom: 8px;">🔥 Weekly Warrior badge earned!</li>
+                  {{/if}}
+                  {{#if (gte streakCount 30)}}
+                  <li style="margin-bottom: 8px;">🏆 Monthly Master badge earned!</li>
+                  {{/if}}
+                </ul>
+              </div>
+              {{/if}}
+
+              <!-- Action Items -->
+              <div class="alert {{#if (eq streakType 'current')}}alert-success{{else if (eq streakType 'at_risk')}}alert-warning{{else}}alert-info{{/if}}" style="padding: 20px; border-radius: 8px; margin: 24px 0; border-left: 4px solid {{#if (eq streakType 'current')}}#22c55e{{else if (eq streakType 'at_risk')}}#f59e0b{{else}}#3b82f6{{/if}};">
+                <h3 style="margin: 0 0 12px 0; font-size: 16px; font-weight: 700;">
+                  {{#if (eq streakType 'current')}}
+                  📅 Keep the Momentum Going
+                  {{else if (eq streakType 'at_risk')}}
+                  🎯 Save Your Streak
+                  {{else}}
+                  📚 Start Your New Streak
+                  {{/if}}
+                </h3>
+                <ul style="margin: 0; padding-left: 20px;">
+                  {{#if (eq streakType 'current')}}
+                  <li style="margin-bottom: 8px;">Complete your daily practice session before {{streakDeadline}}</li>
+                  <li style="margin-bottom: 8px;">Try tackling your weakest subject area today</li>
+                  <li style="margin-bottom: 8px;">Aim for {{dailyTarget}} questions to maintain quality</li>
+                  {{else if (eq streakType 'at_risk')}}
+                  <li style="margin-bottom: 8px;"><strong>You have {{hoursRemaining}} hours left</strong> to maintain your streak</li>
+                  <li style="margin-bottom: 8px;">Just {{minQuestions}} questions needed to keep it alive</li>
+                  <li style="margin-bottom: 8px;">Quick 10-minute session can save your {{streakCount}}-day streak!</li>
+                  {{else}}
+                  <li style="margin-bottom: 8px;">Start with just 5 questions to begin your new streak</li>
+                  <li style="margin-bottom: 8px;">Set a consistent daily study time</li>
+                  <li style="margin-bottom: 8px;">Focus on steady progress over perfection</li>
+                  {{/if}}
+                </ul>
+              </div>
+
+              <!-- Last Activity -->
+              {{#if lastActivity}}
+              <div style="background: #f3f4f6; border-radius: 8px; padding: 16px; margin: 24px 0; text-align: center;">
+                <p style="margin: 0; color: #6b7280; font-size: 14px;">
+                  <strong>Last activity:</strong> {{lastActivity}}
+                </p>
+              </div>
+              {{/if}}
+
+              <!-- Call to Action -->
+              <div style="text-align: center; margin: 32px 0;">
+                <a href="{{continueUrl}}" class="email-button" style="display: inline-block; padding: 16px 32px; background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%); color: #ffffff; text-decoration: none; font-weight: 600; font-size: 16px; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+                  {{#if (eq streakType 'current')}}
+                  🔥 Continue My Streak
+                  {{else if (eq streakType 'at_risk')}}
+                  💪 Save My Streak
+                  {{else}}
+                  🚀 Start New Streak
+                  {{/if}}
+                </a>
+              </div>
+
+              <!-- Alternative Actions -->
+              <div style="text-align: center; margin: 16px 0;">
+                <a href="{{dashboardUrl}}/practice" style="color: #f59e0b; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 600;">Quick Practice</a>
+                <span style="color: #d1d5db;">|</span>
+                <a href="{{dashboardUrl}}/analytics" style="color: #f59e0b; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 600;">View Progress</a>
+                <span style="color: #d1d5db;">|</span>
+                <a href="{{dashboardUrl}}/goals" style="color: #f59e0b; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 600;">Set Goals</a>
+              </div>
+
+              <!-- Streak Leaderboard Teaser -->
+              {{#if showLeaderboard}}
+              <div style="background: #fef3c7; border-radius: 8px; padding: 20px; margin: 24px 0; text-align: center; border: 1px solid #f59e0b;">
+                <h4 style="margin: 0 0 8px 0; color: #92400e; font-size: 14px; font-weight: 700;">🏅 Streak Leaderboard</h4>
+                <p style="margin: 0 0 12px 0; color: #b45309; font-size: 14px;">
+                  You're ranked #{{leaderboardRank}} in your study group!
+                </p>
+                <a href="{{dashboardUrl}}/leaderboard" style="color: #d97706; text-decoration: underline; font-size: 14px; font-weight: 600;">View Full Leaderboard →</a>
+              </div>
+              {{/if}}
+
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td class="email-footer" style="background: #f9fafb; padding: 32px 24px; text-align: center; border: 1px solid #e5e7eb; border-top: none; border-radius: 0 0 12px 12px;">
+              <p class="footer-text" style="font-size: 14px; color: #6b7280; margin: 0 0 16px 0;">
+                You're receiving this because you have streak notifications enabled in your Mellowise account.
+              </p>
+
+              <div class="footer-links" style="margin: 16px 0;">
+                <a href="{{dashboardUrl}}/settings" class="footer-link" style="color: #4f46e5; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 500;">Notification Settings</a>
+                <a href="mailto:{{supportEmail}}" class="footer-link" style="color: #4f46e5; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 500;">Support</a>
+                <a href="{{unsubscribeUrl}}" class="footer-link" style="color: #6b7280; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 500;">Unsubscribe</a>
+              </div>
+
+              <p style="font-size: 12px; color: #9ca3af; margin: 16px 0 0 0;">
+                © {{currentYear}} Mellowise. All rights reserved.<br>
+                Building consistent study habits for exam success.
+              </p>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Tracking Pixel -->
+  {{trackingPixel}}
+
+  <!-- Preheader Text -->
+  <div style="display: none; font-size: 1px; color: #f9fafb; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+    {{#if (eq streakType 'current')}}
+    {{streakCount}}-day streak! Keep the momentum going, {{userName}}.
+    {{else if (eq streakType 'at_risk')}}
+    Your {{streakCount}}-day streak is at risk! Quick action needed.
+    {{else}}
+    Time for a fresh start, {{userName}}. Begin your new study streak today.
+    {{/if}}
+  </div>
+
+  <!-- CSS Animations -->
+  <style>
+    @keyframes bounce {
+      0%, 20%, 50%, 80%, 100% { transform: translateY(0); }
+      40% { transform: translateY(-10px); }
+      60% { transform: translateY(-5px); }
+    }
+  </style>
+</body>
+</html>

@@ -1,0 +1,374 @@
+/**
+ * Mellowise Email Template Styles
+ * MELLOWISE-015: Professional, responsive email styles with brand consistency
+ * Compatible with Gmail, Outlook, Apple Mail, and other major email clients
+ */
+
+/* Reset and Base Styles */
+.email-container {
+  width: 100% !important;
+  max-width: 600px !important;
+  margin: 0 auto !important;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif !important;
+  line-height: 1.6 !important;
+  color: #374151 !important;
+  background-color: #f9fafb !important;
+}
+
+/* Header Styles */
+.email-header {
+  background: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%) !important;
+  padding: 32px 24px !important;
+  text-align: center !important;
+  border-radius: 12px 12px 0 0 !important;
+}
+
+.email-logo {
+  font-size: 28px !important;
+  font-weight: 700 !important;
+  color: #ffffff !important;
+  text-decoration: none !important;
+  letter-spacing: -0.5px !important;
+}
+
+.email-tagline {
+  font-size: 14px !important;
+  color: #e0e7ff !important;
+  margin-top: 8px !important;
+  font-weight: 500 !important;
+}
+
+/* Content Container */
+.email-content {
+  background-color: #ffffff !important;
+  padding: 40px 32px !important;
+  border-left: 1px solid #e5e7eb !important;
+  border-right: 1px solid #e5e7eb !important;
+}
+
+/* Typography */
+.email-title {
+  font-size: 24px !important;
+  font-weight: 700 !important;
+  color: #111827 !important;
+  margin: 0 0 16px 0 !important;
+  line-height: 1.3 !important;
+}
+
+.email-subtitle {
+  font-size: 18px !important;
+  font-weight: 600 !important;
+  color: #374151 !important;
+  margin: 0 0 12px 0 !important;
+  line-height: 1.4 !important;
+}
+
+.email-body {
+  font-size: 16px !important;
+  line-height: 1.6 !important;
+  color: #4b5563 !important;
+  margin: 0 0 24px 0 !important;
+}
+
+.email-emphasis {
+  color: #4f46e5 !important;
+  font-weight: 600 !important;
+}
+
+/* Button Styles */
+.email-button {
+  display: inline-block !important;
+  padding: 16px 32px !important;
+  background: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%) !important;
+  color: #ffffff !important;
+  text-decoration: none !important;
+  font-weight: 600 !important;
+  font-size: 16px !important;
+  border-radius: 8px !important;
+  text-align: center !important;
+  margin: 16px 0 !important;
+  transition: all 0.2s ease !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1) !important;
+}
+
+.email-button:hover {
+  background: linear-gradient(135deg, #4338ca 0%, #5b21b6 100%) !important;
+  transform: translateY(-1px) !important;
+  box-shadow: 0 8px 12px -1px rgba(0, 0, 0, 0.15) !important;
+}
+
+.email-button-secondary {
+  background: #f3f4f6 !important;
+  color: #374151 !important;
+  border: 1px solid #d1d5db !important;
+}
+
+.email-button-secondary:hover {
+  background: #e5e7eb !important;
+  color: #111827 !important;
+}
+
+/* Stats and Progress Bars */
+.stats-container {
+  background: #f8fafc !important;
+  border-radius: 12px !important;
+  padding: 24px !important;
+  margin: 24px 0 !important;
+  border: 1px solid #e2e8f0 !important;
+}
+
+.stat-item {
+  display: inline-block !important;
+  text-align: center !important;
+  margin: 0 16px 16px 0 !important;
+  min-width: 120px !important;
+}
+
+.stat-number {
+  font-size: 24px !important;
+  font-weight: 700 !important;
+  color: #4f46e5 !important;
+  display: block !important;
+}
+
+.stat-label {
+  font-size: 12px !important;
+  color: #6b7280 !important;
+  text-transform: uppercase !important;
+  font-weight: 600 !important;
+  letter-spacing: 0.5px !important;
+}
+
+/* Progress Bar */
+.progress-container {
+  background: #e5e7eb !important;
+  height: 8px !important;
+  border-radius: 4px !important;
+  margin: 16px 0 !important;
+  overflow: hidden !important;
+}
+
+.progress-bar {
+  background: linear-gradient(90deg, #4f46e5 0%, #06b6d4 100%) !important;
+  height: 100% !important;
+  border-radius: 4px !important;
+  transition: width 0.3s ease !important;
+}
+
+/* Badge Styles */
+.badge {
+  display: inline-block !important;
+  padding: 6px 12px !important;
+  border-radius: 20px !important;
+  font-size: 12px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.5px !important;
+}
+
+.badge-success {
+  background: #d1fae5 !important;
+  color: #065f46 !important;
+}
+
+.badge-warning {
+  background: #fef3c7 !important;
+  color: #92400e !important;
+}
+
+.badge-info {
+  background: #dbeafe !important;
+  color: #1e40af !important;
+}
+
+.badge-streak {
+  background: linear-gradient(135deg, #f59e0b 0%, #d97706 100%) !important;
+  color: #ffffff !important;
+}
+
+/* Achievement Icons */
+.achievement-icon {
+  width: 64px !important;
+  height: 64px !important;
+  margin: 0 auto 16px auto !important;
+  display: block !important;
+  border-radius: 50% !important;
+}
+
+.icon-trophy {
+  background: linear-gradient(135deg, #fbbf24 0%, #f59e0b 100%) !important;
+}
+
+.icon-streak {
+  background: linear-gradient(135deg, #ef4444 0%, #dc2626 100%) !important;
+}
+
+.icon-target {
+  background: linear-gradient(135deg, #10b981 0%, #059669 100%) !important;
+}
+
+.icon-brain {
+  background: linear-gradient(135deg, #8b5cf6 0%, #7c3aed 100%) !important;
+}
+
+/* Alert Styles */
+.alert {
+  padding: 16px 20px !important;
+  border-radius: 8px !important;
+  margin: 20px 0 !important;
+  border-left: 4px solid !important;
+}
+
+.alert-success {
+  background: #f0fdf4 !important;
+  border-color: #22c55e !important;
+  color: #15803d !important;
+}
+
+.alert-warning {
+  background: #fffbeb !important;
+  border-color: #f59e0b !important;
+  color: #92400e !important;
+}
+
+.alert-urgent {
+  background: #fef2f2 !important;
+  border-color: #ef4444 !important;
+  color: #dc2626 !important;
+}
+
+.alert-info {
+  background: #eff6ff !important;
+  border-color: #3b82f6 !important;
+  color: #1d4ed8 !important;
+}
+
+/* Footer Styles */
+.email-footer {
+  background: #f9fafb !important;
+  padding: 32px 24px !important;
+  text-align: center !important;
+  border: 1px solid #e5e7eb !important;
+  border-top: none !important;
+  border-radius: 0 0 12px 12px !important;
+}
+
+.footer-text {
+  font-size: 14px !important;
+  color: #6b7280 !important;
+  margin: 0 0 16px 0 !important;
+}
+
+.footer-links {
+  margin: 16px 0 !important;
+}
+
+.footer-link {
+  color: #4f46e5 !important;
+  text-decoration: none !important;
+  font-size: 14px !important;
+  margin: 0 12px !important;
+  font-weight: 500 !important;
+}
+
+.footer-link:hover {
+  text-decoration: underline !important;
+}
+
+.social-links {
+  margin: 20px 0 0 0 !important;
+}
+
+.social-link {
+  display: inline-block !important;
+  margin: 0 8px !important;
+  width: 32px !important;
+  height: 32px !important;
+  background: #e5e7eb !important;
+  border-radius: 50% !important;
+  text-decoration: none !important;
+}
+
+/* Responsive Design */
+@media only screen and (max-width: 600px) {
+  .email-container {
+    width: 100% !important;
+    padding: 0 16px !important;
+  }
+
+  .email-header {
+    padding: 24px 16px !important;
+  }
+
+  .email-content {
+    padding: 24px 16px !important;
+  }
+
+  .email-title {
+    font-size: 20px !important;
+  }
+
+  .email-button {
+    width: 100% !important;
+    padding: 14px 24px !important;
+  }
+
+  .stats-container {
+    padding: 16px !important;
+  }
+
+  .stat-item {
+    display: block !important;
+    margin: 0 0 16px 0 !important;
+    width: 100% !important;
+  }
+}
+
+/* Dark Mode Support (limited email client support) */
+@media (prefers-color-scheme: dark) {
+  .email-container {
+    background-color: #111827 !important;
+  }
+
+  .email-content {
+    background-color: #1f2937 !important;
+    border-color: #374151 !important;
+  }
+
+  .email-title {
+    color: #f9fafb !important;
+  }
+
+  .email-body {
+    color: #d1d5db !important;
+  }
+
+  .stats-container {
+    background: #374151 !important;
+    border-color: #4b5563 !important;
+  }
+}
+
+/* Accessibility */
+.sr-only {
+  position: absolute !important;
+  width: 1px !important;
+  height: 1px !important;
+  padding: 0 !important;
+  margin: -1px !important;
+  overflow: hidden !important;
+  clip: rect(0, 0, 0, 0) !important;
+  white-space: nowrap !important;
+  border: 0 !important;
+}
+
+/* High Contrast Mode */
+@media (prefers-contrast: high) {
+  .email-button {
+    border: 2px solid #000000 !important;
+  }
+
+  .badge {
+    border: 1px solid #000000 !important;
+  }
+}

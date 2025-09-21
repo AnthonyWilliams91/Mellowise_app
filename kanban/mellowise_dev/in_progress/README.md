@@ -37,6 +37,18 @@ When starting work on a card:
 
 **Implementation Strategy**: Leverage Context7 for latest ML recommendation patterns, build on existing Epic 2 Phase 1-2 infrastructure
 
+### **MELLOWISE-014: Adaptive Anxiety Management System** (5 pts) - ✅ **ACTIVE**
+
+**Agent Team**: 🎨 UX Expert + 💻 Dev + 📋 PM + 🧪 QA
+
+**Lead Responsibilities**:
+- 🎨 **UX Expert (Elena)**: Design calming interfaces, anxiety-reducing interaction patterns, mindfulness features
+- 💻 **Dev (Marcus)**: Implement anxiety detection algorithms, relaxation features, progress tracking
+- 📋 **PM (Alex)**: Research anxiety management in test prep, define intervention strategies
+- 🧪 **QA (Sam)**: Test anxiety detection accuracy, validate intervention effectiveness
+
+**Implementation Strategy**: Build on MELLOWISE-012 performance insights for anxiety detection, integrate with MELLOWISE-010 difficulty system for confidence building, use MELLOWISE-009 learning styles for personalized anxiety management
+
 ## Guidelines
 
 - Only one developer should work on a card at a time

@@ -1,0 +1,248 @@
+# <!-- Powered by BMAD™ Core -->
+template:
+  id: prompt-optimization-template-v1
+  name: LLM Prompt Optimization Strategy
+  version: 1.0
+  output:
+    format: markdown
+    filename: docs/ai/prompt-optimization-strategy.md
+    title: "LLM Prompt Optimization Strategy: {{project_product_name}}"
+
+workflow:
+  mode: interactive
+  elicitation: advanced-elicitation
+  custom_elicitation:
+    title: "Prompt Optimization Elicitation Actions"
+    options:
+      - "Deep dive into specific prompt pattern optimization"
+      - "Analyze token efficiency and cost reduction strategies"
+      - "Explore prompt chaining and multi-step reasoning"
+      - "Optimize for specific model architectures and capabilities"
+      - "Design prompt testing and A/B experimentation framework"
+      - "Create prompt versioning and management systems"
+      - "Analyze response quality and consistency metrics"
+      - "Develop domain-specific prompt libraries and templates"
+
+sections:
+  - id: executive-summary
+    title: Executive Summary
+    instruction: High-level overview of prompt optimization strategy, expected performance improvements, and cost savings. Write this section LAST.
+
+  - id: current-prompt-analysis
+    title: Current Prompt Performance Analysis
+    sections:
+      - id: baseline-metrics
+        title: Baseline Performance Metrics
+        instruction: |
+          Analyze current prompt performance across key dimensions:
+          - Response quality and accuracy rates
+          - Token usage and cost efficiency
+          - Response time and latency metrics
+          - Consistency and reliability measures
+          - User satisfaction and engagement scores
+        elicit: true
+      - id: prompt-audit
+        title: Current Prompt Inventory & Audit
+        instruction: |
+          Comprehensive review of existing prompts:
+          - Categorize prompts by function and use case
+          - Identify redundant or inefficient prompt patterns
+          - Analyze prompt complexity and token consumption
+          - Document current prompt engineering practices
+          - Assess prompt maintenance and versioning practices
+        elicit: true
+
+  - id: optimization-strategy
+    title: Prompt Optimization Strategy
+    sections:
+      - id: optimization-objectives
+        title: Optimization Objectives & Success Criteria
+        instruction: |
+          Define clear objectives for prompt optimization:
+          - Quality improvement targets (accuracy, relevance, consistency)
+          - Cost reduction goals (token efficiency, API cost savings)
+          - Performance targets (response time, throughput)
+          - User experience enhancements (clarity, engagement)
+          - Scalability and maintenance improvements
+        elicit: true
+      - id: optimization-methodology
+        title: Systematic Optimization Methodology
+        instruction: |
+          Structured approach to prompt improvement:
+          - Prompt decomposition and component analysis
+          - Pattern library development and standardization
+          - A/B testing framework for prompt variations
+          - Performance measurement and evaluation criteria
+          - Iterative refinement and optimization cycles
+        elicit: true
+
+  - id: prompt-engineering-patterns
+    title: Advanced Prompt Engineering Patterns
+    sections:
+      - id: educational-ai-patterns
+        title: Educational AI Prompt Patterns
+        instruction: |
+          Specialized patterns for educational applications:
+          - Socratic questioning and guided discovery prompts
+          - Adaptive difficulty adjustment prompts
+          - Personalized feedback and explanation prompts
+          - Progress assessment and skill evaluation prompts
+          - Student motivation and engagement prompts
+        elicit: true
+      - id: efficiency-patterns
+        title: Token Efficiency Optimization Patterns
+        instruction: |
+          Patterns designed for cost and performance optimization:
+          - Compressed instruction formats
+          - Context window optimization techniques
+          - Prompt chaining and decomposition strategies
+          - Cache-friendly prompt structures
+          - Reusable prompt components and templates
+        elicit: true
+
+  - id: model-specific-optimization
+    title: Model-Specific Optimization Strategies
+    agent_permissions:
+      owner: ai-engineer
+      editors: [ai-engineer]
+    sections:
+      - id: claude-optimization
+        title: Anthropic Claude Optimization
+        instruction: |
+          Claude-specific prompt optimization techniques:
+          - Leverage Claude's constitutional AI training
+          - Optimize for Claude's reasoning capabilities
+          - Utilize Claude's strong instruction following
+          - Design prompts for Claude's safety considerations
+          - Maximize Claude's educational content generation
+        elicit: true
+      - id: openai-optimization
+        title: OpenAI GPT Optimization
+        instruction: |
+          OpenAI-specific optimization strategies:
+          - Leverage function calling and structured outputs
+          - Optimize for GPT's creativity and generation capabilities
+          - Utilize system messages effectively
+          - Design for GPT's token efficiency patterns
+          - Maximize GPT's code generation capabilities
+        elicit: false
+
+  - id: testing-framework
+    title: Prompt Testing & Validation Framework
+    sections:
+      - id: testing-methodology
+        title: Systematic Testing Approach
+        instruction: |
+          Comprehensive testing framework for prompt optimization:
+          - A/B testing design and statistical significance
+          - Test case development and edge case coverage
+          - Automated testing pipelines and continuous evaluation
+          - Human evaluation and quality assessment protocols
+          - Performance regression testing and monitoring
+        elicit: true
+      - id: evaluation-metrics
+        title: Evaluation Metrics & KPIs
+        instruction: |
+          Key performance indicators for prompt effectiveness:
+          - Quality metrics: accuracy, relevance, completeness
+          - Efficiency metrics: tokens per response, cost per interaction
+          - User experience metrics: satisfaction, engagement, clarity
+          - Technical metrics: latency, error rates, consistency
+          - Business metrics: conversion rates, user retention
+        elicit: true
+
+  - id: implementation-plan
+    title: Implementation & Deployment Strategy
+    sections:
+      - id: rollout-strategy
+        title: Phased Rollout Strategy
+        instruction: |
+          Systematic deployment of optimized prompts:
+          - Pilot testing with limited user groups
+          - Gradual rollout with performance monitoring
+          - Rollback procedures and safety measures
+          - Success metrics and go/no-go criteria
+          - Documentation and training requirements
+        elicit: true
+      - id: monitoring-optimization
+        title: Continuous Monitoring & Optimization
+        instruction: |
+          Ongoing optimization and maintenance processes:
+          - Real-time performance monitoring and alerting
+          - Regular prompt performance reviews and updates
+          - User feedback integration and prompt iteration
+          - Cost monitoring and optimization opportunities
+          - Prompt lifecycle management and versioning
+        elicit: true
+
+  - id: cost-optimization
+    title: Cost Optimization & Resource Management
+    sections:
+      - id: token-efficiency
+        title: Token Usage Optimization
+        instruction: |
+          Strategies for reducing token consumption and costs:
+          - Prompt compression techniques and abbreviated formats
+          - Context management and information prioritization
+          - Smart caching and response reuse strategies
+          - Prompt length optimization without quality loss
+          - Batch processing and request optimization
+        elicit: true
+      - id: cost-monitoring
+        title: Cost Tracking & Budget Management
+        instruction: |
+          Financial management of AI operations:
+          - Real-time cost tracking and budget alerts
+          - Cost attribution by feature and user segment
+          - ROI analysis for prompt optimization investments
+          - Budget forecasting and capacity planning
+          - Cost-benefit analysis of optimization initiatives
+        elicit: true
+
+  - id: quality-assurance
+    title: Quality Assurance & Risk Management
+    sections:
+      - id: quality-standards
+        title: Quality Standards & Guidelines
+        instruction: |
+          Maintaining high standards for AI-generated content:
+          - Content quality benchmarks and evaluation criteria
+          - Bias detection and mitigation strategies
+          - Factual accuracy verification and validation
+          - Inappropriate content filtering and safety measures
+          - Educational effectiveness and pedagogical soundness
+        elicit: true
+      - id: risk-mitigation
+        title: Risk Assessment & Mitigation
+        instruction: |
+          Managing risks associated with prompt optimization:
+          - Model degradation and performance regression risks
+          - Content quality and accuracy risks
+          - Cost overrun and budget management risks
+          - User experience and satisfaction risks
+          - Competitive and market positioning risks
+        elicit: false
+
+  - id: future-roadmap
+    title: Future Optimization Roadmap
+    sections:
+      - id: emerging-techniques
+        title: Emerging Optimization Techniques
+        instruction: |
+          Next-generation prompt engineering approaches:
+          - Advanced reasoning and chain-of-thought techniques
+          - Multi-modal prompt integration and optimization
+          - Dynamic prompt generation and personalization
+          - Meta-prompting and self-improving systems
+          - Integration with fine-tuning and model customization
+        elicit: false
+      - id: scaling-strategy
+        title: Scaling & Advanced Optimization
+        instruction: |
+          Long-term optimization and scaling strategies:
+          - Automated prompt optimization and generation
+          - Cross-model prompt portability and standardization
+          - Advanced analytics and optimization insights
+          - Integration with MLOps and AI engineering workflows
+          - Competitive differentiation through prompt excellence
+        elicit: true

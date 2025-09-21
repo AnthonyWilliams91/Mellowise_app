@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Time to Study - Mellowise</title>
+  <!--[if mso]>
+  <nxml:namespace xmlns:nxml="urn:schemas-microsoft-com:office:office" />
+  <nxml:namespace xmlns:w="urn:schemas-microsoft-com:office:word" />
+  <![endif]-->
+</head>
+<body style="margin: 0; padding: 0; background-color: #f9fafb;">
+  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #f9fafb;">
+    <tr>
+      <td align="center" style="padding: 20px 0;">
+        <table class="email-container" role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+
+          <!-- Header -->
+          <tr>
+            <td class="email-header" style="background: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%); padding: 32px 24px; text-align: center; border-radius: 12px 12px 0 0;">
+              <a href="{{dashboardUrl}}" class="email-logo" style="font-size: 28px; font-weight: 700; color: #ffffff; text-decoration: none; letter-spacing: -0.5px;">
+                Mellowise
+              </a>
+              <div class="email-tagline" style="font-size: 14px; color: #e0e7ff; margin-top: 8px; font-weight: 500;">
+                Your daily dose of success
+              </div>
+            </td>
+          </tr>
+
+          <!-- Content -->
+          <tr>
+            <td class="email-content" style="background-color: #ffffff; padding: 40px 32px;">
+
+              <!-- Greeting -->
+              <h1 class="email-title" style="font-size: 24px; font-weight: 700; color: #111827; margin: 0 0 16px 0; line-height: 1.3;">
+                {{greeting}}
+              </h1>
+
+              <!-- Motivational Message -->
+              <p class="email-body" style="font-size: 16px; line-height: 1.6; color: #4b5563; margin: 0 0 24px 0;">
+                {{motivationalMessage}}
+              </p>
+
+              <!-- Current Streak Display -->
+              {{#if streak}}
+              <div class="stats-container" style="background: #f8fafc; border-radius: 12px; padding: 24px; margin: 24px 0; border: 1px solid #e2e8f0; text-align: center;">
+                <div style="margin-bottom: 16px;">
+                  <span style="font-size: 48px; font-weight: 700; color: #f59e0b; display: block;">🔥</span>
+                  <span class="stat-number" style="font-size: 32px; font-weight: 700; color: #4f46e5; display: block; margin-top: 8px;">{{streak}}</span>
+                  <span class="stat-label" style="font-size: 14px; color: #6b7280; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Day Streak</span>
+                </div>
+                <p style="color: #374151; margin: 16px 0 0 0; font-size: 14px;">
+                  Don't break the chain! Keep your momentum going strong.
+                </p>
+              </div>
+              {{/if}}
+
+              <!-- Today's Goal -->
+              <div class="alert alert-info" style="padding: 16px 20px; border-radius: 8px; margin: 20px 0; border-left: 4px solid #3b82f6; background: #eff6ff; color: #1d4ed8;">
+                <h3 style="margin: 0 0 8px 0; font-size: 16px; font-weight: 600;">📚 Today's Goal</h3>
+                <p style="margin: 0; font-size: 14px;">{{todayGoal}}</p>
+                {{#if questionsRemaining}}
+                <p style="margin: 8px 0 0 0; font-size: 14px; font-weight: 600;">
+                  <span class="email-emphasis" style="color: #4f46e5;">{{questionsRemaining}} questions</span> remaining
+                </p>
+                {{/if}}
+              </div>
+
+              <!-- Progress Section -->
+              {{#if progressPercentage}}
+              <div style="margin: 24px 0;">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                  <span style="font-size: 14px; font-weight: 600; color: #374151;">Daily Progress</span>
+                  <span style="font-size: 14px; font-weight: 600; color: #4f46e5;">{{progressPercentage}}%</span>
+                </div>
+                <div class="progress-container" style="background: #e5e7eb; height: 8px; border-radius: 4px; overflow: hidden;">
+                  <div class="progress-bar" style="background: linear-gradient(90deg, #4f46e5 0%, #06b6d4 100%); height: 100%; border-radius: 4px; width: {{progressPercentage}}%;"></div>
+                </div>
+              </div>
+              {{/if}}
+
+              <!-- Quick Stats -->
+              {{#if showStats}}
+              <div class="stats-container" style="background: #f8fafc; border-radius: 12px; padding: 24px; margin: 24px 0; border: 1px solid #e2e8f0;">
+                <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+                  {{#if totalQuestions}}
+                  <div class="stat-item" style="text-align: center; margin-bottom: 16px;">
+                    <span class="stat-number" style="font-size: 24px; font-weight: 700; color: #4f46e5; display: block;">{{totalQuestions}}</span>
+                    <span class="stat-label" style="font-size: 12px; color: #6b7280; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Questions</span>
+                  </div>
+                  {{/if}}
+                  {{#if accuracy}}
+                  <div class="stat-item" style="text-align: center; margin-bottom: 16px;">
+                    <span class="stat-number" style="font-size: 24px; font-weight: 700; color: #10b981; display: block;">{{accuracy}}%</span>
+                    <span class="stat-label" style="font-size: 12px; color: #6b7280; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Accuracy</span>
+                  </div>
+                  {{/if}}
+                  {{#if studyTime}}
+                  <div class="stat-item" style="text-align: center; margin-bottom: 16px;">
+                    <span class="stat-number" style="font-size: 24px; font-weight: 700; color: #8b5cf6; display: block;">{{studyTime}}</span>
+                    <span class="stat-label" style="font-size: 12px; color: #6b7280; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Study Time</span>
+                  </div>
+                  {{/if}}
+                </div>
+              </div>
+              {{/if}}
+
+              <!-- Study Tips -->
+              {{#if showTips}}
+              <div style="background: #fef3c7; border-radius: 8px; padding: 16px; margin: 24px 0; border-left: 4px solid #f59e0b;">
+                <h4 style="margin: 0 0 8px 0; color: #92400e; font-size: 14px; font-weight: 600;">💡 Study Tip</h4>
+                <p style="margin: 0; color: #92400e; font-size: 14px;">{{studyTip}}</p>
+              </div>
+              {{/if}}
+
+              <!-- Call to Action -->
+              <div style="text-align: center; margin: 32px 0;">
+                <a href="{{studyUrl}}" class="email-button" style="display: inline-block; padding: 16px 32px; background: linear-gradient(135deg, #4f46e5 0%, #6366f1 100%); color: #ffffff; text-decoration: none; font-weight: 600; font-size: 16px; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+                  🚀 Start Studying Now
+                </a>
+              </div>
+
+              <!-- Alternative Actions -->
+              <div style="text-align: center; margin: 16px 0;">
+                <a href="{{dashboardUrl}}" style="color: #4f46e5; text-decoration: none; font-size: 14px; margin: 0 12px;">View Dashboard</a>
+                <span style="color: #d1d5db;">|</span>
+                <a href="{{goalsUrl}}" style="color: #4f46e5; text-decoration: none; font-size: 14px; margin: 0 12px;">Update Goals</a>
+              </div>
+
+              <!-- Last Study Reminder -->
+              {{#if lastStudyDate}}
+              <div style="text-align: center; margin-top: 24px; padding-top: 24px; border-top: 1px solid #e5e7eb;">
+                <p style="color: #6b7280; font-size: 14px; margin: 0;">
+                  Last study session: <span style="font-weight: 600;">{{lastStudyDate}}</span>
+                </p>
+              </div>
+              {{/if}}
+
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td class="email-footer" style="background: #f9fafb; padding: 32px 24px; text-align: center; border: 1px solid #e5e7eb; border-top: none; border-radius: 0 0 12px 12px;">
+              <p class="footer-text" style="font-size: 14px; color: #6b7280; margin: 0 0 16px 0;">
+                You're receiving this because you have study reminders enabled in your Mellowise account.
+              </p>
+
+              <div class="footer-links" style="margin: 16px 0;">
+                <a href="{{dashboardUrl}}/settings" class="footer-link" style="color: #4f46e5; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 500;">Notification Settings</a>
+                <a href="{{supportEmail}}" class="footer-link" style="color: #4f46e5; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 500;">Support</a>
+                <a href="{{unsubscribeUrl}}" class="footer-link" style="color: #6b7280; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 500;">Unsubscribe</a>
+              </div>
+
+              <p style="font-size: 12px; color: #9ca3af; margin: 16px 0 0 0;">
+                © {{currentYear}} Mellowise. All rights reserved.<br>
+                Empowering students to achieve their exam goals.
+              </p>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Tracking Pixel -->
+  {{trackingPixel}}
+
+  <!-- Preheader Text (Hidden) -->
+  <div style="display: none; font-size: 1px; color: #f9fafb; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+    {{userName}}, time for your daily study session! {{streak}} day streak. {{motivationalMessage}}
+  </div>
+</body>
+</html>

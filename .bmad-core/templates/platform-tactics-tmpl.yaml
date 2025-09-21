@@ -1,0 +1,334 @@
+# <!-- Powered by BMAD™ Core -->
+template:
+  id: platform-tactics-template-v1
+  name: Platform-Specific Marketing Tactics
+  version: 1.0
+  output:
+    format: markdown
+    filename: docs/mktg/platform-specific-tactics.md
+    title: "Platform-Specific Marketing Tactics: {{project_product_name}}"
+
+workflow:
+  mode: interactive
+  elicitation: advanced-elicitation
+  custom_elicitation:
+    title: "Platform Tactics Elicitation Actions"
+    options:
+      - "Deep dive into platform-specific content optimization"
+      - "Analyze viral content patterns and trending strategies"
+      - "Explore platform algorithm optimization techniques"
+      - "Develop platform-native engagement strategies"
+      - "Create cross-platform content repurposing workflows"
+      - "Optimize posting timing and frequency strategies"
+      - "Design platform-specific conversion funnels"
+      - "Analyze competitor tactics and differentiation opportunities"
+
+sections:
+  - id: executive-summary
+    title: Executive Summary
+    instruction: High-level overview of platform-specific tactics, expected outcomes, and resource requirements. Write this section LAST.
+
+  - id: youtube-tactics
+    title: YouTube Marketing Tactics
+    sections:
+      - id: youtube-content-strategy
+        title: YouTube Content Strategy
+        instruction: |
+          Specific YouTube content tactics for LSAT prep:
+          - Educational series: "LSAT Logic Games Mastery", "Reading Comprehension Strategies"
+          - Student success stories and score improvement journeys
+          - Live study sessions and Q&A streams
+          - Shorts strategy: Quick LSAT tips, motivation, study hacks
+          - Collaboration videos with LSAT tutors and law students
+        elicit: true
+      - id: youtube-optimization
+        title: YouTube SEO & Algorithm Optimization
+        instruction: |
+          YouTube-specific optimization tactics:
+          - Keyword research for LSAT and law school content
+          - Thumbnail design and A/B testing strategies
+          - Video title optimization for search and suggested videos
+          - Description and tag optimization for discoverability
+          - End screen and card strategies for channel growth
+          - Community tab engagement and YouTube Shorts integration
+        elicit: true
+      - id: youtube-monetization
+        title: YouTube Monetization & Partnership
+        instruction: |
+          Revenue and partnership strategies:
+          - YouTube Partner Program optimization
+          - Sponsored content and brand partnership guidelines
+          - Channel membership and Super Chat strategies
+          - Affiliate marketing integration (LSAT prep books, courses)
+          - Cross-promotion with other educational channels
+        elicit: false
+
+  - id: tiktok-tactics
+    title: TikTok Marketing Tactics
+    sections:
+      - id: tiktok-content-formats
+        title: TikTok Content Formats
+        instruction: |
+          TikTok-native content strategies:
+          - "Study with me" videos and productivity content
+          - LSAT tip series in 60-second format
+          - Student transformation stories (before/after scores)
+          - Day-in-the-life content for law students
+          - Trend-jacking with educational twists
+          - Duets and collaborations with student influencers
+        elicit: true
+      - id: tiktok-virality
+        title: TikTok Virality & Trend Strategy
+        instruction: |
+          Tactics for viral growth on TikTok:
+          - Hashtag research and trending hashtag participation
+          - Sound and music trend integration with educational content
+          - Challenge creation and participation strategies
+          - Timing optimization for maximum reach
+          - Comment engagement and community building
+          - TikTok Creator Fund and monetization strategies
+        elicit: true
+      - id: tiktok-advertising
+        title: TikTok Ads & Promotion
+        instruction: |
+          TikTok advertising strategies:
+          - In-feed ads with native content feel
+          - Branded hashtag challenges for user engagement
+          - TopView and Brand Takeover for maximum reach
+          - Spark Ads to amplify organic content
+          - TikTok Creator Marketplace partnerships
+        elicit: false
+
+  - id: instagram-tactics
+    title: Instagram Marketing Tactics
+    sections:
+      - id: instagram-content-mix
+        title: Instagram Content Mix Strategy
+        instruction: |
+          Instagram content strategy across formats:
+          - Feed posts: Study motivation, LSAT tips, success stories
+          - Stories: Behind-the-scenes, quick tips, polls and Q&As
+          - Reels: Educational content, student testimonials, trending audio
+          - IGTV: Longer-form tutorials and deep-dive content
+          - Live sessions: Study groups, Q&As, expert interviews
+        elicit: true
+      - id: instagram-engagement
+        title: Instagram Engagement Tactics
+        instruction: |
+          Strategies for building Instagram engagement:
+          - Story highlights organization (LSAT tips, success stories, FAQs)
+          - User-generated content campaigns and hashtags
+          - Instagram Shopping integration for course access
+          - Collaboration posts with LSAT influencers
+          - Contest and giveaway strategies for growth
+          - DM automation and customer service integration
+        elicit: true
+      - id: instagram-advertising
+        title: Instagram Advertising Strategy
+        instruction: |
+          Instagram ads optimization:
+          - Feed and Stories ad creative best practices
+          - Reels ads for educational content promotion
+          - Carousel ads for feature demonstrations
+          - Retargeting campaigns for website visitors
+          - Lookalike audiences based on successful students
+        elicit: false
+
+  - id: reddit-forum-tactics
+    title: Reddit & Forum Marketing Tactics
+    sections:
+      - id: reddit-community-strategy
+        title: Reddit Community Engagement
+        instruction: |
+          Reddit marketing approach for LSAT communities:
+          - Key subreddits: r/LSAT, r/lawschooladmissions, r/prelaw
+          - Value-first content sharing and genuine participation
+          - AMA scheduling and promotion strategies
+          - Community guidelines compliance and relationship building
+          - Organic mention and recommendation cultivation
+        elicit: true
+      - id: forum-participation
+        title: LSAT Forum Participation Strategy
+        instruction: |
+          Strategies for LSAT prep forums and communities:
+          - LSAT Forum, 7Sage community, Powerscore forum participation
+          - Expert positioning through helpful content and advice
+          - Subtle product mentions and organic recommendations
+          - Student success story sharing and testimonials
+          - Resource sharing and community building
+        elicit: true
+      - id: discord-communities
+        title: Discord Community Building
+        instruction: |
+          Discord server strategies for LSAT students:
+          - Creating and managing LSAT study Discord servers
+          - Partnering with existing LSAT prep Discord communities
+          - Real-time study sessions and accountability groups
+          - Bot integration for study reminders and progress tracking
+          - Voice channel study rooms and group sessions
+        elicit: true
+
+  - id: linkedin-tactics
+    title: LinkedIn B2B Marketing Tactics
+    sections:
+      - id: linkedin-content-strategy
+        title: LinkedIn Professional Content
+        instruction: |
+          LinkedIn content for professional audience:
+          - Thought leadership articles on legal education trends
+          - Student success stories and career outcome posts
+          - Law school partnership announcements
+          - Industry insights and LSAT score impact on admissions
+          - Professional development content for pre-law advisors
+        elicit: false
+      - id: linkedin-networking
+        title: LinkedIn Networking & Partnerships
+        instruction: |
+          Professional networking strategies:
+          - Connection building with law school admissions officers
+          - Partnerships with pre-law advisors and career counselors
+          - Engagement with legal education influencers
+          - Company page optimization and employee advocacy
+          - LinkedIn Event hosting for LSAT prep webinars
+        elicit: false
+
+  - id: twitter-x-tactics
+    title: Twitter/X Marketing Tactics
+    sections:
+      - id: twitter-engagement
+        title: Twitter Engagement Strategy
+        instruction: |
+          Twitter tactics for LSAT prep community:
+          - Real-time engagement during LSAT registration and test dates
+          - Twitter Spaces hosting for LSAT Q&A sessions
+          - Thread creation for LSAT tips and strategies
+          - Engagement with law school and legal education accounts
+          - Live-tweeting during major law school events
+        elicit: false
+      - id: twitter-customer-service
+        title: Twitter Customer Support
+        instruction: |
+          Using Twitter for customer service and support:
+          - Rapid response to customer questions and concerns
+          - Public resolution of common issues and questions
+          - Proactive outreach during LSAT test periods
+          - Community management and moderation strategies
+        elicit: false
+
+  - id: cross-platform-tactics
+    title: Cross-Platform Integration Tactics
+    sections:
+      - id: content-repurposing
+        title: Content Repurposing Strategy
+        instruction: |
+          Efficient content creation across platforms:
+          - Long-form YouTube videos → TikTok/Instagram Reels clips
+          - Blog posts → Instagram carousel posts and LinkedIn articles
+          - Live sessions → podcast episodes and audio content
+          - Student success stories → testimonial content across all platforms
+          - LSAT tips → infographics, videos, and social posts
+        elicit: true
+      - id: cross-promotion
+        title: Cross-Platform Promotion Strategy
+        instruction: |
+          Driving traffic between platforms:
+          - YouTube channel promotion on TikTok and Instagram
+          - Instagram Story highlights linking to YouTube tutorials
+          - Reddit post promotion of valuable YouTube content
+          - Email newsletter integration with social content
+          - Website blog content promotion across all platforms
+        elicit: true
+
+  - id: emerging-platforms
+    title: Emerging Platform Opportunities
+    sections:
+      - id: new-platform-assessment
+        title: New Platform Evaluation
+        instruction: |
+          Framework for evaluating new social platforms:
+          - Platform demographics and target audience alignment
+          - Content format requirements and production capacity
+          - Organic reach potential and algorithm understanding
+          - Monetization and advertising opportunities
+          - Competition level and market saturation analysis
+        elicit: false
+      - id: platform-experimentation
+        title: Platform Experimentation Strategy
+        instruction: |
+          Testing new platforms and features:
+          - Pilot program approach for new platform testing
+          - Resource allocation for experimental platforms
+          - Success metrics and evaluation criteria
+          - Scaling strategies for successful platforms
+          - Exit strategies for unsuccessful platforms
+        elicit: false
+
+  - id: automation-tools
+    title: Platform Management & Automation
+    sections:
+      - id: social-media-tools
+        title: Social Media Management Tools
+        instruction: |
+          Platform management and automation strategies:
+          - Scheduling tools: Buffer, Hootsuite, Later for consistent posting
+          - Design tools: Canva, Adobe Creative Suite for content creation
+          - Analytics tools: Native platform analytics plus third-party insights
+          - Community management tools for engagement and response
+          - Link management and tracking tools for attribution
+        elicit: false
+      - id: workflow-automation
+        title: Content Creation Workflow
+        instruction: |
+          Streamlined content production process:
+          - Content ideation and planning workflows
+          - Production schedules and batch creation strategies
+          - Approval processes and quality control measures
+          - Publishing schedules and cross-platform coordination
+          - Performance monitoring and optimization workflows
+        elicit: true
+
+  - id: performance-optimization
+    title: Platform Performance Optimization
+    sections:
+      - id: algorithm-optimization
+        title: Platform Algorithm Optimization
+        instruction: |
+          Strategies for optimizing content for each platform's algorithm:
+          - YouTube: Watch time, click-through rate, engagement optimization
+          - TikTok: Completion rate, shares, comment engagement
+          - Instagram: Early engagement, story completion, save rates
+          - Reddit: Upvote velocity, comment quality, community engagement
+          - LinkedIn: Professional engagement, share rate, click-through rate
+        elicit: true
+      - id: performance-testing
+        title: A/B Testing & Performance Analysis
+        instruction: |
+          Testing strategies for continuous improvement:
+          - Content format A/B testing across platforms
+          - Posting time and frequency optimization
+          - Hashtag and keyword testing strategies
+          - Creative asset testing (thumbnails, captions, visuals)
+          - Audience targeting and segmentation testing
+        elicit: true
+
+  - id: crisis-management
+    title: Platform-Specific Crisis Management
+    sections:
+      - id: reputation-monitoring
+        title: Platform Reputation Monitoring
+        instruction: |
+          Monitoring and managing reputation across platforms:
+          - Social listening tools and alert setup
+          - Negative comment and review response protocols
+          - Crisis communication templates and approval processes
+          - Escalation procedures for serious reputation issues
+        elicit: false
+      - id: platform-risk-mitigation
+        title: Platform Risk Mitigation
+        instruction: |
+          Risk management strategies for each platform:
+          - Algorithm change adaptation strategies
+          - Account security and backup procedures
+          - Content policy compliance and violation response
+          - Platform diversification and dependency reduction
+        elicit: false

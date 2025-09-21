@@ -1,0 +1,285 @@
+# <!-- Powered by BMAD™ Core -->
+template:
+  id: study-curriculum-template-v1
+  name: LSAT Study Curriculum Design
+  version: 1.0
+  output:
+    format: markdown
+    filename: docs/education/lsat-study-curriculum.md
+    title: "LSAT Study Curriculum: {{curriculum_name}}"
+
+workflow:
+  mode: interactive
+  elicitation: advanced-elicitation
+  custom_elicitation:
+    title: "LSAT Curriculum Elicitation Actions"
+    options:
+      - "Deep dive into specific LSAT section pedagogy and progression"
+      - "Analyze student learning patterns and optimal sequencing"
+      - "Explore adaptive difficulty adjustment and personalization"
+      - "Design assessment strategies and progress measurement"
+      - "Create anxiety management and confidence building approaches"
+      - "Develop practice scheduling and spaced repetition systems"
+      - "Optimize for different learning styles and preferences"
+      - "Design remediation and acceleration pathways"
+
+sections:
+  - id: executive-summary
+    title: Executive Summary
+    instruction: High-level overview of curriculum design, learning objectives, expected outcomes, and implementation timeline. Write this section LAST.
+
+  - id: curriculum-foundation
+    title: Curriculum Foundation & Philosophy
+    sections:
+      - id: learning-objectives
+        title: Primary Learning Objectives
+        instruction: |
+          Define comprehensive learning goals for LSAT preparation:
+          - Mastery objectives for each LSAT section (LR, LG, RC)
+          - Critical thinking and analytical reasoning development
+          - Test-taking strategy and time management skills
+          - Confidence building and anxiety management
+          - Score improvement targets and milestone goals
+        elicit: true
+      - id: pedagogical-approach
+        title: Pedagogical Philosophy & Methodology
+        instruction: |
+          Educational framework underlying the curriculum design:
+          - Evidence-based learning principles and cognitive science
+          - Adaptive learning and personalization strategies
+          - Scaffolded instruction and progressive skill building
+          - Active learning and student engagement techniques
+          - Assessment-driven instruction and feedback loops
+        elicit: true
+
+  - id: section-curricula
+    title: LSAT Section-Specific Curricula
+    sections:
+      - id: logical-reasoning-curriculum
+        title: Logical Reasoning (LR) Curriculum
+        instruction: |
+          Comprehensive curriculum for Logical Reasoning mastery:
+          - Foundational concepts: argument structure, premises, conclusions
+          - Question type mastery: strengthen, weaken, assumption, inference
+          - Advanced techniques: pre-phrasing, answer choice elimination
+          - Common logical fallacies and reasoning patterns
+          - Speed and accuracy development strategies
+          - Section-specific practice and assessment protocols
+        elicit: true
+      - id: logic-games-curriculum
+        title: Logic Games (LG) Curriculum
+        instruction: |
+          Systematic approach to Logic Games mastery:
+          - Game type identification and classification systems
+          - Diagramming techniques and notation systems
+          - Rule interpretation and constraint management
+          - Inference chains and deduction strategies
+          - Time management and game selection strategies
+          - Progressive difficulty and complexity building
+        elicit: true
+      - id: reading-comprehension-curriculum
+        title: Reading Comprehension (RC) Curriculum
+        instruction: |
+          Strategic curriculum for Reading Comprehension excellence:
+          - Active reading strategies and passage analysis
+          - Main point identification and structural mapping
+          - Question type strategies: detail, inference, purpose
+          - Comparative reading and dual passage techniques
+          - Vocabulary building and context clue strategies
+          - Speed reading and comprehension balance optimization
+        elicit: true
+
+  - id: adaptive-learning-design
+    title: Adaptive Learning & Personalization
+    sections:
+      - id: skill-assessment-system
+        title: Continuous Skill Assessment
+        instruction: |
+          Dynamic assessment framework for personalized learning:
+          - Diagnostic testing and initial skill level evaluation
+          - Ongoing performance tracking and skill gap identification
+          - Adaptive difficulty adjustment based on mastery levels
+          - Learning style identification and accommodation
+          - Progress monitoring and milestone achievement tracking
+        elicit: true
+      - id: personalization-algorithms
+        title: Personalization & Adaptive Pathways
+        instruction: |
+          AI-driven personalization strategies:
+          - Individual learning pace and schedule optimization
+          - Content recommendation based on weakness patterns
+          - Practice question selection and difficulty scaling
+          - Remediation pathway design for struggling concepts
+          - Acceleration tracks for advanced learners
+        elicit: true
+
+  - id: practice-implementation
+    title: Practice & Application Framework
+    sections:
+      - id: practice-methodology
+        title: Structured Practice Methodology
+        instruction: |
+          Systematic approach to LSAT practice and skill development:
+          - Deliberate practice principles and focused skill building
+          - Spaced repetition and retrieval practice integration
+          - Timed vs untimed practice balance and progression
+          - Error analysis and correction protocols
+          - Practice log maintenance and reflection processes
+        elicit: true
+      - id: assessment-strategy
+        title: Assessment & Progress Evaluation
+        instruction: |
+          Comprehensive assessment framework:
+          - Formative assessment during learning process
+          - Summative evaluation at curriculum milestones
+          - Diagnostic testing for skill gap identification
+          - Practice test administration and score analysis
+          - Performance trend analysis and prediction modeling
+        elicit: true
+
+  - id: anxiety-confidence-management
+    title: Test Anxiety & Confidence Building
+    agent_permissions:
+      owner: lsat-expert
+      editors: [lsat-expert, ux-expert]
+    sections:
+      - id: anxiety-reduction-strategies
+        title: Test Anxiety Management Program
+        instruction: |
+          Evidence-based anxiety reduction techniques:
+          - Cognitive behavioral strategies for test anxiety
+          - Mindfulness and relaxation techniques
+          - Systematic desensitization and exposure therapy
+          - Positive self-talk and confidence building exercises
+          - Test day preparation and stress management protocols
+        elicit: true
+      - id: confidence-building-framework
+        title: Confidence Building & Growth Mindset
+        instruction: |
+          Systematic confidence development approach:
+          - Growth mindset cultivation and fixed mindset challenges
+          - Success milestone celebration and achievement recognition
+          - Failure reframing and learning opportunity focus
+          - Self-efficacy building through incremental progress
+          - Peer support and community building strategies
+        elicit: true
+
+  - id: study-scheduling
+    title: Study Scheduling & Time Management
+    sections:
+      - id: schedule-optimization
+        title: Optimal Study Schedule Design
+        instruction: |
+          Evidence-based study scheduling strategies:
+          - Spaced repetition and distributed practice schedules
+          - Optimal study session length and break intervals
+          - Subject rotation and interleaving strategies
+          - Peak performance time identification and utilization
+          - Study habit formation and consistency building
+        elicit: true
+      - id: time-management-skills
+        title: Time Management & Productivity
+        instruction: |
+          Comprehensive time management training:
+          - Priority setting and goal-oriented study planning
+          - Procrastination prevention and motivation maintenance
+          - Distraction management and focus enhancement
+          - Study environment optimization
+          - Work-life balance and sustainable study practices
+        elicit: false
+
+  - id: technology-integration
+    title: Technology & AI Integration
+    sections:
+      - id: ai-tutoring-integration
+        title: AI Tutoring System Integration
+        instruction: |
+          Seamless integration of AI tutoring capabilities:
+          - AI-generated practice questions and explanations
+          - Personalized feedback and coaching delivery
+          - Natural language interaction and student support
+          - Adaptive content delivery and pacing
+          - AI-human tutor collaboration and handoff protocols
+        elicit: true
+      - id: platform-features
+        title: Platform Feature Integration
+        instruction: |
+          Curriculum integration with platform capabilities:
+          - Gamification elements and progress visualization
+          - Social learning and peer interaction features
+          - Mobile learning and on-the-go study support
+          - Analytics and performance tracking integration
+          - Accessibility features and inclusive design
+        elicit: false
+
+  - id: differentiation-strategies
+    title: Learning Differentiation & Accessibility
+    sections:
+      - id: learning-style-accommodation
+        title: Learning Style Accommodations
+        instruction: |
+          Inclusive curriculum design for diverse learning preferences:
+          - Visual learning support with diagrams and infographics
+          - Auditory learning integration with explanations and discussions
+          - Kinesthetic learning through interactive exercises
+          - Reading/writing preference accommodation
+          - Multimodal content delivery and format options
+        elicit: true
+      - id: accessibility-compliance
+        title: Accessibility & Universal Design
+        instruction: |
+          Ensuring curriculum accessibility for all learners:
+          - Learning disability accommodations and support
+          - Visual and auditory impairment considerations
+          - Language support for non-native English speakers
+          - Socioeconomic accessibility and resource availability
+          - Cultural sensitivity and inclusive content design
+        elicit: false
+
+  - id: quality-assurance
+    title: Curriculum Quality Assurance
+    sections:
+      - id: content-validation
+        title: Content Accuracy & Validation
+        instruction: |
+          Ensuring high-quality, accurate curriculum content:
+          - LSAT content accuracy and official test alignment
+          - Expert review and validation processes
+          - Regular content updates and maintenance
+          - Student feedback integration and improvement cycles
+          - Competitive analysis and best practice integration
+        elicit: true
+      - id: effectiveness-measurement
+        title: Curriculum Effectiveness Evaluation
+        instruction: |
+          Measuring and optimizing curriculum performance:
+          - Student outcome tracking and score improvement analysis
+          - Learning objective achievement measurement
+          - Student satisfaction and engagement metrics
+          - Completion rates and retention analysis
+          - Long-term success and law school admission outcomes
+        elicit: true
+
+  - id: implementation-roadmap
+    title: Implementation Strategy & Timeline
+    sections:
+      - id: rollout-phases
+        title: Phased Implementation Plan
+        instruction: |
+          Strategic curriculum deployment and rollout:
+          - Pilot testing with limited student groups
+          - Iterative refinement based on feedback and performance
+          - Full-scale implementation and monitoring
+          - Continuous improvement and optimization cycles
+          - Success metrics and milestone evaluation
+        elicit: true
+      - id: resource-requirements
+        title: Resource Requirements & Dependencies
+        instruction: |
+          Implementation resource planning and allocation:
+          - Content development and creation requirements
+          - Technology infrastructure and platform needs
+          - Instructor training and support requirements
+          - Student support and tutoring resource needs
+          - Quality assurance and maintenance resource allocation
+        elicit: true

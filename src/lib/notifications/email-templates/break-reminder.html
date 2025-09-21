@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Time for a Well-Deserved Break - Mellowise</title>
+</head>
+<body style="margin: 0; padding: 0; background-color: #f9fafb;">
+  <table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%" style="background-color: #f9fafb;">
+    <tr>
+      <td align="center" style="padding: 20px 0;">
+        <table class="email-container" role="presentation" cellspacing="0" cellpadding="0" border="0" style="width: 100%; max-width: 600px; margin: 0 auto; background-color: #ffffff; border-radius: 12px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+
+          <!-- Header -->
+          <tr>
+            <td class="email-header" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); padding: 32px 24px; text-align: center; border-radius: 12px 12px 0 0;">
+              <a href="{{dashboardUrl}}" class="email-logo" style="font-size: 28px; font-weight: 700; color: #ffffff; text-decoration: none; letter-spacing: -0.5px;">
+                Mellowise
+              </a>
+              <div class="email-tagline" style="font-size: 14px; color: #a7f3d0; margin-top: 8px; font-weight: 500;">
+                Wellness & Balance Reminder
+              </div>
+            </td>
+          </tr>
+
+          <!-- Content -->
+          <tr>
+            <td class="email-content" style="background-color: #ffffff; padding: 40px 32px;">
+
+              <!-- Break Reminder Header -->
+              <div style="text-align: center; margin-bottom: 32px;">
+                <div style="background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%); border-radius: 20px; padding: 32px; margin-bottom: 24px; border: 2px solid #22c55e;">
+                  <span style="font-size: 64px; display: block; margin-bottom: 16px;">🧘‍♀️</span>
+                  <h1 style="font-size: 28px; font-weight: 800; color: #065f46; margin: 0 0 12px 0;">Time for a Break, {{userName}}!</h1>
+                  <p style="font-size: 16px; color: #047857; margin: 0; font-weight: 600;">
+                    You've been working hard. Let's recharge your mind and body.
+                  </p>
+                </div>
+              </div>
+
+              <!-- Study Stats -->
+              <div class="stats-container" style="background: #f0fdf4; border-radius: 12px; padding: 24px; margin: 24px 0; border: 1px solid #bbf7d0;">
+                <h3 style="margin: 0 0 20px 0; text-align: center; color: #065f46; font-size: 18px; font-weight: 700;">📊 Today's Study Session</h3>
+
+                <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
+                  <div class="stat-item" style="text-align: center; margin-bottom: 16px;">
+                    <span class="stat-number" style="font-size: 28px; font-weight: 700; color: #10b981; display: block;">{{studyHoursToday}}</span>
+                    <span class="stat-label" style="font-size: 12px; color: #047857; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Hours Studied</span>
+                  </div>
+                  {{#if questionsCompleted}}
+                  <div class="stat-item" style="text-align: center; margin-bottom: 16px;">
+                    <span class="stat-number" style="font-size: 28px; font-weight: 700; color: #059669; display: block;">{{questionsCompleted}}</span>
+                    <span class="stat-label" style="font-size: 12px; color: #047857; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Questions</span>
+                  </div>
+                  {{/if}}
+                  {{#if studyStreak}}
+                  <div class="stat-item" style="text-align: center; margin-bottom: 16px;">
+                    <span class="stat-number" style="font-size: 28px; font-weight: 700; color: #f59e0b; display: block;">{{studyStreak}}</span>
+                    <span class="stat-label" style="font-size: 12px; color: #047857; text-transform: uppercase; font-weight: 600; letter-spacing: 0.5px;">Day Streak</span>
+                  </div>
+                  {{/if}}
+                </div>
+
+                <div style="text-align: center; margin-top: 16px; padding-top: 16px; border-top: 1px solid #bbf7d0;">
+                  <p style="margin: 0; color: #065f46; font-size: 14px; font-weight: 600;">
+                    Amazing work! You've earned this break. 🌟
+                  </p>
+                </div>
+              </div>
+
+              <!-- Wellness Message -->
+              <div style="background: linear-gradient(135deg, #eff6ff 0%, #dbeafe 100%); border-radius: 12px; padding: 24px; margin: 24px 0; border: 1px solid #3b82f6; text-align: center;">
+                <h3 style="margin: 0 0 16px 0; color: #1d4ed8; font-size: 18px; font-weight: 700;">💙 Wellness Message</h3>
+                <p style="margin: 0; color: #1e40af; font-size: 16px; line-height: 1.6;">
+                  {{wellnessMessage}}
+                </p>
+              </div>
+
+              <!-- Break Suggestions -->
+              <div style="background: #fefce8; border-radius: 12px; padding: 24px; margin: 24px 0; border: 1px solid #eab308;">
+                <h3 style="margin: 0 0 20px 0; color: #a16207; font-size: 18px; font-weight: 700; text-align: center;">🌈 Relaxation Suggestions</h3>
+
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 16px;">
+                  {{#each relaxationTips}}
+                  <div style="background: #ffffff; border-radius: 8px; padding: 16px; border: 1px solid #fde047; text-align: center;">
+                    <p style="margin: 0; color: #713f12; font-size: 14px; font-weight: 600;">{{this}}</p>
+                  </div>
+                  {{else}}
+                  <!-- Default suggestions if none provided -->
+                  <div style="background: #ffffff; border-radius: 8px; padding: 16px; border: 1px solid #fde047; text-align: center;">
+                    <span style="font-size: 24px; display: block; margin-bottom: 8px;">🚶‍♀️</span>
+                    <p style="margin: 0; color: #713f12; font-size: 14px; font-weight: 600;">Take a 10-minute walk outside for fresh air</p>
+                  </div>
+                  <div style="background: #ffffff; border-radius: 8px; padding: 16px; border: 1px solid #fde047; text-align: center;">
+                    <span style="font-size: 24px; display: block; margin-bottom: 8px;">🧘</span>
+                    <p style="margin: 0; color: #713f12; font-size: 14px; font-weight: 600;">Practice 5 minutes of deep breathing</p>
+                  </div>
+                  <div style="background: #ffffff; border-radius: 8px; padding: 16px; border: 1px solid #fde047; text-align: center;">
+                    <span style="font-size: 24px; display: block; margin-bottom: 8px;">💧</span>
+                    <p style="margin: 0; color: #713f12; font-size: 14px; font-weight: 600;">Drink a glass of water and stretch</p>
+                  </div>
+                  <div style="background: #ffffff; border-radius: 8px; padding: 16px; border: 1px solid #fde047; text-align: center;">
+                    <span style="font-size: 24px; display: block; margin-bottom: 8px;">👁️</span>
+                    <p style="margin: 0; color: #713f12; font-size: 14px; font-weight: 600;">Rest your eyes with the 20-20-20 rule</p>
+                  </div>
+                  <div style="background: #ffffff; border-radius: 8px; padding: 16px; border: 1px solid #fde047; text-align: center;">
+                    <span style="font-size: 24px; display: block; margin-bottom: 8px;">🎵</span>
+                    <p style="margin: 0; color: #713f12; font-size: 14px; font-weight: 600;">Listen to your favorite calming music</p>
+                  </div>
+                  <div style="background: #ffffff; border-radius: 8px; padding: 16px; border: 1px solid #fde047; text-align: center;">
+                    <span style="font-size: 24px; display: block; margin-bottom: 8px;">☕</span>
+                    <p style="margin: 0; color: #713f12; font-size: 14px; font-weight: 600;">Enjoy a healthy snack or herbal tea</p>
+                  </div>
+                  {{/each}}
+                </div>
+              </div>
+
+              <!-- Break Timer -->
+              <div style="background: #f0f9ff; border-radius: 12px; padding: 24px; margin: 24px 0; border: 2px solid #0ea5e9; text-align: center;">
+                <h3 style="margin: 0 0 16px 0; color: #0c4a6e; font-size: 18px; font-weight: 700;">⏰ Recommended Break Time</h3>
+                <div style="background: #ffffff; border-radius: 8px; padding: 20px; margin: 16px 0; border: 1px solid #7dd3fc;">
+                  <span style="font-size: 48px; font-weight: 900; color: #0ea5e9; display: block;">15-30</span>
+                  <span style="font-size: 16px; color: #0369a1; font-weight: 600;">MINUTES</span>
+                </div>
+                <p style="margin: 0; color: #0369a1; font-size: 14px;">
+                  Perfect break duration to refresh your mind without losing focus.
+                </p>
+              </div>
+
+              <!-- Study Balance Tips -->
+              <div class="alert alert-info" style="padding: 20px; border-radius: 8px; margin: 24px 0; border-left: 4px solid #3b82f6; background: #eff6ff; color: #1d4ed8;">
+                <h3 style="margin: 0 0 12px 0; font-size: 16px; font-weight: 700;">🎯 Study-Life Balance Tips</h3>
+                <ul style="margin: 0; padding-left: 20px; color: #1e40af;">
+                  <li style="margin-bottom: 8px;">Follow the Pomodoro Technique: 25 minutes study, 5 minutes break</li>
+                  <li style="margin-bottom: 8px;">Take longer breaks (15-30 min) every 2-3 hours</li>
+                  <li style="margin-bottom: 8px;">Stay hydrated and maintain good posture</li>
+                  <li style="margin-bottom: 8px;">Get 7-9 hours of sleep for optimal learning</li>
+                  <li style="margin-bottom: 8px;">Include physical activity in your daily routine</li>
+                </ul>
+              </div>
+
+              <!-- Resume Study Reminder -->
+              {{#if resumeStudyTime}}
+              <div style="background: #fef3c7; border-radius: 8px; padding: 20px; margin: 24px 0; text-align: center; border: 1px solid #f59e0b;">
+                <h4 style="margin: 0 0 12px 0; color: #92400e; font-size: 16px; font-weight: 700;">📚 Resume Study Reminder</h4>
+                <p style="margin: 0; color: #b45309; font-size: 14px;">
+                  Don't forget to return to your studies around <strong>{{resumeStudyTime}}</strong>
+                </p>
+                <p style="margin: 8px 0 0 0; color: #a16207; font-size: 12px;">
+                  We'll send you a gentle reminder to help maintain your momentum.
+                </p>
+              </div>
+              {{/if}}
+
+              <!-- Motivational Quote -->
+              <div style="background: #fafafa; border-radius: 8px; padding: 20px; margin: 32px 0; text-align: center; border-left: 4px solid #10b981;">
+                <p style="margin: 0; color: #4b5563; font-size: 16px; font-style: italic; line-height: 1.5;">
+                  "Take care of your body. It's the only place you have to live."
+                </p>
+                <p style="margin: 8px 0 0 0; color: #6b7280; font-size: 14px; font-weight: 600;">
+                  — Jim Rohn
+                </p>
+              </div>
+
+              <!-- Action Buttons -->
+              <div style="text-align: center; margin: 32px 0;">
+                <div style="margin-bottom: 16px;">
+                  <a href="{{dashboardUrl}}/wellness" class="email-button" style="display: inline-block; padding: 16px 32px; background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: #ffffff; text-decoration: none; font-weight: 600; font-size: 16px; border-radius: 8px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+                    🧘 Start Break Activities
+                  </a>
+                </div>
+                <div>
+                  <a href="{{dashboardUrl}}/break-timer" class="email-button email-button-secondary" style="display: inline-block; padding: 14px 28px; background: #f3f4f6; color: #374151; border: 1px solid #d1d5db; text-decoration: none; font-weight: 600; font-size: 14px; border-radius: 8px;">
+                    ⏲️ Set Break Timer
+                  </a>
+                </div>
+              </div>
+
+              <!-- Quick Actions -->
+              <div style="text-align: center; margin: 16px 0;">
+                <a href="{{dashboardUrl}}/analytics" style="color: #10b981; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 600;">View Study Analytics</a>
+                <span style="color: #d1d5db;">|</span>
+                <a href="{{dashboardUrl}}/goals" style="color: #10b981; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 600;">Update Goals</a>
+                <span style="color: #d1d5db;">|</span>
+                <a href="{{dashboardUrl}}/settings" style="color: #10b981; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 600;">Break Settings</a>
+              </div>
+
+              <!-- Health Benefits -->
+              <div style="background: #ecfccb; border-radius: 8px; padding: 20px; margin: 24px 0; border: 1px solid #84cc16;">
+                <h4 style="margin: 0 0 12px 0; color: #365314; font-size: 16px; font-weight: 700; text-align: center;">🌱 Why Breaks Matter</h4>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; text-align: center;">
+                  <div>
+                    <span style="font-size: 24px; display: block; margin-bottom: 4px;">🧠</span>
+                    <p style="margin: 0; color: #4d7c0f; font-size: 12px; font-weight: 600;">Improves Memory Consolidation</p>
+                  </div>
+                  <div>
+                    <span style="font-size: 24px; display: block; margin-bottom: 4px;">⚡</span>
+                    <p style="margin: 0; color: #4d7c0f; font-size: 12px; font-weight: 600;">Restores Mental Energy</p>
+                  </div>
+                  <div>
+                    <span style="font-size: 24px; display: block; margin-bottom: 4px;">🎯</span>
+                    <p style="margin: 0; color: #4d7c0f; font-size: 12px; font-weight: 600;">Enhances Focus</p>
+                  </div>
+                  <div>
+                    <span style="font-size: 24px; display: block; margin-bottom: 4px;">😌</span>
+                    <p style="margin: 0; color: #4d7c0f; font-size: 12px; font-weight: 600;">Reduces Stress</p>
+                  </div>
+                </div>
+              </div>
+
+            </td>
+          </tr>
+
+          <!-- Footer -->
+          <tr>
+            <td class="email-footer" style="background: #f9fafb; padding: 32px 24px; text-align: center; border: 1px solid #e5e7eb; border-top: none; border-radius: 0 0 12px 12px;">
+              <p class="footer-text" style="font-size: 14px; color: #6b7280; margin: 0 0 16px 0;">
+                You're receiving this wellness reminder because you have break notifications enabled.
+              </p>
+
+              <div class="footer-links" style="margin: 16px 0;">
+                <a href="{{dashboardUrl}}/settings" class="footer-link" style="color: #4f46e5; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 500;">Notification Settings</a>
+                <a href="mailto:{{supportEmail}}" class="footer-link" style="color: #4f46e5; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 500;">Support</a>
+                <a href="{{unsubscribeUrl}}" class="footer-link" style="color: #6b7280; text-decoration: none; font-size: 14px; margin: 0 12px; font-weight: 500;">Unsubscribe</a>
+              </div>
+
+              <p style="font-size: 12px; color: #9ca3af; margin: 16px 0 0 0;">
+                © {{currentYear}} Mellowise. All rights reserved.<br>
+                Supporting your academic success and well-being.
+              </p>
+            </td>
+          </tr>
+
+        </table>
+      </td>
+    </tr>
+  </table>
+
+  <!-- Tracking Pixel -->
+  {{trackingPixel}}
+
+  <!-- Preheader Text -->
+  <div style="display: none; font-size: 1px; color: #f9fafb; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;">
+    Time for a well-deserved break, {{userName}}! You've studied {{studyHoursToday}} hours today. Wellness matters.
+  </div>
+</body>
+</html>

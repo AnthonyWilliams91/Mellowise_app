@@ -1,0 +1,301 @@
+# <!-- Powered by BMAD™ Core -->
+template:
+  id: operational-cost-analysis-template-v1
+  name: Operational Cost Analysis Report
+  version: 1.0
+  output:
+    format: markdown
+    filename: docs/operational-cost-analysis.md
+    title: "Monthly Operational Cost Analysis: {{project_product_name}} - {{user_count}} Users"
+
+workflow:
+  mode: interactive
+  elicitation: advanced-elicitation
+  custom_elicitation:
+    title: "Cost Analysis Elicitation Actions"
+    options:
+      - "Deep dive into specific cost category breakdown"
+      - "Analyze cost scaling sensitivities and breakpoints"
+      - "Compare costs to industry benchmarks"
+      - "Stress test cost assumptions with different scenarios"
+      - "Explore cost optimization opportunities"
+      - "Challenge cost model assumptions"
+      - "Generate cost projection scenarios (best/base/worst case)"
+      - "Analyze ROI and unit economics implications"
+
+sections:
+  - id: executive-summary
+    title: Executive Summary
+    instruction: Provide high-level cost overview, key findings, total monthly operational cost for target user count, cost per user metrics, and critical recommendations. Write this section LAST after completing all analysis.
+    elicit: false
+
+  - id: analysis-objectives
+    title: Analysis Objectives & Methodology
+    instruction: Define the scope and approach for this operational cost analysis
+    sections:
+      - id: objectives
+        title: Analysis Objectives
+        instruction: |
+          Define what this cost analysis aims to achieve:
+          - Business decisions this analysis will inform
+          - Specific cost questions to be answered
+          - Target user count and timeframe
+          - Success criteria for the analysis
+        elicit: true
+      - id: methodology
+        title: Cost Analysis Methodology
+        instruction: |
+          Describe the analytical approach:
+          - Cost categorization framework used
+          - Data sources for cost estimates
+          - Scaling assumptions and models
+          - Analysis timeframe and limitations
+        elicit: false
+
+  - id: cost-structure-overview
+    title: Cost Structure Overview
+    sections:
+      - id: cost-taxonomy
+        title: Cost Category Framework
+        instruction: |
+          Establish comprehensive cost categorization:
+          - Fixed vs Variable costs
+          - Direct vs Indirect costs
+          - One-time vs Recurring costs
+          - Cost centers and allocation methods
+        elicit: true
+      - id: cost-drivers
+        title: Primary Cost Drivers
+        instruction: |
+          Identify and analyze key factors that drive operational costs:
+          - User-dependent costs (per user scaling)
+          - Usage-dependent costs (per transaction/action)
+          - Time-dependent costs (monthly/annual)
+          - Platform/infrastructure dependencies
+        elicit: true
+
+  - id: infrastructure-costs
+    title: Technical Infrastructure Costs
+    agent_permissions:
+      owner: architect
+      editors: [architect, analyst]
+    sections:
+      - id: hosting-compute
+        title: Hosting & Compute Infrastructure
+        instruction: |
+          Detailed breakdown of server and compute costs:
+          - Cloud hosting costs (AWS/GCP/Azure)
+          - Container orchestration costs
+          - Load balancing and auto-scaling
+          - Development/staging environment costs
+        elicit: true
+      - id: database-storage
+        title: Database & Storage Costs
+        instruction: |
+          Data storage and management costs:
+          - Primary database costs (Supabase/PostgreSQL)
+          - Data backup and archival costs
+          - CDN and asset storage costs
+          - Data transfer and bandwidth costs
+        elicit: true
+      - id: external-services
+        title: External Service & API Costs
+        instruction: |
+          Third-party service costs:
+          - AI/ML service costs (OpenAI, etc.)
+          - Analytics and monitoring tools
+          - Authentication services
+          - Email/notification services
+          - Payment processing fees
+        elicit: true
+
+  - id: operational-costs
+    title: Business Operational Costs
+    agent_permissions:
+      owner: analyst
+      editors: [analyst, po]
+    sections:
+      - id: human-resources
+        title: Human Resources Costs
+        instruction: |
+          Staff costs allocated to operations:
+          - Customer support staff allocation
+          - DevOps/platform maintenance allocation
+          - Content moderation costs
+          - Administrative overhead allocation
+        elicit: true
+      - id: support-operations
+        title: Customer Support Operations
+        instruction: |
+          Customer service and support costs:
+          - Support ticket volume projections
+          - Support staff time per user
+          - Support tool licensing costs
+          - Escalation and specialized support costs
+        elicit: true
+      - id: compliance-legal
+        title: Compliance & Legal Costs
+        instruction: |
+          Regulatory and legal operational costs:
+          - FERPA compliance requirements
+          - Data protection and privacy costs
+          - Legal and regulatory fees
+          - Audit and certification costs
+        elicit: true
+
+  - id: content-licensing
+    title: Content & Licensing Costs
+    sections:
+      - id: test-content
+        title: Test Question Licensing
+        instruction: |
+          Costs for standardized test content:
+          - Question licensing fees per test type
+          - Content update and refresh costs
+          - Quality assurance and validation costs
+          - Content delivery and storage costs
+        elicit: true
+      - id: educational-content
+        title: Educational Content Costs
+        instruction: |
+          Additional educational material costs:
+          - Explanatory content creation
+          - Video and multimedia content
+          - Content translation and localization
+          - Content maintenance and updates
+        elicit: true
+
+  - id: cost-scaling-analysis
+    title: Cost Scaling Analysis
+    sections:
+      - id: user-scaling
+        title: User Count Scaling
+        instruction: |
+          Analyze how costs scale with user growth:
+          - Linear scaling costs (per-user)
+          - Step-function costs (threshold-based)
+          - Economies of scale opportunities
+          - Scaling breakpoints and cost jumps
+        elicit: true
+      - id: usage-scaling
+        title: Usage Pattern Scaling
+        instruction: |
+          Analyze costs based on usage patterns:
+          - Peak usage vs average usage costs
+          - Seasonal usage variations
+          - Feature adoption impact on costs
+          - Power user vs casual user cost differences
+        elicit: true
+
+  - id: market-benchmarking
+    title: Market Benchmarking
+    agent_permissions:
+      owner: analyst
+      editors: [analyst]
+    sections:
+      - id: industry-benchmarks
+        title: Industry Cost Benchmarks
+        instruction: |
+          Compare against industry standards:
+          - EdTech platform operational cost ratios
+          - SaaS operational cost benchmarks
+          - Cost per user industry averages
+          - Operational margin expectations
+        elicit: true
+      - id: competitive-analysis
+        title: Competitive Cost Analysis
+        instruction: |
+          Analyze competitor operational indicators:
+          - Public financial data analysis
+          - Estimated operational efficiency
+          - Pricing model implications
+          - Market positioning insights
+        elicit: false
+
+  - id: cost-optimization
+    title: Cost Optimization Opportunities
+    sections:
+      - id: immediate-optimizations
+        title: Immediate Cost Reductions
+        instruction: |
+          Near-term cost optimization opportunities:
+          - Infrastructure optimization opportunities
+          - Service consolidation possibilities
+          - Process automation benefits
+          - Vendor negotiation opportunities
+        elicit: true
+      - id: strategic-optimizations
+        title: Strategic Cost Improvements
+        instruction: |
+          Long-term cost optimization strategies:
+          - Technology platform migrations
+          - Operational model improvements
+          - Scale economy realization
+          - Vertical integration opportunities
+        elicit: true
+
+  - id: financial-projections
+    title: Financial Projections & Scenarios
+    agent_permissions:
+      owner: analyst
+      editors: [analyst, po]
+    sections:
+      - id: base-case-model
+        title: Base Case Cost Model
+        instruction: |
+          Primary cost projection for target user count:
+          - Monthly total operational cost
+          - Cost per user per month
+          - Fixed vs variable cost breakdown
+          - Confidence intervals and assumptions
+        elicit: true
+      - id: scenario-analysis
+        title: Scenario Analysis
+        instruction: |
+          Alternative cost scenarios:
+          - Best case (cost optimization realized)
+          - Worst case (cost pressures realized)
+          - Sensitivity analysis on key variables
+          - Break-even analysis and thresholds
+        elicit: true
+
+  - id: recommendations
+    title: Strategic Recommendations
+    agent_permissions:
+      owner: po
+      editors: [po, analyst]
+    sections:
+      - id: cost-management
+        title: Cost Management Strategy
+        instruction: |
+          Recommended approach for cost control:
+          - Cost monitoring and alerting systems
+          - Budget allocation recommendations
+          - Cost center accountability structure
+          - Regular review and optimization processes
+        elicit: true
+      - id: scaling-strategy
+        title: Scaling Strategy Implications
+        instruction: |
+          Strategic guidance for growth:
+          - User growth cost implications
+          - Revenue requirements for profitability
+          - Investment priorities for cost efficiency
+          - Risk mitigation strategies
+        elicit: true
+
+  - id: appendices
+    title: Appendices
+    sections:
+      - id: cost-model
+        title: A. Detailed Cost Model
+        instruction: Include detailed calculations, formulas, and assumptions used
+        elicit: false
+      - id: data-sources
+        title: B. Data Sources & References
+        instruction: List all sources used for cost estimates and benchmarking
+        elicit: false
+      - id: sensitivity-analysis
+        title: C. Sensitivity Analysis Details
+        instruction: Detailed sensitivity testing results and implications
+        elicit: false

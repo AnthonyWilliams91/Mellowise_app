@@ -354,9 +354,363 @@ export interface Database {
           }
         ]
       }
+      // ============================================================================
+      // ANXIETY MANAGEMENT TABLES (MELLOWISE-014)
+      // ============================================================================
+      anxiety_detections: {
+        Row: {
+          id: string
+          user_id: string
+          anxiety_level: 'low' | 'moderate' | 'high' | 'severe'
+          confidence_score: number
+          indicators: Json
+          triggers: string[]
+          behavioral_patterns: string[]
+          detection_timestamp: string
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          anxiety_level: 'low' | 'moderate' | 'high' | 'severe'
+          confidence_score: number
+          indicators?: Json
+          triggers?: string[]
+          behavioral_patterns?: string[]
+          detection_timestamp?: string
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          anxiety_level?: 'low' | 'moderate' | 'high' | 'severe'
+          confidence_score?: number
+          indicators?: Json
+          triggers?: string[]
+          behavioral_patterns?: string[]
+          detection_timestamp?: string
+          created_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "anxiety_detections_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "user_profiles"
+            referencedColumns: ["id"]
+          }
+        ]
+      }
+      confidence_metrics: {
+        Row: {
+          id: string
+          user_id: string
+          confidence_level: 'very_low' | 'low' | 'moderate' | 'high' | 'very_high'
+          confidence_score: number
+          trend_data: Json
+          last_updated: string
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          confidence_level: 'very_low' | 'low' | 'moderate' | 'high' | 'very_high'
+          confidence_score: number
+          trend_data?: Json
+          last_updated?: string
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          confidence_level?: 'very_low' | 'low' | 'moderate' | 'high' | 'very_high'
+          confidence_score?: number
+          trend_data?: Json
+          last_updated?: string
+          created_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "confidence_metrics_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "user_profiles"
+            referencedColumns: ["id"]
+          }
+        ]
+      }
+      mindfulness_sessions: {
+        Row: {
+          id: string
+          user_id: string
+          exercise_id: string
+          started_at: string
+          completed_at: string | null
+          duration_completed: number
+          effectiveness_rating: number | null
+          anxiety_before: 'low' | 'moderate' | 'high' | 'severe' | null
+          anxiety_after: 'low' | 'moderate' | 'high' | 'severe' | null
+          session_context: 'before_practice' | 'during_break' | 'after_mistake' | 'general'
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          exercise_id: string
+          started_at: string
+          completed_at?: string | null
+          duration_completed?: number
+          effectiveness_rating?: number | null
+          anxiety_before?: 'low' | 'moderate' | 'high' | 'severe' | null
+          anxiety_after?: 'low' | 'moderate' | 'high' | 'severe' | null
+          session_context?: 'before_practice' | 'during_break' | 'after_mistake' | 'general'
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          exercise_id?: string
+          started_at?: string
+          completed_at?: string | null
+          duration_completed?: number
+          effectiveness_rating?: number | null
+          anxiety_before?: 'low' | 'moderate' | 'high' | 'severe' | null
+          anxiety_after?: 'low' | 'moderate' | 'high' | 'severe' | null
+          session_context?: 'before_practice' | 'during_break' | 'after_mistake' | 'general'
+          created_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "mindfulness_sessions_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "user_profiles"
+            referencedColumns: ["id"]
+          }
+        ]
+      }
+      anxiety_interventions: {
+        Row: {
+          id: string
+          user_id: string
+          trigger_type: 'time_pressure' | 'difficult_questions' | 'performance_drop' | 'streak_break' | 'comparison' | 'unknown'
+          intervention_type: 'immediate' | 'proactive' | 'educational' | 'celebration'
+          strategies_offered: Json
+          strategy_selected: string | null
+          outcome_data: Json | null
+          effectiveness_score: number | null
+          timestamp: string
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          trigger_type: 'time_pressure' | 'difficult_questions' | 'performance_drop' | 'streak_break' | 'comparison' | 'unknown'
+          intervention_type: 'immediate' | 'proactive' | 'educational' | 'celebration'
+          strategies_offered?: Json
+          strategy_selected?: string | null
+          outcome_data?: Json | null
+          effectiveness_score?: number | null
+          timestamp?: string
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          trigger_type?: 'time_pressure' | 'difficult_questions' | 'performance_drop' | 'streak_break' | 'comparison' | 'unknown'
+          intervention_type?: 'immediate' | 'proactive' | 'educational' | 'celebration'
+          strategies_offered?: Json
+          strategy_selected?: string | null
+          outcome_data?: Json | null
+          effectiveness_score?: number | null
+          timestamp?: string
+          created_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "anxiety_interventions_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "user_profiles"
+            referencedColumns: ["id"]
+          }
+        ]
+      }
+      coping_strategies: {
+        Row: {
+          id: string
+          user_id: string
+          trigger_type: 'time_pressure' | 'difficult_questions' | 'performance_drop' | 'streak_break' | 'comparison' | 'unknown'
+          strategy_type: 'breathing_exercise' | 'positive_affirmation' | 'difficulty_reduction' | 'break_suggestion' | 'achievement_reminder'
+          effectiveness_rating: number
+          usage_count: number
+          success_rate: number
+          customizations: Json
+          last_used: string | null
+          created_at: string
+          updated_at: string
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          trigger_type: 'time_pressure' | 'difficult_questions' | 'performance_drop' | 'streak_break' | 'comparison' | 'unknown'
+          strategy_type: 'breathing_exercise' | 'positive_affirmation' | 'difficulty_reduction' | 'break_suggestion' | 'achievement_reminder'
+          effectiveness_rating?: number
+          usage_count?: number
+          success_rate?: number
+          customizations?: Json
+          last_used?: string | null
+          created_at?: string
+          updated_at?: string
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          trigger_type?: 'time_pressure' | 'difficult_questions' | 'performance_drop' | 'streak_break' | 'comparison' | 'unknown'
+          strategy_type?: 'breathing_exercise' | 'positive_affirmation' | 'difficulty_reduction' | 'break_suggestion' | 'achievement_reminder'
+          effectiveness_rating?: number
+          usage_count?: number
+          success_rate?: number
+          customizations?: Json
+          last_used?: string | null
+          created_at?: string
+          updated_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "coping_strategies_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "user_profiles"
+            referencedColumns: ["id"]
+          }
+        ]
+      }
+      achievement_celebrations: {
+        Row: {
+          id: string
+          user_id: string
+          achievement_type: string
+          description: string
+          points_earned: number
+          celebration_level: 'small' | 'medium' | 'large'
+          visual_effects: string[]
+          sound_effects: string[]
+          message: string
+          user_response: 'positive' | 'neutral' | 'negative' | null
+          created_at: string
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          achievement_type: string
+          description: string
+          points_earned?: number
+          celebration_level?: 'small' | 'medium' | 'large'
+          visual_effects?: string[]
+          sound_effects?: string[]
+          message: string
+          user_response?: 'positive' | 'neutral' | 'negative' | null
+          created_at?: string
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          achievement_type?: string
+          description?: string
+          points_earned?: number
+          celebration_level?: 'small' | 'medium' | 'large'
+          visual_effects?: string[]
+          sound_effects?: string[]
+          message?: string
+          user_response?: 'positive' | 'neutral' | 'negative' | null
+          created_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "achievement_celebrations_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "user_profiles"
+            referencedColumns: ["id"]
+          }
+        ]
+      }
+      success_visualizations: {
+        Row: {
+          id: string
+          user_id: string
+          visualization_type: 'progress_chart' | 'confidence_journey' | 'achievement_gallery' | 'future_success'
+          data_points: Json
+          milestone_markers: Json
+          motivational_overlay: Json
+          created_at: string
+          updated_at: string
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          visualization_type: 'progress_chart' | 'confidence_journey' | 'achievement_gallery' | 'future_success'
+          data_points?: Json
+          milestone_markers?: Json
+          motivational_overlay?: Json
+          created_at?: string
+          updated_at?: string
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          visualization_type?: 'progress_chart' | 'confidence_journey' | 'achievement_gallery' | 'future_success'
+          data_points?: Json
+          milestone_markers?: Json
+          motivational_overlay?: Json
+          created_at?: string
+          updated_at?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "success_visualizations_user_id_fkey"
+            columns: ["user_id"]
+            isOneToOne: false
+            referencedRelation: "user_profiles"
+            referencedColumns: ["id"]
+          }
+        ]
+      }
     }
     Views: {
-      [_ in never]: never
+      // Anxiety management analytics views
+      anxiety_trends: {
+        Row: {
+          user_id: string
+          date: string
+          anxiety_level: string
+          avg_confidence_score: number
+          detection_count: number
+          common_triggers: string[]
+        }
+      }
+      mindfulness_effectiveness: {
+        Row: {
+          user_id: string
+          exercise_id: string
+          session_count: number
+          avg_effectiveness: number
+          avg_duration: number
+          completed_sessions: number
+          high_effectiveness_sessions: number
+        }
+      }
+      confidence_progression: {
+        Row: {
+          user_id: string
+          confidence_level: string
+          confidence_score: number
+          last_updated: string
+          previous_score: number | null
+          score_change: number | null
+        }
+      }
     }
     Functions: {
       [_ in never]: never

@@ -1,0 +1,336 @@
+# <!-- Powered by BMAD™ Core -->
+template:
+  id: social-media-strategy-template-v1
+  name: Social Media Marketing Strategy
+  version: 1.0
+  output:
+    format: markdown
+    filename: docs/mktg/social-media-strategy.md
+    title: "Social Media Marketing Strategy: {{project_product_name}}"
+
+workflow:
+  mode: interactive
+  elicitation: advanced-elicitation
+  custom_elicitation:
+    title: "Social Media Strategy Elicitation Actions"
+    options:
+      - "Deep dive platform-specific content strategies"
+      - "Analyze competitor social media presence and gaps"
+      - "Explore viral content opportunities and trends"
+      - "Optimize posting schedules and audience targeting"
+      - "Develop influencer partnership strategies"
+      - "Create user-generated content campaigns"
+      - "Design cross-platform content repurposing strategies"
+      - "Analyze ROI and conversion metrics for each platform"
+
+sections:
+  - id: executive-summary
+    title: Executive Summary
+    instruction: Provide high-level overview of social media strategy, key platforms, target audiences, and expected outcomes. Write this section LAST after completing all platform analysis.
+
+  - id: strategy-objectives
+    title: Strategy Objectives & KPIs
+    instruction: Define social media marketing objectives aligned with business goals
+    sections:
+      - id: primary-objectives
+        title: Primary Marketing Objectives
+        instruction: |
+          Define specific objectives for social media marketing:
+          - Brand awareness and reach goals
+          - Lead generation and user acquisition targets
+          - Community building and engagement metrics
+          - Conversion and retention objectives
+        elicit: true
+      - id: success-metrics
+        title: Key Performance Indicators
+        instruction: |
+          Establish measurable KPIs for each platform:
+          - Reach and impression metrics
+          - Engagement rates and quality scores
+          - Click-through and conversion rates
+          - Cost per acquisition by platform
+          - Community growth and retention rates
+        elicit: true
+
+  - id: platform-strategies
+    title: Platform-Specific Strategies
+    sections:
+      - id: youtube-strategy
+        title: YouTube Strategy
+        instruction: |
+          Comprehensive YouTube marketing approach:
+          - Content pillars and video types (educational, testimonials, tutorials)
+          - Channel optimization and SEO strategy
+          - Posting schedule and consistency plan
+          - Collaboration opportunities with LSAT prep channels
+          - YouTube Shorts strategy for viral reach
+        elicit: true
+      - id: tiktok-strategy
+        title: TikTok Strategy
+        instruction: |
+          TikTok marketing tactics for EdTech:
+          - Short-form educational content strategies
+          - Trend-jacking and viral content opportunities
+          - LSAT tips and study hacks content
+          - Student success stories and testimonials
+          - Hashtag strategies and challenges
+        elicit: true
+      - id: instagram-strategy
+        title: Instagram Strategy
+        instruction: |
+          Instagram marketing approach:
+          - Feed content strategy (posts, carousels, stories)
+          - Instagram Reels for educational content
+          - Story highlights for LSAT resources
+          - User-generated content campaigns
+          - Instagram Shopping integration
+        elicit: true
+      - id: reddit-strategy
+        title: Reddit & Forum Strategy
+        instruction: |
+          Reddit and forum marketing tactics:
+          - Key subreddits and LSAT communities to target
+          - Value-first content sharing approach
+          - AMA (Ask Me Anything) opportunities
+          - Community building and thought leadership
+          - LSAT prep forums and Discord communities
+        elicit: true
+      - id: linkedin-strategy
+        title: LinkedIn Strategy
+        instruction: |
+          LinkedIn professional marketing:
+          - B2B partnerships with law schools
+          - Thought leadership content for legal education
+          - Student success stories and career outcomes
+          - Professional network building
+          - LinkedIn Learning course partnerships
+        elicit: false
+
+  - id: content-strategy
+    title: Content Strategy & Themes
+    sections:
+      - id: content-pillars
+        title: Core Content Pillars
+        instruction: |
+          Define main content themes across platforms:
+          - Educational content (LSAT tips, study strategies)
+          - Success stories and testimonials
+          - Behind-the-scenes and company culture
+          - Industry insights and legal career advice
+          - Product features and updates
+        elicit: true
+      - id: content-formats
+        title: Content Formats by Platform
+        instruction: |
+          Optimize content formats for each platform:
+          - Video content (tutorials, testimonials, day-in-the-life)
+          - Static posts (infographics, quotes, tips)
+          - Interactive content (polls, Q&As, live sessions)
+          - User-generated content campaigns
+          - Cross-platform content repurposing strategies
+        elicit: true
+
+  - id: audience-targeting
+    title: Audience Targeting & Personas
+    sections:
+      - id: primary-audiences
+        title: Primary Target Audiences
+        instruction: |
+          Define key audience segments for social media:
+          - Pre-law students and LSAT test-takers
+          - Career changers entering law
+          - Parents of prospective law students
+          - Legal education influencers and tutors
+          - Law school admissions consultants
+        elicit: true
+      - id: platform-demographics
+        title: Platform-Specific Demographics
+        instruction: |
+          Analyze audience distribution across platforms:
+          - Age demographics and platform preferences
+          - Content consumption patterns by platform
+          - Engagement behaviors and peak activity times
+          - Platform-specific messaging and tone adjustments
+        elicit: false
+
+  - id: influencer-partnerships
+    title: Influencer & Partnership Strategy
+    sections:
+      - id: influencer-tiers
+        title: Influencer Partnership Tiers
+        instruction: |
+          Define influencer partnership strategy:
+          - Micro-influencers (1K-10K followers) in LSAT prep
+          - Mid-tier influencers (10K-100K) in legal education
+          - Macro-influencers and thought leaders in legal field
+          - Student ambassadors and user-generated content
+        elicit: true
+      - id: collaboration-types
+        title: Collaboration Formats
+        instruction: |
+          Types of influencer collaborations:
+          - Sponsored content and product reviews
+          - Educational partnerships and co-created content
+          - Student success story features
+          - Live sessions and Q&A collaborations
+          - Affiliate and referral programs
+        elicit: true
+
+  - id: community-building
+    title: Community Building Strategy
+    sections:
+      - id: community-platforms
+        title: Community Platform Strategy
+        instruction: |
+          Build engaged communities across platforms:
+          - Facebook groups for LSAT study support
+          - Discord servers for real-time student interaction
+          - Reddit community participation and moderation
+          - Instagram study groups and challenges
+          - YouTube comment community engagement
+        elicit: true
+      - id: engagement-tactics
+        title: Community Engagement Tactics
+        instruction: |
+          Strategies for building active communities:
+          - Regular live Q&A sessions and office hours
+          - Study challenges and accountability programs
+          - User-generated content contests and features
+          - Peer-to-peer mentoring facilitation
+          - Success story celebrations and spotlights
+        elicit: true
+
+  - id: paid-advertising
+    title: Paid Social Media Advertising
+    sections:
+      - id: ad-platforms
+        title: Advertising Platform Strategy
+        instruction: |
+          Paid advertising approach by platform:
+          - Facebook/Instagram Ads for precise targeting
+          - YouTube Ads for educational video content
+          - TikTok Ads for reaching younger demographics
+          - LinkedIn Ads for B2B and professional targeting
+          - Reddit Promoted Posts for community engagement
+        elicit: true
+      - id: campaign-types
+        title: Campaign Types & Objectives
+        instruction: |
+          Types of paid campaigns to run:
+          - Brand awareness and reach campaigns
+          - Lead generation and email capture
+          - App download and trial conversion
+          - Retargeting and nurture campaigns
+          - Lookalike audience expansion
+        elicit: true
+
+  - id: content-calendar
+    title: Content Calendar & Scheduling
+    sections:
+      - id: posting-schedule
+        title: Optimal Posting Schedule
+        instruction: |
+          Platform-specific posting schedules:
+          - Frequency and timing for each platform
+          - Seasonal content planning (LSAT test dates)
+          - Content batching and production workflows
+          - Cross-platform content coordination
+        elicit: true
+      - id: campaign-calendar
+        title: Campaign and Event Calendar
+        instruction: |
+          Major campaigns and seasonal strategies:
+          - LSAT test preparation seasons (June, August, October, February)
+          - Law school application deadlines
+          - Back-to-school and New Year motivation campaigns
+          - Holiday and break period content strategies
+        elicit: false
+
+  - id: measurement-optimization
+    title: Analytics & Optimization
+    sections:
+      - id: tracking-setup
+        title: Analytics and Tracking Setup
+        instruction: |
+          Measurement framework for social media:
+          - Platform-native analytics setup and monitoring
+          - UTM tracking for traffic and conversion attribution
+          - Social listening and brand mention monitoring
+          - Competitor analysis and benchmarking
+        elicit: false
+      - id: optimization-process
+        title: Continuous Optimization Process
+        instruction: |
+          Regular optimization and improvement process:
+          - Weekly performance reviews and adjustments
+          - A/B testing for content formats and messaging
+          - Audience feedback integration and response
+          - Platform algorithm adaptation strategies
+        elicit: true
+
+  - id: budget-allocation
+    title: Budget & Resource Allocation
+    sections:
+      - id: budget-breakdown
+        title: Marketing Budget Allocation
+        instruction: |
+          Allocate marketing budget across platforms and activities:
+          - Paid advertising budget by platform
+          - Content creation and production costs
+          - Influencer partnership and collaboration fees
+          - Tools and software subscriptions
+          - Team time allocation and management
+        elicit: true
+      - id: roi-projections
+        title: ROI Projections & Targets
+        instruction: |
+          Expected return on investment for social media marketing:
+          - Customer acquisition cost targets by platform
+          - Lifetime value projections from social traffic
+          - Brand awareness and reach value estimation
+          - Long-term community building ROI
+        elicit: true
+
+  - id: risk-management
+    title: Risk Management & Crisis Response
+    sections:
+      - id: reputation-management
+        title: Online Reputation Management
+        instruction: |
+          Strategies for managing online reputation:
+          - Social media monitoring and response protocols
+          - Crisis communication and damage control plans
+          - Negative feedback handling and resolution
+          - Brand voice consistency and guidelines
+        elicit: false
+      - id: platform-risks
+        title: Platform-Specific Risk Mitigation
+        instruction: |
+          Risk management for each platform:
+          - Algorithm changes and organic reach decline
+          - Platform policy updates and compliance
+          - Account security and backup strategies
+          - Diversification to reduce platform dependency
+        elicit: false
+
+  - id: implementation-roadmap
+    title: Implementation Roadmap
+    sections:
+      - id: launch-phases
+        title: Phased Launch Strategy
+        instruction: |
+          Implementation timeline and milestones:
+          - Phase 1: Foundation setup and content creation (Month 1)
+          - Phase 2: Community building and engagement (Months 2-3)
+          - Phase 3: Paid advertising and scaling (Months 4-6)
+          - Phase 4: Optimization and expansion (Months 6-12)
+        elicit: true
+      - id: success-milestones
+        title: Success Milestones & Checkpoints
+        instruction: |
+          Key milestones and review points:
+          - 30-day foundation establishment metrics
+          - 90-day community growth and engagement targets
+          - 6-month conversion and ROI benchmarks
+          - 12-month brand awareness and market position goals
+        elicit: true
