@@ -6,6 +6,11 @@ export async function POST(request: NextRequest) {
   try {
     const { code } = await request.json();
 
+    // Debug logging
+    console.log('Received code:', code);
+    console.log('Expected code:', SECRET_ACCESS_CODE);
+    console.log('Codes match:', code === SECRET_ACCESS_CODE);
+
     if (code === SECRET_ACCESS_CODE) {
       // Create a simple session token
       const sessionToken = Buffer.from(Date.now().toString()).toString('base64');
