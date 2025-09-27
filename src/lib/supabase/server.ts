@@ -59,3 +59,7 @@ export const createAdminClient = () => {
     },
   })
 }
+
+// Alias exports for backward compatibility
+export { createServerSupabaseClient as createClient }
+export { createServerSupabaseClient as createServerClient }

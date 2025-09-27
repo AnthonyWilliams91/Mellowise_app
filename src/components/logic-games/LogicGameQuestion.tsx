@@ -11,9 +11,15 @@
 'use client'
 
 import React, { useState, useCallback, useEffect, useRef } from 'react'
-import { Clock, CheckCircle, XCircle, HelpCircle, RotateCcw, Eye, EyeOff } from 'lucide-react'
+import { Clock, CheckCircle, XCircle, HelpCircle, RotateCcw, Eye, EyeOff, X } from 'lucide-react'
 import { cn } from '@/lib/utils'
 import GameBoard from './GameBoard'
+import GameCategoryIndicator from './GameCategoryIndicator'
+import SolutionWalkthrough from './SolutionWalkthrough'
+import InferenceDetectionTrainer from './InferenceDetectionTrainer'
+import PerformanceAnalyticsDashboard from './PerformanceAnalyticsDashboard'
+import { GameCategorizer } from '@/lib/logic-games/game-categorizer'
+import { PerformanceAnalytics } from '@/lib/logic-games/performance-analytics'
 import type {
   LogicGameQuestion,
   LogicGameSession,
@@ -75,7 +81,7 @@ export function LogicGameQuestion({
   // Hint and help state
   const [hintsUsed, setHintsUsed] = useState<HintRequest[]>([])
   const [showHints, setShowHints] = useState(true)
-  const [currentHint, setCurrentHint] = useState<string | null>(null)
+  const [activeHints, setActiveHints] = useState<Array<{id: string, type: string, content: string}>>([])
 
   // Solution and explanation state
   const [showSolutionSteps, setShowSolutionSteps] = useState(false)
@@ -218,13 +224,25 @@ export function LogicGameQuestion({
     }
 
     setHintsUsed(prev => [...prev, hintRequest])
-    setCurrentHint(hintRequest.hint_provided)
+
+    // Add new hint to active hints array
+    const newHint = {
+      id: `hint-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
+      type: hintType,
+      content: hintRequest.hint_provided
+    }
+    setActiveHints(prev => [...prev, newHint])
 
     // Update session
     if (sessionRef.current) {
       sessionRef.current.hint_requests.push(hintRequest)
     }
   }, [practiceMode, currentSolutionStep, currentBoardState])
+
+  // Dismiss a specific hint
+  const dismissHint = useCallback((hintId: string) => {
+    setActiveHints(prev => prev.filter(hint => hint.id !== hintId))
+  }, [])
 
   // Complete session
   const completeSession = useCallback((isCorrect: boolean, reason?: string) => {
@@ -261,7 +279,7 @@ export function LogicGameQuestion({
     setSelectedAnswer(null)
     setIsAnswered(false)
     setHintsUsed([])
-    setCurrentHint(null)
+    setActiveHints([])
     setMistakesCount(0)
     setCurrentSolutionStep(0)
     setTimer({ timeElapsed: 0, isRunning: false, isPaused: false })
@@ -300,20 +318,62 @@ export function LogicGameQuestion({
     <div className={cn('logic-game-question', 'w-full space-y-6', className)}>
       {/* Question Header */}
       <div className="question-header space-y-4">
-        {/* Game Type and Metadata */}
+        {/* Game Category Indicator */}
+        <GameCategoryIndicator
+          question={question}
+          showDetails={true}
+          showPatterns={true}
+          className="mb-4"
+        />
+
+        {/* Solution Walkthrough */}
+        {practiceMode && (
+          <SolutionWalkthrough
+            question={question}
+            walkthroughType="setup"
+            onComplete={(completedSteps, totalTime) => {
+              console.log(`Walkthrough completed: ${completedSteps} steps in ${totalTime}ms`)
+            }}
+            onStepComplete={(step, timeSpent) => {
+              console.log(`Step ${step.step_number} completed in ${timeSpent}ms`)
+            }}
+            className="mb-4"
+          />
+        )}
+
+        {/* Inference Detection Training */}
+        {practiceMode && (
+          <InferenceDetectionTrainer
+            question={question}
+            classification={GameCategorizer.classify(question)}
+            onComplete={(session, score) => {
+              console.log(`Inference training completed with score: ${score}`)
+              console.log(`Session stats:`, session.progress)
+            }}
+            onProgress={(discovered, total) => {
+              console.log(`Inference progress: ${discovered}/${total}`)
+            }}
+            className="mb-4"
+          />
+        )}
+
+        {/* Performance Analytics Dashboard */}
+        {practiceMode && sessionRef.current && (
+          <PerformanceAnalyticsDashboard
+            gameTypePerformances={generateMockGameTypePerformances()}
+            overallMetrics={generateMockOverallMetrics()}
+            learningInsights={generateMockLearningInsights()}
+            comparisonData={generateMockComparisonData()}
+            recentSessions={generateMockRecentSessions()}
+            progressionData={generateMockProgressionData()}
+            className="mb-4"
+          />
+        )}
+
+        {/* Timer and Metadata */}
         <div className="flex items-center justify-between">
           <div className="flex items-center space-x-4">
-            <div className="flex items-center space-x-2">
-              <span className="px-2 py-1 text-xs font-medium bg-blue-100 text-blue-800 rounded">
-                {question.game_type.replace('_', ' ').toUpperCase()}
-              </span>
-              <span className="px-2 py-1 text-xs font-medium bg-gray-100 text-gray-700 rounded">
-                {question.game_subtype.replace('_', ' ')}
-              </span>
-              <span className="px-2 py-1 text-xs font-medium bg-purple-100 text-purple-800 rounded">
-                Difficulty {question.difficulty}/10
-              </span>
-            </div>
+            {/* Removed redundant badges since GameCategoryIndicator shows them */}
           </div>
 
           {/* Timer and Controls */}
@@ -495,12 +555,33 @@ export function LogicGameQuestion({
             </button>
           </div>
 
-          {currentHint && (
-            <div className="mt-3 p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
-              <div className="flex items-start space-x-2">
-                <HelpCircle className="w-5 h-5 text-yellow-600 flex-shrink-0 mt-0.5" />
-                <p className="text-sm text-yellow-800">{currentHint}</p>
-              </div>
+          {/* Active Hints Stack */}
+          {activeHints.length > 0 && (
+            <div className="mt-3 space-y-2">
+              {activeHints.map((hint) => (
+                <div key={hint.id} className="p-4 bg-yellow-50 border border-yellow-200 rounded-lg">
+                  <div className="flex items-start justify-between space-x-3">
+                    <div className="flex items-start space-x-2 flex-1">
+                      <HelpCircle className="w-5 h-5 text-yellow-600 flex-shrink-0 mt-0.5" />
+                      <div className="flex-1">
+                        <div className="text-xs text-yellow-600 font-medium mb-1">
+                          {hint.type === 'setup_guidance' && 'Setup Hint'}
+                          {hint.type === 'rule_clarification' && 'Rule Help'}
+                          {hint.type === 'inference_help' && 'Inference Hint'}
+                        </div>
+                        <p className="text-sm text-yellow-800">{hint.content}</p>
+                      </div>
+                    </div>
+                    <button
+                      onClick={() => dismissHint(hint.id)}
+                      className="p-1 text-yellow-600 hover:text-yellow-800 hover:bg-yellow-100 rounded"
+                      aria-label="Dismiss hint"
+                    >
+                      <X className="w-4 h-4" />
+                    </button>
+                  </div>
+                </div>
+              ))}
             </div>
           )}
         </div>
@@ -581,6 +662,249 @@ function calculateEfficiencyScore(userActions: UserAction[], solutionSteps: Solu
   if (actualSteps <= optimalSteps) return 100
 
   return Math.max(0, Math.round((optimalSteps / actualSteps) * 100))
+}
+
+// Mock data generation functions for analytics dashboard
+function generateMockGameTypePerformances() {
+  return [
+    {
+      game_type: 'sequencing',
+      total_attempts: 25,
+      correct_attempts: 18,
+      metrics: {
+        accuracy: 72,
+        average_time: 420,
+        completion_rate: 85,
+        difficulty_progression: 5,
+        consistency_score: 0.75,
+        improvement_rate: 12,
+        mastery_level: 'developing' as const
+      },
+      common_mistakes: [
+        { mistake_type: 'Incorrect ordering', frequency: 8, impact_on_time: 45 },
+        { mistake_type: 'Missed constraints', frequency: 5, impact_on_time: 30 }
+      ],
+      skill_gaps: [
+        { skill: 'Setup Speed', proficiency: 0.7, priority: 'medium' as const },
+        { skill: 'Rule Application', proficiency: 0.8, priority: 'low' as const }
+      ],
+      benchmarks: {
+        percentile: 65,
+        time_vs_average: 1.1,
+        accuracy_vs_average: 1.03,
+        difficulty_level: 5,
+        target_metrics: {
+          target_accuracy: 82,
+          target_time: 360,
+          target_difficulty: 6,
+          estimated_completion_date: new Date(Date.now() + 45 * 24 * 60 * 60 * 1000).toISOString()
+        }
+      }
+    },
+    {
+      game_type: 'grouping',
+      total_attempts: 18,
+      correct_attempts: 12,
+      metrics: {
+        accuracy: 67,
+        average_time: 380,
+        completion_rate: 78,
+        difficulty_progression: 4,
+        consistency_score: 0.68,
+        improvement_rate: 8,
+        mastery_level: 'developing' as const
+      },
+      common_mistakes: [
+        { mistake_type: 'Group size errors', frequency: 6, impact_on_time: 35 },
+        { mistake_type: 'Exclusion rules missed', frequency: 4, impact_on_time: 25 }
+      ],
+      skill_gaps: [
+        { skill: 'Group Analysis', proficiency: 0.6, priority: 'high' as const },
+        { skill: 'Constraint Tracking', proficiency: 0.7, priority: 'medium' as const }
+      ],
+      benchmarks: {
+        percentile: 58,
+        time_vs_average: 0.95,
+        accuracy_vs_average: 0.96,
+        difficulty_level: 4,
+        target_metrics: {
+          target_accuracy: 77,
+          target_time: 340,
+          target_difficulty: 5,
+          estimated_completion_date: new Date(Date.now() + 60 * 24 * 60 * 60 * 1000).toISOString()
+        }
+      }
+    }
+  ]
+}
+
+function generateMockOverallMetrics() {
+  return {
+    accuracy: 69.5,
+    average_time: 402,
+    completion_rate: 81.5,
+    difficulty_progression: 4.5,
+    consistency_score: 0.715,
+    improvement_rate: 10,
+    mastery_level: 'developing' as const
+  }
+}
+
+function generateMockLearningInsights() {
+  return {
+    strengths: [
+      'Strong performance in sequencing games',
+      'Good improvement rate over time',
+      'Consistent practice schedule'
+    ],
+    weaknesses: [
+      'Lower accuracy in grouping games',
+      'Slow setup time for complex games',
+      'Difficulty with overlapping constraints'
+    ],
+    recommendations: [
+      {
+        priority: 'high' as const,
+        action: 'Focus on grouping game setup patterns and practice constraint tracking',
+        estimated_impact: 8,
+        estimated_time: 12
+      },
+      {
+        priority: 'medium' as const,
+        action: 'Develop speed drills for game setup and initial deductions',
+        estimated_impact: 6,
+        estimated_time: 8
+      }
+    ],
+    study_plan: [
+      {
+        phase: 'Skill Building',
+        focus_areas: ['Grouping fundamentals', 'Setup efficiency'],
+        duration: 3,
+        success_criteria: ['75% accuracy on grouping games', 'Sub-6 minute setup time']
+      },
+      {
+        phase: 'Advanced Practice',
+        focus_areas: ['Complex constraints', 'Speed optimization'],
+        duration: 4,
+        success_criteria: ['85% overall accuracy', '5-minute average completion']
+      }
+    ]
+  }
+}
+
+function generateMockComparisonData() {
+  return {
+    user_performance: generateMockOverallMetrics(),
+    peer_average: {
+      accuracy: 72,
+      average_time: 420,
+      completion_rate: 85,
+      difficulty_progression: 5,
+      consistency_score: 0.65,
+      improvement_rate: 5,
+      mastery_level: 'developing' as const
+    },
+    expert_benchmark: {
+      accuracy: 95,
+      average_time: 240,
+      completion_rate: 98,
+      difficulty_progression: 9,
+      consistency_score: 0.9,
+      improvement_rate: 2,
+      mastery_level: 'expert' as const
+    },
+    improvement_potential: {
+      current_score: 72,
+      potential_score: 95,
+      improvement_gap: 23,
+      actionable_areas: ['Accuracy improvement', 'Speed enhancement', 'Consistency building']
+    }
+  }
+}
+
+function generateMockRecentSessions() {
+  return [
+    {
+      session_id: 'session-1',
+      question_id: 'lg-001',
+      game_type: 'sequencing',
+      start_time: Date.now() - 3600000,
+      end_time: Date.now() - 3200000,
+      total_duration: 400,
+      accuracy_score: 0.8,
+      efficiency_score: 0.7,
+      learning_score: 0.9,
+      mistakes: [],
+      interactions: [],
+      cognitive_load_indicators: {
+        pause_frequency: 2,
+        hint_usage_rate: 1,
+        mistake_recovery_time: 15,
+        cognitive_load_score: 4
+      }
+    },
+    {
+      session_id: 'session-2',
+      question_id: 'lg-002',
+      game_type: 'grouping',
+      start_time: Date.now() - 7200000,
+      end_time: Date.now() - 6800000,
+      total_duration: 380,
+      accuracy_score: 0.6,
+      efficiency_score: 0.5,
+      learning_score: 0.7,
+      mistakes: [],
+      interactions: [],
+      cognitive_load_indicators: {
+        pause_frequency: 3,
+        hint_usage_rate: 2,
+        mistake_recovery_time: 25,
+        cognitive_load_score: 6
+      }
+    }
+  ]
+}
+
+function generateMockProgressionData() {
+  return {
+    timeline: [
+      {
+        date: '2025-01-14',
+        metrics: {
+          accuracy: 65,
+          average_time: 450,
+          completion_rate: 75,
+          difficulty_progression: 4,
+          consistency_score: 0.6,
+          improvement_rate: 5,
+          mastery_level: 'developing' as const
+        }
+      },
+      {
+        date: '2025-01-17',
+        metrics: {
+          accuracy: 68,
+          average_time: 425,
+          completion_rate: 80,
+          difficulty_progression: 4,
+          consistency_score: 0.65,
+          improvement_rate: 8,
+          mastery_level: 'developing' as const
+        }
+      },
+      {
+        date: '2025-01-20',
+        metrics: generateMockOverallMetrics()
+      }
+    ],
+    trend_analysis: {
+      accuracy_trend: 'improving' as const,
+      time_trend: 'improving' as const,
+      consistency_trend: 'stable' as const,
+      overall_progression: 1.5
+    }
+  }
 }
 
 export default LogicGameQuestion

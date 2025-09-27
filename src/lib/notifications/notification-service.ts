@@ -657,7 +657,7 @@ export class NotificationService {
     const today = new Date().toISOString().split('T')[0];
 
     // Check if studied today or yesterday (to account for timezone differences)
-    let currentDay = new Date(sortedDays[0]);
+    const currentDay = new Date(sortedDays[0]);
     const todayDate = new Date(today);
     const daysDiff = Math.floor((todayDate.getTime() - currentDay.getTime()) / (1000 * 60 * 60 * 24));
 
@@ -885,7 +885,7 @@ export class NotificationService {
    */
   private async getNextAvailableSlot(userId: string, preferences: NotificationPreferences): Promise<string> {
     const now = new Date();
-    let candidateTime = new Date(now.getTime() + 30 * 60 * 1000); // Start 30 minutes from now
+    const candidateTime = new Date(now.getTime() + 30 * 60 * 1000); // Start 30 minutes from now
 
     // Look for available slot in next 7 days
     for (let day = 0; day < 7; day++) {

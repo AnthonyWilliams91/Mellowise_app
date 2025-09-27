@@ -132,32 +132,35 @@ export class AnxietyDetectionService implements IAnxietyDetectionService {
       })
 
       // Calculate patterns for each trigger type
-      const patterns: TriggerPattern[] = Object.entries(triggerGroups).map(([trigger, occurrences]) => {
-        if (occurrences.length === 0) {
+      const patterns: TriggerPattern[] = await Promise.all(
+        Object.entries(triggerGroups).map(async ([trigger, occurrences]) => {
+          if (occurrences.length === 0) {
+            return {
+              trigger_type: trigger as AnxietyTrigger,
+              frequency: 0,
+              intensity_scores: [],
+              context_factors: [],
+              effective_interventions: [],
+              last_occurrence: ''
+            }
+          }
+
+          const intensityScores = occurrences.map(occ => this.getAnxietyIntensityScore(occ.anxiety_level))
+          const avgIntensity = intensityScores.reduce((sum, score) => sum + score, 0) / intensityScores.length
+
           return {
             trigger_type: trigger as AnxietyTrigger,
-            frequency: 0,
-            intensity_scores: [],
-            context_factors: [],
-            effective_interventions: [],
-            last_occurrence: ''
+            frequency: occurrences.length,
+            intensity_scores: intensityScores,
+            context_factors: this.extractContextFactors(occurrences),
+            effective_interventions: await this.getEffectiveInterventions(userId, trigger as AnxietyTrigger),
+            last_occurrence: occurrences[0]?.created_at || ''
           }
-        }
+        })
+      )
+      const filteredPatterns = patterns.filter(pattern => pattern.frequency > 0)
 
-        const intensityScores = occurrences.map(occ => this.getAnxietyIntensityScore(occ.anxiety_level))
-        const avgIntensity = intensityScores.reduce((sum, score) => sum + score, 0) / intensityScores.length
-
-        return {
-          trigger_type: trigger as AnxietyTrigger,
-          frequency: occurrences.length,
-          intensity_scores: intensityScores,
-          context_factors: this.extractContextFactors(occurrences),
-          effective_interventions: await this.getEffectiveInterventions(userId, trigger as AnxietyTrigger),
-          last_occurrence: occurrences[0]?.created_at || ''
-        }
-      }).filter(pattern => pattern.frequency > 0)
-
-      return patterns.sort((a, b) => b.frequency - a.frequency)
+      return filteredPatterns.sort((a, b) => b.frequency - a.frequency)
 
     } catch (error) {
       console.error('Error identifying triggers:', error)

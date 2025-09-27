@@ -118,7 +118,24 @@ export function GameBoard({
 
   // Custom collision detection that prioritizes chair positions over entity-bank
   const customCollisionDetection: CollisionDetection = useCallback((args) => {
-    // First, get all collisions using rect intersection
+    // Use pointerWithin first for more precise collision detection
+    const pointerCollisions = pointerWithin(args)
+
+    if (pointerCollisions.length > 0) {
+      // Filter for chair position collisions first
+      const chairCollisions = pointerCollisions.filter(collision =>
+        typeof collision.id === 'string' && collision.id.startsWith('pos')
+      )
+
+      if (chairCollisions.length > 0) {
+        return [chairCollisions[0]]
+      }
+
+      // Return other pointer collisions if no chairs
+      return [pointerCollisions[0]]
+    }
+
+    // Fall back to rect intersection
     const rectCollisions = rectIntersection(args)
 
     if (rectCollisions.length === 0) {

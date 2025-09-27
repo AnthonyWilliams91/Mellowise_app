@@ -1,0 +1,350 @@
+/**
+ * Glassmorphism Design Variants for Mellowise
+ * 2 distinct styles: Cosmic Space and Murky Crystal
+ */
+
+/* ==========================================
+   VARIANT 5: COSMIC SPACE (Sci-fi-inspired)
+   ========================================== */
+.glass-v5 {
+  /* Futuristic space-themed glass */
+  --glass-bg-primary: rgba(255, 255, 255, 0.07);
+  --glass-bg-secondary: rgba(255, 255, 255, 0.04);
+  --glass-bg-hover: rgba(255, 255, 255, 0.11);
+  --glass-border: 1px solid rgba(147, 51, 234, 0.3);
+  --glass-shadow: 0 15px 50px rgba(147, 51, 234, 0.15);
+  --blur-level: blur(15px);
+
+  /* Space gradients */
+  --bg-gradient: radial-gradient(ellipse at center, #1a0b2e 0%, #000000 70%);
+  --accent-primary: rgba(147, 51, 234, 0.8);
+  --accent-secondary: rgba(236, 72, 153, 0.6);
+  --accent-tertiary: rgba(59, 130, 246, 0.5);
+
+  /* Cosmic text */
+  --text-primary: rgba(255, 255, 255, 0.95);
+  --text-secondary: rgba(147, 51, 234, 0.9);
+}
+
+.glass-v5 {
+  position: relative;
+}
+
+.glass-v5::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:
+    radial-gradient(2px 2px at 20px 30px, rgba(255, 255, 255, 0.3), transparent),
+    radial-gradient(2px 2px at 40px 70px, rgba(147, 51, 234, 0.4), transparent),
+    radial-gradient(1px 1px at 90px 40px, rgba(255, 255, 255, 0.2), transparent),
+    radial-gradient(1px 1px at 130px 80px, rgba(236, 72, 153, 0.3), transparent);
+  background-size: 200px 200px;
+  animation: cosmic-drift 20s linear infinite;
+  pointer-events: none;
+  z-index: -1;
+}
+
+@keyframes cosmic-drift {
+  from { transform: translateY(0px); }
+  to { transform: translateY(-200px); }
+}
+
+.glass-v5 .glass-card {
+  background: var(--glass-bg-primary);
+  backdrop-filter: var(--blur-level);
+  -webkit-backdrop-filter: var(--blur-level);
+  border: var(--glass-border);
+  border-radius: 14px;
+  box-shadow: var(--glass-shadow);
+  position: relative;
+  overflow: hidden;
+}
+
+.glass-v5 .glass-card::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(45deg,
+    rgba(147, 51, 234, 0.1),
+    rgba(236, 72, 153, 0.1),
+    rgba(59, 130, 246, 0.1),
+    rgba(147, 51, 234, 0.1)
+  );
+  background-size: 400% 400%;
+  animation: cosmic-border 4s ease-in-out infinite;
+  border-radius: 16px;
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.glass-v5 .glass-card:hover::before {
+  opacity: 1;
+}
+
+@keyframes cosmic-border {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* ==========================================
+   VARIANT 6: MURKY CRYSTAL (Crystalline-inspired)
+   ========================================== */
+.glass-v6 {
+  /* Bright crystalline glass effects */
+  --glass-bg-primary: rgba(255, 255, 255, 0.15);
+  --glass-bg-secondary: rgba(255, 255, 255, 0.08);
+  --glass-bg-hover: rgba(255, 255, 255, 0.22);
+  --glass-border: 1px solid rgba(255, 255, 255, 0.25);
+  --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.08);
+  --blur-level: blur(20px);
+
+  /* Crystal gradients */
+  --bg-gradient: linear-gradient(135deg, #f8fafc 0%, #e2e8f0 50%, #cbd5e1 100%);
+  --accent-primary: rgba(99, 102, 241, 0.7);
+  --accent-secondary: rgba(139, 92, 246, 0.6);
+  --accent-tertiary: rgba(59, 130, 246, 0.5);
+
+  /* Crystal text */
+  --text-primary: rgba(30, 41, 59, 0.9);
+  --text-secondary: rgba(99, 102, 241, 0.8);
+}
+
+.glass-v6 {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Floating crystal particle animations */
+.glass-v6::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:
+    radial-gradient(3px 3px at 40px 60px, rgba(99, 102, 241, 0.4), transparent),
+    radial-gradient(2px 2px at 90px 30px, rgba(139, 92, 246, 0.3), transparent),
+    radial-gradient(4px 4px at 160px 90px, rgba(59, 130, 246, 0.2), transparent),
+    radial-gradient(2px 2px at 200px 140px, rgba(99, 102, 241, 0.3), transparent),
+    radial-gradient(3px 3px at 250px 40px, rgba(139, 92, 246, 0.4), transparent);
+  background-size: 300px 200px, 250px 180px, 350px 220px, 280px 160px, 320px 240px;
+  animation: crystal-drift 25s linear infinite, crystal-shimmer 8s ease-in-out infinite alternate;
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Organic flow background */
+.glass-v6::after {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:
+    radial-gradient(ellipse 800px 600px at 20% 80%, rgba(99, 102, 241, 0.1), transparent),
+    radial-gradient(ellipse 600px 800px at 80% 20%, rgba(139, 92, 246, 0.08), transparent),
+    radial-gradient(ellipse 400px 500px at 60% 60%, rgba(59, 130, 246, 0.06), transparent);
+  animation: organic-flow 20s ease-in-out infinite;
+  pointer-events: none;
+  z-index: -2;
+}
+
+@keyframes crystal-drift {
+  from {
+    transform: translateY(0px) translateX(0px);
+    opacity: 0.8;
+  }
+  25% {
+    transform: translateY(-100px) translateX(50px);
+    opacity: 1;
+  }
+  50% {
+    transform: translateY(-200px) translateX(-30px);
+    opacity: 0.6;
+  }
+  75% {
+    transform: translateY(-300px) translateX(80px);
+    opacity: 1;
+  }
+  to {
+    transform: translateY(-400px) translateX(-20px);
+    opacity: 0.8;
+  }
+}
+
+@keyframes crystal-shimmer {
+  0% { filter: brightness(1) contrast(1); }
+  100% { filter: brightness(1.1) contrast(1.05); }
+}
+
+@keyframes organic-flow {
+  0%, 100% {
+    transform: rotate(0deg) scale(1);
+    opacity: 0.8;
+  }
+  33% {
+    transform: rotate(120deg) scale(1.1);
+    opacity: 0.6;
+  }
+  66% {
+    transform: rotate(240deg) scale(0.9);
+    opacity: 1;
+  }
+}
+
+.glass-v6 .glass-card {
+  background: var(--glass-bg-primary);
+  backdrop-filter: var(--blur-level);
+  -webkit-backdrop-filter: var(--blur-level);
+  border: var(--glass-border);
+  border-radius: 20px;
+  box-shadow: var(--glass-shadow);
+  position: relative;
+  overflow: hidden;
+}
+
+.glass-v6 .glass-card::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  background: linear-gradient(45deg,
+    rgba(99, 102, 241, 0.2),
+    rgba(139, 92, 246, 0.1),
+    rgba(59, 130, 246, 0.2),
+    rgba(99, 102, 241, 0.1)
+  );
+  background-size: 400% 400%;
+  animation: crystal-border-shimmer 6s ease-in-out infinite;
+  border-radius: 22px;
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.glass-v6 .glass-card:hover::before {
+  opacity: 1;
+}
+
+@keyframes crystal-border-shimmer {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+/* ==========================================
+   COMMON COMPONENTS FOR ALL VARIANTS
+   ========================================== */
+
+/* Base layout for all variants */
+.variant-container {
+  min-height: 100vh;
+  background: var(--bg-gradient);
+  padding: 2rem;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Cards for all variants */
+.variant-container .glass-card {
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  position: relative;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.variant-container .glass-card:hover {
+  transform: translateY(-4px);
+}
+
+/* Text styling for all variants */
+.variant-container h2 {
+  color: var(--text-primary);
+  font-size: 1.5rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.variant-container p {
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+/* Button styling for all variants */
+.variant-btn {
+  background: var(--accent-primary);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.variant-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Progress bars for all variants */
+.variant-progress {
+  width: 100%;
+  height: 8px;
+  background: var(--glass-bg-secondary);
+  border-radius: 4px;
+  overflow: hidden;
+  margin: 1rem 0;
+}
+
+.variant-progress-fill {
+  height: 100%;
+  background: var(--accent-primary);
+  border-radius: 4px;
+  transition: width 0.3s ease;
+}
+
+/* Navigation tabs for variant switcher */
+.variant-nav {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+  flex-wrap: wrap;
+}
+
+.variant-tab {
+  padding: 0.75rem 1.5rem;
+  background: var(--glass-bg-primary);
+  border: var(--glass-border);
+  border-radius: 12px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.variant-tab.active {
+  background: var(--accent-primary);
+  color: white;
+  border-color: var(--accent-primary);
+}
+
+.variant-tab:hover:not(.active) {
+  background: var(--glass-bg-hover);
+  color: var(--text-primary);
+}

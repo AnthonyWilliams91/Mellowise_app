@@ -1129,7 +1129,7 @@ export class PersonalizationEngine {
     const sessionLength = profile.learningPreferences.sessionLengthPreference;
 
     let recommendedFormat;
-    let confidence = 0.7;
+    const confidence = 0.7;
     const reasoning = [];
 
     // Recommend format based on learning style

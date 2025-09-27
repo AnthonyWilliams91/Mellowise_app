@@ -510,7 +510,7 @@ export class RecoveryOrchestrator {
     await this.updateWorkflowState(workflow);
 
     const results: Array<{ stepId: string; success: boolean; result?: any; error?: string }> = [];
-    let currentStepIndex = workflow.progress.currentStep;
+    const currentStepIndex = workflow.progress.currentStep;
 
     try {
       for (let i = currentStepIndex; i < workflow.steps.length; i++) {

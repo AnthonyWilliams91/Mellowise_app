@@ -98,4 +98,129 @@ export async function POST(request: NextRequest) {
             processedQuestions.push(question);
           }
         } catch (error) {
-          errors.push(`Question ${question.id}: Processing failed`);\n        }\n      }\n\n      // Calculate actual costs\n      const actualTokens = generatedQuestions.reduce(\n        (acc, q) => ({\n          input: acc.input + q.tokensUsed.input,\n          output: acc.output + q.tokensUsed.output\n        }),\n        { input: 0, output: 0 }\n      );\n\n      const actualCost = Math.round(\n        (actualTokens.input * 0.015 + actualTokens.output * 0.075) / 1000 * 100\n      ); // Anthropic pricing in cents\n\n      const response: GenerateQuestionResponse = {\n        success: true,\n        questions: processedQuestions,\n        errors: errors.length > 0 ? errors : undefined,\n        cost: {\n          estimated: estimatedCost,\n          tokens: actualTokens\n        }\n      };\n\n      return NextResponse.json(response);\n\n    } catch (apiError: any) {\n      console.error('AI API Error:', apiError);\n      \n      if (apiError.status === 429) {\n        return NextResponse.json(\n          { \n            success: false, \n            errors: ['Rate limit exceeded. Please try again later.'],\n            estimatedTime: 60 // seconds\n          },\n          { status: 429 }\n        );\n      }\n\n      if (apiError.status === 401) {\n        return NextResponse.json(\n          { success: false, errors: ['AI service authentication failed'] },\n          { status: 503 }\n        );\n      }\n\n      return NextResponse.json(\n        { \n          success: false, \n          errors: ['AI generation service temporarily unavailable'],\n          cost: {\n            estimated: estimatedCost,\n            tokens: estimatedTokens\n          }\n        },\n        { status: 503 }\n      );\n    }\n\n  } catch (error) {\n    console.error('Generation API Error:', error);\n    return NextResponse.json(\n      { success: false, errors: ['Internal server error'] },\n      { status: 500 }\n    );\n  }\n}\n\n// GET endpoint for checking generation status and templates\nexport async function GET(request: NextRequest) {\n  const { searchParams } = new URL(request.url);\n  const action = searchParams.get('action');\n\n  try {\n    if (action === 'templates') {\n      // Return available templates\n      const { allTemplates } = await import('@/lib/question-generation/templates');\n      \n      const templateSummary = allTemplates.map(template => ({\n        id: template.id,\n        name: template.templateName,\n        sectionType: template.sectionType,\n        difficultyRange: template.difficulty_range,\n        topics: template.topics,\n        frequency: template.frequency,\n        successRate: template.successRate\n      }));\n\n      return NextResponse.json({\n        success: true,\n        templates: templateSummary\n      });\n    }\n\n    if (action === 'status') {\n      // Return service status\n      const hasApiKey = !!process.env.ANTHROPIC_API_KEY;\n      \n      return NextResponse.json({\n        success: true,\n        status: {\n          aiServiceConfigured: hasApiKey,\n          templatesLoaded: true,\n          validationRulesLoaded: true,\n          estimatedResponseTime: '3-5 seconds per question'\n        }\n      });\n    }\n\n    return NextResponse.json(\n      { success: false, errors: ['Invalid action parameter'] },\n      { status: 400 }\n    );\n\n  } catch (error) {\n    console.error('GET API Error:', error);\n    return NextResponse.json(\n      { success: false, errors: ['Failed to fetch data'] },\n      { status: 500 }\n    );\n  }\n}"
+          errors.push(`Question ${question.id}: Processing failed`);
+        }
+      }
+
+      // Calculate actual costs
+      const actualTokens = generatedQuestions.reduce(
+        (acc, q) => ({
+          input: acc.input + q.tokensUsed.input,
+          output: acc.output + q.tokensUsed.output
+        }),
+        { input: 0, output: 0 }
+      );
+
+      const actualCost = Math.round(
+        (actualTokens.input * 0.015 + actualTokens.output * 0.075) / 1000 * 100
+      ); // Anthropic pricing in cents
+
+      const response: GenerateQuestionResponse = {
+        success: true,
+        questions: processedQuestions,
+        errors: errors.length > 0 ? errors : undefined,
+        cost: {
+          estimated: estimatedCost,
+          tokens: actualTokens
+        }
+      };
+
+      return NextResponse.json(response);
+
+    } catch (apiError: any) {
+      console.error('AI API Error:', apiError);
+
+      if (apiError.status === 429) {
+        return NextResponse.json(
+          {
+            success: false,
+            errors: ['Rate limit exceeded. Please try again later.'],
+            estimatedTime: 60 // seconds
+          },
+          { status: 429 }
+        );
+      }
+
+      if (apiError.status === 401) {
+        return NextResponse.json(
+          { success: false, errors: ['AI service authentication failed'] },
+          { status: 503 }
+        );
+      }
+
+      return NextResponse.json(
+        {
+          success: false,
+          errors: ['AI generation service temporarily unavailable'],
+          cost: {
+            estimated: estimatedCost,
+            tokens: estimatedTokens
+          }
+        },
+        { status: 503 }
+      );
+    }
+
+  } catch (error) {
+    console.error('Generation API Error:', error);
+    return NextResponse.json(
+      { success: false, errors: ['Internal server error'] },
+      { status: 500 }
+    );
+  }
+}
+
+// GET endpoint for checking generation status and templates
+export async function GET(request: NextRequest) {
+  const { searchParams } = new URL(request.url);
+  const action = searchParams.get('action');
+
+  try {
+    if (action === 'templates') {
+      // Return available templates
+      const { allTemplates } = await import('@/lib/question-generation/templates');
+
+      const templateSummary = allTemplates.map(template => ({
+        id: template.id,
+        name: template.templateName,
+        sectionType: template.sectionType,
+        difficultyRange: template.difficulty_range,
+        topics: template.topics,
+        frequency: template.frequency,
+        successRate: template.successRate
+      }));
+
+      return NextResponse.json({
+        success: true,
+        templates: templateSummary
+      });
+    }
+
+    if (action === 'status') {
+      // Return service status
+      const hasApiKey = !!process.env.ANTHROPIC_API_KEY;
+
+      return NextResponse.json({
+        success: true,
+        status: {
+          aiServiceConfigured: hasApiKey,
+          templatesLoaded: true,
+          validationRulesLoaded: true,
+          estimatedResponseTime: '3-5 seconds per question'
+        }
+      });
+    }
+
+    return NextResponse.json(
+      { success: false, errors: ['Invalid action parameter'] },
+      { status: 400 }
+    );
+
+  } catch (error) {
+    console.error('GET API Error:', error);
+    return NextResponse.json(
+      { success: false, errors: ['Failed to fetch data'] },
+      { status: 500 }
+    );
+  }
+}
