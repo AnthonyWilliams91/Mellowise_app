@@ -51,15 +51,25 @@ export default function SignUpForm({ onSuccess, onSwitchToSignIn }: SignUpFormPr
         password,
         fullName: fullName || undefined,
       })
-      
+
       if (error) {
-        setError(error.message)
+        // Check if it's a Supabase connection error
+        if (error.message.includes('fetch') || error.message.includes('connection')) {
+          setError('Authentication service temporarily unavailable. This is a testing environment with placeholder authentication.')
+        } else {
+          setError(error.message)
+        }
       } else if (user) {
         setMessage('Check your email for a confirmation link!')
         onSuccess?.()
       }
     } catch (err) {
-      setError('An unexpected error occurred')
+      const errorMessage = err instanceof Error ? err.message : 'An unexpected error occurred'
+      if (errorMessage.includes('fetch') || errorMessage.includes('connection')) {
+        setError('Authentication service temporarily unavailable. This is a testing environment with placeholder authentication.')
+      } else {
+        setError(errorMessage)
+      }
     } finally {
       setLoading(false)
     }
@@ -87,6 +97,10 @@ export default function SignUpForm({ onSuccess, onSwitchToSignIn }: SignUpFormPr
       <div className="text-center mb-6">
         <h2 className="text-2xl font-bold text-gray-900">Create Account</h2>
         <p className="text-gray-600 mt-2">Start your LSAT prep journey</p>
+        <div className="mt-2 p-2 bg-yellow-50 border border-yellow-200 rounded text-yellow-800 text-xs">
+          <strong>Testing Environment:</strong> Authentication is currently using placeholder services.
+          Use the "Skip Authentication" button below for demo access.
+        </div>
       </div>
 
       {error && (
@@ -154,6 +168,19 @@ export default function SignUpForm({ onSuccess, onSwitchToSignIn }: SignUpFormPr
           className="w-full bg-blue-600 text-white py-2 px-4 rounded-md hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 disabled:opacity-50 disabled:cursor-not-allowed"
         >
           {loading ? 'Creating Account...' : 'Create Account'}
+        </button>
+
+        <button
+          type="button"
+          onClick={() => {
+            setMessage('Demo access granted! Redirecting to dashboard...')
+            setTimeout(() => {
+              window.location.href = '/dashboard'
+            }, 1000)
+          }}
+          className="w-full mt-2 bg-green-600 text-white py-2 px-4 rounded-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500"
+        >
+          Skip Authentication (Demo Access)
         </button>
       </form>
 
