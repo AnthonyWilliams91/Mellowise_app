@@ -1,12 +1,12 @@
 'use client'
 
-import React, { useState, useEffect } from 'react'
+import React, { useState, useEffect, Suspense } from 'react'
 import { createClientComponentClient } from '@supabase/auth-helpers-nextjs'
 import { User } from '@supabase/supabase-js'
 import PricingCard from '@/components/payments/PricingCard'
 import { SUBSCRIPTION_TIERS } from '@/lib/stripe'
 import { Button } from '@/components/ui/button'
-import { ArrowRight, Check, Star, Crown, Zap } from 'lucide-react'
+import { ArrowRight, Check, Star, Crown, Zap, Loader2 } from 'lucide-react'
 import { useRouter, useSearchParams } from 'next/navigation'
 
 interface UserProfile {
@@ -15,7 +15,7 @@ interface UserProfile {
   subscription_data?: any
 }
 
-export default function PricingPage() {
+function PricingContent() {
   const [user, setUser] = useState<User | null>(null)
   const [userProfile, setUserProfile] = useState<UserProfile | null>(null)
   const [loading, setLoading] = useState(true)
@@ -312,5 +312,22 @@ export default function PricingPage() {
         </div>
       </div>
     </div>
+  )
+}
+
+export default function PricingPage() {
+  return (
+    <Suspense fallback={
+      <div className="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center">
+        <div className="w-full max-w-md mx-4">
+          <div className="flex flex-col items-center justify-center py-12">
+            <Loader2 className="w-8 h-8 animate-spin text-blue-600 mb-4" />
+            <p className="text-gray-600 text-center">Loading pricing information...</p>
+          </div>
+        </div>
+      </div>
+    }>
+      <PricingContent />
+    </Suspense>
   )
 }
