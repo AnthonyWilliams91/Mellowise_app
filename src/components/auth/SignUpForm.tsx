@@ -172,11 +172,30 @@ export default function SignUpForm({ onSuccess, onSwitchToSignIn }: SignUpFormPr
 
         <button
           type="button"
-          onClick={() => {
-            setMessage('Demo access granted! Redirecting to dashboard...')
-            setTimeout(() => {
-              window.location.href = '/dashboard'
-            }, 1000)
+          onClick={async () => {
+            setMessage('Demo access granted! Setting up session...')
+
+            // Set a demo session cookie to bypass middleware
+            try {
+              const response = await fetch('/api/auth/demo-access', {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ demo: true }),
+              })
+
+              if (response.ok) {
+                setMessage('Demo access granted! Redirecting to dashboard...')
+                setTimeout(() => {
+                  window.location.href = '/dashboard'
+                }, 1000)
+              } else {
+                setError('Demo access setup failed. Please try again.')
+              }
+            } catch (err) {
+              setError('Demo access setup failed. Please try again.')
+            }
           }}
           className="w-full mt-2 bg-green-600 text-white py-2 px-4 rounded-md hover:bg-green-700 focus:outline-none focus:ring-2 focus:ring-green-500"
         >
