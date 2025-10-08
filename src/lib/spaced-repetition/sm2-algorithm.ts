@@ -54,7 +54,7 @@ export class SM2Algorithm {
       throw new Error('Quality must be between 0 and 5');
     }
 
-    let { easeFactor, interval, repetitions } = parameters;
+    const { easeFactor, interval, repetitions } = parameters;
 
     // Calculate new ease factor
     const newEaseFactor = this.calculateNewEaseFactor(easeFactor, quality);

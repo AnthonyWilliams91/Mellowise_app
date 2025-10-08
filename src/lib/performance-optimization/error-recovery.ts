@@ -372,7 +372,7 @@ export class ErrorRecoveryService {
   ): Promise<RecoveryExecutionResult> {
     const actions: RecoveryAction[] = []
     let success = false
-    let userMessage = strategy.recovery_actions.user_notification
+    const userMessage = strategy.recovery_actions.user_notification
     let requiresUserAction = false
     let sessionRecovered = false
 

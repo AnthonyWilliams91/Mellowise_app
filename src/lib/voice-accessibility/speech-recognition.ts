@@ -453,7 +453,7 @@ export class SpeechRecognitionService {
 
     // Simple fuzzy matching
     let matchedWords = 0
-    let totalWords = patternWords.length
+    const totalWords = patternWords.length
 
     for (let i = 0; i < patternWords.length; i++) {
       const patternWord = patternWords[i]

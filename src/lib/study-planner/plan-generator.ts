@@ -838,7 +838,7 @@ export class StudyPlanGenerator {
       .slice(0, 2);
 
     // Base allocation
-    let allocation: TimeAllocation = {
+    const allocation: TimeAllocation = {
       logicalReasoning: 0.4, // 40% - most important section
       readingComprehension: 0.25, // 25%
       logicGames: 0.2, // 20%

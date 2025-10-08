@@ -257,7 +257,7 @@ export class PriorityQueueManager {
     const maxNewCards = this.loadBalancingSettings.maxNewCardsPerSession;
     const maxReviewCards = this.loadBalancingSettings.maxReviewCardsPerSession;
 
-    let selectedCards: QueuedCard[] = [];
+    const selectedCards: QueuedCard[] = [];
     let currentTime = 0;
 
     // Apply difficulty preference

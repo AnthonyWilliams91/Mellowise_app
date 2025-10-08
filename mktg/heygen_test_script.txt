@@ -1,0 +1,24 @@
+# Test Script - Welcome to Mellowise
+
+**Duration:** ~30 seconds
+
+---
+
+[GREETING - Warm smile, open hand gesture]
+Hi there! I'm excited to introduce you to Mellowise.
+
+[ENTHUSIASTIC - Lean forward slightly, animated expression]
+We're revolutionizing how students prepare for standardized tests like the LSAT, GRE, and SAT.
+
+[CONFIDENT - Nod, direct eye contact]
+Our AI-powered platform combines authentic test questions with gamified learning to make studying actually engaging.
+
+[INVITING - Gentle smile, welcoming gesture]
+Ready to transform your test prep experience? Let's get started with Mellowise today!
+
+---
+
+**Avatar Notes:**
+- Tone: Professional but friendly and approachable
+- Energy level: Medium-high (enthusiastic without being overwhelming)
+- Background: Clean, professional setting

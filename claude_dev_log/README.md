@@ -62,6 +62,38 @@ claude_dev_log/
 - [`mvp_initial/2025-09-25T20:00:00Z_devLog-mellowise_031.md`](./mvp_initial/2025-09-25T20:00:00Z_devLog-mellowise_031.md) - Multi-Language Support (TBD pts) 🔍
 - [`mvp_initial/2025-09-25T20:00:00Z_devLog-mellowise_032.md`](./mvp_initial/2025-09-25T20:00:00Z_devLog-mellowise_032.md) - Enterprise Analytics Dashboard (TBD pts) 🔍
 
+## Active Projects (September 2025)
+
+### Viral Waitlist Landing Page - September 30, 2025
+**Updated**: September 30, 2025 at 11:50 PM EST
+
+**Project**: Beta Waitlist with Tiered Pricing & Referral System
+- **Planning Document**: [`20250930_waitlist_landing_page_planning.md`](./20250930_waitlist_landing_page_planning.md)
+- **Status**: Planning Complete - Implementation Starting
+- **Timeline**: 3-week sprint (Oct 1-22, 2025)
+- **Goal**: 500+ beta signups with viral growth mechanics
+
+**Multi-Agent Planning Session**:
+- 🎨 **Sally (UX Expert)**: Front-end specifications and component design
+- 📣 **Alex (Marketing)**: Copy strategy and conversion optimization
+- 🏗️ **Winston (Architect)**: Technical architecture and database schema
+- 💻 **James (Dev Agent)**: Day-by-day implementation roadmap
+
+**Deliverables Created**:
+1. [`docs/front-end-spec-landing-page.md`](../docs/front-end-spec-landing-page.md) - Complete UX/UI specifications
+2. [`docs/marketing-copy-landing-page.md`](../docs/marketing-copy-landing-page.md) - All marketing copy and email sequences
+3. [`docs/architecture-waitlist-system.md`](../docs/architecture-waitlist-system.md) - Technical architecture and API design
+4. [`docs/IMPLEMENTATION-PLAN-WAITLIST.md`](../docs/IMPLEMENTATION-PLAN-WAITLIST.md) - 21-day implementation plan
+
+**Key Features**:
+- Tiered pricing: $15-$49/month based on signup position
+- Viral referral mechanics: 3 friends = 10 spots, social shares = 5 spots per platform
+- 1-tier improvement cap to prevent gaming
+- Next.js 14 + Supabase + Resend email automation
+- Anti-fraud validation and security measures
+
+**Revenue Target**: $7,500 MRR ($90K ARR) from 500 signups at 60% conversion
+
 ## Status Legend
 - ✅ **Complete**: Card moved to `/kanban/mellowise_dev/done/`
 - 🔍 **In Review**: Card in `/kanban/mellowise_dev/review/`
