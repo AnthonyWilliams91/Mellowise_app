@@ -3,6 +3,7 @@
 import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import { createClient } from '@/lib/supabase/client';
+import { Particles } from '@/components/ui/particles';
 
 interface TierData {
   tier: number;
@@ -129,7 +130,7 @@ export default function LandingPage() {
     // Past tier styling and content
     if (isPastTier) {
       return (
-        <div key={tierInfo.tier} className="text-[#28fe14]/60 pl-3 line-through opacity-50">
+        <div key={tierInfo.tier} className="text-teal-400/60 pl-3 line-through opacity-50">
           Tier {tierInfo.tier}: 0/{tierInfo.capacity} available at ${tierInfo.price}/month
         </div>
       );
@@ -154,12 +155,12 @@ export default function LandingPage() {
         : `> Tier ${tierInfo.tier}: ${displaySpots} spots at $${tierInfo.price}/month`;
 
       return (
-        <div key={tierInfo.tier} className="border-2 border-[#28fe14] bg-[#28fe14]/10 p-3">
+        <div key={tierInfo.tier} className="border-2 border-teal-500 bg-teal-500/10 p-3">
           <div className="flex items-center justify-between">
-            <div className="font-bold text-[#28fe14]">
+            <div className="font-bold text-teal-400">
               {tierLabel}
             </div>
-            <div className="bg-[#28fe14] text-black px-2 py-1 text-xs font-bold animate-pulse">
+            <div className="bg-teal-500 text-black px-2 py-1 text-xs font-bold animate-pulse">
               &lt;YOU ARE HERE&gt;
             </div>
           </div>
@@ -175,7 +176,7 @@ export default function LandingPage() {
         : `Tier ${tierInfo.tier}: ${displayCapacity} available at $${tierInfo.price}/month`;
 
       return (
-        <div key={tierInfo.tier} className="text-[#28fe14]/60 pl-3">
+        <div key={tierInfo.tier} className="text-teal-400/60 pl-3">
           {tierLabel}
         </div>
       );
@@ -185,9 +186,24 @@ export default function LandingPage() {
   };
 
   return (
-    <div className="min-h-screen bg-black font-mono text-[#28fe14]">
-      {/* Modern Navbar */}
-      <nav className="border-b border-gray-800 bg-gray-900 sticky top-0 z-50 shadow-lg">
+    <div className="relative min-h-screen bg-black font-mono text-teal-400">
+      {/* Black Backdrop Layer */}
+      <div className="fixed inset-0 bg-black z-0" />
+
+      {/* Particles Background Effect */}
+      <Particles
+        className="fixed inset-0 z-5"
+        quantity={150}
+        ease={80}
+        color="#14b8a6"
+        staticity={60}
+        size={1.2}
+      />
+
+      {/* Content Wrapper */}
+      <div className="relative z-10">
+        {/* Modern Navbar - Glassmorphism */}
+      <nav className="border-b border-white/10 bg-white/5 backdrop-blur-lg sticky top-0 z-50 shadow-lg w-full">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
 
@@ -341,32 +357,32 @@ export default function LandingPage() {
         <div className="max-w-2xl w-full space-y-8">
 
           {/* Terminal Header */}
-          <div className="border border-[#28fe14] p-1">
+          <div className="border border-teal-500/50 p-1">
             <div className="bg-black p-4 space-y-2">
-              <div className="text-[#28fe14]">$ ./mellowise --init</div>
-              <div className="text-[#28fe14] animate-pulse">Loading system...</div>
+              <div className="text-teal-400">$ ./mellowise --init</div>
+              <div className="text-teal-400 animate-pulse">Loading system...</div>
             </div>
           </div>
 
           {/* Hero Section */}
-          <div className="space-y-4 border border-[#28fe14] p-6">
-            <div className="text-sm text-[#28fe14]">
+          <div className="space-y-4 border border-teal-500/50 p-6 bg-white/5 backdrop-blur-sm">
+            <div className="text-sm text-teal-400">
               ┌─────────────────────────────────────────┐
             </div>
-            <h1 className="text-3xl lg:text-5xl font-bold text-[#28fe14] leading-tight">
+            <h1 className="text-3xl lg:text-5xl font-bold text-teal-400 leading-tight">
               &gt; WELCOME TO MELLOWISE
             </h1>
-            <p className="text-lg lg:text-xl text-[#28fe14]/90">
+            <p className="text-lg lg:text-xl text-teal-300">
               {`// AI-powered LSAT prep that adapts to you`}
             </p>
-            <div className="text-sm text-[#28fe14]">
+            <div className="text-sm text-teal-400">
               └─────────────────────────────────────────┘
             </div>
           </div>
 
-          {/* Pricing Tier Widget */}
-          <div id="pricing-widget" className="border-2 border-[#28fe14] bg-black shadow-[0_0_10px_rgba(40,254,20,0.3)]">
-            <div className="bg-[#28fe14] text-black px-4 py-2 font-bold">
+          {/* Pricing Tier Widget - Glassmorphism Card */}
+          <div id="pricing-widget" className="border-2 border-teal-500/30 bg-white/5 backdrop-blur-md shadow-[0_8px_32px_rgba(20,184,166,0.3)] rounded-lg overflow-hidden">
+            <div className="bg-teal-500 text-black px-4 py-2 font-bold">
               [!] EARLY ACCESS PRICING - LOCK YOUR RATE NOW
               {loading && <span className="ml-2 text-xs animate-pulse">[LOADING...]</span>}
             </div>
@@ -374,10 +390,10 @@ export default function LandingPage() {
               {/* Render all tiers dynamically */}
               {tiers.map(tierInfo => renderTier(tierInfo))}
 
-              <div className="mt-4 pt-4 border-t border-[#28fe14]/30 text-center">
-                <span className="text-[#28fe14]/60 line-through">Regular: $99/month</span>
+              <div className="mt-4 pt-4 border-t border-teal-500/30 text-center">
+                <span className="text-teal-400/60 line-through">Regular: $99/month</span>
                 {' '}
-                <span className="text-[#28fe14] font-bold">SAVE UP TO $84/MONTH</span>
+                <span className="text-teal-400 font-bold">SAVE UP TO $84/MONTH</span>
               </div>
             </div>
           </div>
@@ -392,7 +408,7 @@ export default function LandingPage() {
             <button
               onClick={handleGoogleSignIn}
               disabled={signingIn}
-              className="w-full border-2 border-[#28fe14] bg-transparent text-[#28fe14] py-3 px-6 font-bold rounded-md hover:bg-[#28fe14] hover:text-black transition-all duration-300 shadow-[0_0_10px_rgba(40,254,20,0.4)] hover:shadow-[0_0_20px_rgba(40,254,20,0.7)] uppercase tracking-wider flex items-center justify-center gap-3 disabled:opacity-50 disabled:cursor-not-allowed"
+              className="w-full border-2 border-teal-500/50 bg-white/5 backdrop-blur-sm text-teal-400 py-3 px-6 font-bold rounded-lg hover:bg-teal-500 hover:text-black hover:border-teal-500 transition-all duration-300 shadow-[0_0_10px_rgba(20,184,166,0.4)] hover:shadow-[0_0_20px_rgba(20,184,166,0.7)] uppercase tracking-wider flex items-center justify-center gap-3 disabled:opacity-50 disabled:cursor-not-allowed"
             >
               {signingIn ? (
                 <>
@@ -417,7 +433,7 @@ export default function LandingPage() {
             <button
               onClick={handleEmailSignIn}
               disabled={signingIn}
-              className="w-full border-2 border-[#28fe14] bg-transparent text-[#28fe14] py-3 px-6 font-bold rounded-md hover:bg-[#28fe14] hover:text-black transition-all duration-300 shadow-[0_0_10px_rgba(40,254,20,0.4)] hover:shadow-[0_0_20px_rgba(40,254,20,0.7)] uppercase tracking-wider flex items-center justify-center gap-3 disabled:opacity-50 disabled:cursor-not-allowed"
+              className="w-full border-2 border-teal-500/50 bg-white/5 backdrop-blur-sm text-teal-400 py-3 px-6 font-bold rounded-lg hover:bg-teal-500 hover:text-black hover:border-teal-500 transition-all duration-300 shadow-[0_0_10px_rgba(20,184,166,0.4)] hover:shadow-[0_0_20px_rgba(20,184,166,0.7)] uppercase tracking-wider flex items-center justify-center gap-3 disabled:opacity-50 disabled:cursor-not-allowed"
             >
               <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
                 <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
@@ -427,7 +443,7 @@ export default function LandingPage() {
           </div>
 
           {/* Terminal Footer */}
-          <div className="text-sm text-[#28fe14]/70 pl-3">
+          <div className="text-sm text-teal-400/70 pl-3">
             <div>$ cat /var/log/waitlist.log</div>
             <div className="animate-pulse">&gt; Awaiting user input...</div>
           </div>
@@ -436,7 +452,7 @@ export default function LandingPage() {
       </div>
 
       {/* Right Panel - Product Preview (40% on desktop) */}
-      <div className="w-full lg:w-2/5 bg-black border-l-2 border-[#28fe14]/30 flex items-center justify-center px-6 py-16 lg:px-12 lg:py-20 min-h-[400px] lg:min-h-screen">
+      <div className="w-full lg:w-2/5 bg-black border-l-2 border-teal-500/20 flex items-center justify-center px-6 py-16 lg:px-12 lg:py-20 min-h-[400px] lg:min-h-screen">
         <div className="max-w-md w-full space-y-6">
 
           {/* Owl Logo */}
@@ -446,55 +462,52 @@ export default function LandingPage() {
               alt="Mellowise Owl Mascot"
               width={256}
               height={256}
-              className="w-48 lg:w-64 h-auto transition-all duration-300 shadow-[0_0_20px_rgba(40,254,20,0.4)] hover:shadow-[0_0_30px_rgba(40,254,20,0.6)]"
-              style={{
-                filter: 'brightness(0.8) sepia(1) hue-rotate(60deg) saturate(8)'
-              }}
+              className="w-48 lg:w-64 h-auto transition-all duration-300 shadow-[0_0_20px_rgba(20,184,166,0.4)] hover:shadow-[0_0_30px_rgba(20,184,166,0.6)]"
               priority
             />
-            <div className="text-[#28fe14] text-lg font-bold tracking-widest">
+            <div className="text-teal-400 text-lg font-bold tracking-widest">
               MELLOWISE™
             </div>
           </div>
 
-          {/* Terminal-style Stats */}
-          <div className="border border-[#28fe14] p-4 space-y-3">
-            <div className="text-[#28fe14] text-lg font-bold border-b border-[#28fe14]/30 pb-2">
+          {/* Terminal-style Stats - Glassmorphism Panel */}
+          <div className="border border-teal-500/30 bg-white/5 backdrop-blur-md p-4 space-y-3 rounded-lg shadow-[0_8px_32px_rgba(20,184,166,0.2)]">
+            <div className="text-teal-400 text-lg font-bold border-b border-teal-500/30 pb-2">
               SYSTEM STATUS:
             </div>
 
             <div className="space-y-2 text-sm">
               <div className="flex justify-between">
-                <span className="text-[#28fe14]/70">PASS_RATE:</span>
-                <span className="text-[#28fe14] font-bold">85%</span>
+                <span className="text-teal-400/70">PASS_RATE:</span>
+                <span className="text-teal-400 font-bold">85%</span>
               </div>
               <div className="flex justify-between">
-                <span className="text-[#28fe14]/70">QUESTIONS:</span>
-                <span className="text-[#28fe14] font-bold">10,000+</span>
+                <span className="text-teal-400/70">QUESTIONS:</span>
+                <span className="text-teal-400 font-bold">10,000+</span>
               </div>
               <div className="flex justify-between">
-                <span className="text-[#28fe14]/70">AI_TUTOR:</span>
-                <span className="text-[#28fe14] font-bold">24/7 ACTIVE</span>
+                <span className="text-teal-400/70">AI_TUTOR:</span>
+                <span className="text-teal-400 font-bold">24/7 ACTIVE</span>
               </div>
               <div className="flex justify-between">
-                <span className="text-[#28fe14]/70">USERS_QUEUED:</span>
-                <span className="text-[#28fe14] font-bold animate-pulse">500+</span>
+                <span className="text-teal-400/70">USERS_QUEUED:</span>
+                <span className="text-teal-400 font-bold animate-pulse">500+</span>
               </div>
             </div>
           </div>
 
-          {/* Terminal Message */}
-          <div className="border border-[#28fe14]/50 p-4 text-sm">
-            <div className="text-[#28fe14] mb-2">
+          {/* Terminal Message - Glass Card */}
+          <div className="border border-teal-500/30 bg-white/5 backdrop-blur-sm p-4 text-sm rounded-lg">
+            <div className="text-teal-400 mb-2">
               &gt; system.message:
             </div>
-            <div className="text-[#28fe14]/90 pl-4">
+            <div className="text-teal-300 pl-4">
               &quot;Join 500+ students already in the queue. Your LSAT success starts here.&quot;
             </div>
           </div>
 
           {/* Blinking Cursor */}
-          <div className="text-[#28fe14] flex items-center gap-2">
+          <div className="text-teal-400 flex items-center gap-2">
             <span>$</span>
             <span className="animate-pulse">_</span>
           </div>
@@ -502,7 +515,8 @@ export default function LandingPage() {
         </div>
       </div>
 
-      </div> {/* End Main Content */}
+      </div>
+      </div>
     </div>
   );
 }
