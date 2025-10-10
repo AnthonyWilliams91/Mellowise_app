@@ -4,6 +4,7 @@ import { useEffect, useState } from 'react';
 import Image from 'next/image';
 import { createClient } from '@/lib/supabase/client';
 import { Particles } from '@/components/ui/particles';
+import { AuroraBackground } from '@/components/ui/aurora-background';
 
 interface TierData {
   tier: number;
@@ -191,20 +192,23 @@ export default function LandingPage() {
       <div className="fixed inset-0 bg-black z-0" />
 
       {/* Particles Background Effect */}
-      <Particles
-        className="fixed inset-0 z-5"
+      {/* <Particles
+        className="fixed inset-0 z-11"
         quantity={150}
         ease={80}
         color="#14b8a6"
         staticity={60}
         size={1.2}
-      />
+      /> */}
 
       {/* Content Wrapper */}
-      <div className="relative z-10">
+      <div className="relative z-10 ">
         {/* Modern Navbar - Glassmorphism */}
+      
       <nav className="border-b border-white/10 bg-white/5 backdrop-blur-lg sticky top-0 z-50 shadow-lg w-full">
+      
         <div className="container mx-auto px-4 py-4">
+          
           <div className="flex items-center justify-between">
 
             {/* Left Side: Logo + Brand */}
@@ -348,6 +352,17 @@ export default function LandingPage() {
           )}
         </div>
       </nav>
+      
+      
+      {/* Particles Background Effect */}
+      <Particles
+        className="fixed inset-0"
+        quantity={200}
+        ease={80}
+        color="#14b8a6"
+        staticity={160}
+        size={1.2}
+      />
 
       {/* Main Content */}
       <div className="flex flex-col lg:flex-row">
@@ -357,15 +372,15 @@ export default function LandingPage() {
         <div className="max-w-2xl w-full space-y-8">
 
           {/* Terminal Header */}
-          <div className="border border-teal-500/50 p-1">
-            <div className="bg-black p-4 space-y-2">
+          <div className="text-sm text-teal-400/70 pl-3">
+            <div className="p-4 space-y-2 ">
               <div className="text-teal-400">$ ./mellowise --init</div>
               <div className="text-teal-400 animate-pulse">Loading system...</div>
             </div>
           </div>
 
           {/* Hero Section */}
-          <div className="space-y-4 border border-teal-500/50 p-6 bg-white/5 backdrop-blur-sm">
+          <div className="space-y-1 border border-teal-500/50 p-6 bg-white/5 backdrop-blur-sm">
             <div className="text-sm text-teal-400">
               ┌─────────────────────────────────────────┐
             </div>
@@ -373,7 +388,7 @@ export default function LandingPage() {
               &gt; WELCOME TO MELLOWISE
             </h1>
             <p className="text-lg lg:text-xl text-teal-300">
-              {`// AI-powered LSAT prep that adapts to you`}
+              {`// AI-powered test prep that adapts to you`}
             </p>
             <div className="text-sm text-teal-400">
               └─────────────────────────────────────────┘
@@ -383,7 +398,7 @@ export default function LandingPage() {
           {/* Pricing Tier Widget - Glassmorphism Card */}
           <div id="pricing-widget" className="border-2 border-teal-500/30 bg-white/5 backdrop-blur-md shadow-[0_8px_32px_rgba(20,184,166,0.3)] rounded-lg overflow-hidden">
             <div className="bg-teal-500 text-black px-4 py-2 font-bold">
-              [!] EARLY ACCESS PRICING - LOCK YOUR RATE NOW
+              [!] EARLY ACCESS PRICING - LOCK IN YOUR LIFETIME RATE NOW
               {loading && <span className="ml-2 text-xs animate-pulse">[LOADING...]</span>}
             </div>
             <div className="p-6 space-y-3">
@@ -462,12 +477,12 @@ export default function LandingPage() {
               alt="Mellowise Owl Mascot"
               width={256}
               height={256}
-              className="w-48 lg:w-64 h-auto transition-all duration-300 shadow-[0_0_20px_rgba(20,184,166,0.4)] hover:shadow-[0_0_30px_rgba(20,184,166,0.6)]"
+              className="w-48 lg:w-96 h-auto transition-all duration-300 "
               priority
             />
-            <div className="text-teal-400 text-lg font-bold tracking-widest">
+            {/* <div className="text-teal-400 text-lg font-bold tracking-widest">
               MELLOWISE™
-            </div>
+            </div> */}
           </div>
 
           {/* Terminal-style Stats - Glassmorphism Panel */}
@@ -507,10 +522,10 @@ export default function LandingPage() {
           </div>
 
           {/* Blinking Cursor */}
-          <div className="text-teal-400 flex items-center gap-2">
+          {/* <div className="text-teal-400 flex items-center gap-2">
             <span>$</span>
             <span className="animate-pulse">_</span>
-          </div>
+          </div> */}
 
         </div>
       </div>
