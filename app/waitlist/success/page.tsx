@@ -86,7 +86,7 @@ export default function SuccessPage() {
         <div className="max-w-2xl w-full border-2 border-red-500 p-6">
           <h1 className="text-2xl font-bold text-red-500 mb-4">Error</h1>
           <p className="text-red-500/80 mb-4">{error || 'Failed to load waitlist data'}</p>
-          <a href="/landing" className="text-[#28fe14] underline">← Back to Landing</a>
+          <a href="/home" className="text-[#28fe14] underline">← Back to Home</a>
         </div>
       </div>
     );

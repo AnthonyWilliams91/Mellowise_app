@@ -31,7 +31,7 @@ export async function GET(request: NextRequest) {
 
   if (!code) {
     console.error('❌ No auth code provided in callback');
-    return NextResponse.redirect(`${requestUrl.origin}/landing?error=no_code`);
+    return NextResponse.redirect(`${requestUrl.origin}/home?error=no_code`);
   }
 
   console.log(`✓ Auth code present: ${code.substring(0, 10)}...`);
@@ -45,7 +45,7 @@ export async function GET(request: NextRequest) {
     if (error) {
       console.error('❌ Error exchanging code for session:', error);
       console.error('❌ Error details:', JSON.stringify(error, null, 2));
-      return NextResponse.redirect(`${requestUrl.origin}/landing?error=auth_failed&details=${encodeURIComponent(error.message)}`);
+      return NextResponse.redirect(`${requestUrl.origin}/home?error=auth_failed&details=${encodeURIComponent(error.message)}`);
     }
 
     // Get authenticated user
@@ -85,7 +85,7 @@ export async function GET(request: NextRequest) {
 
         if (insertError) {
           console.error(`❌ Failed to add user to waitlist: ${email}`, JSON.stringify(insertError, null, 2));
-          return NextResponse.redirect(`${requestUrl.origin}/landing?error=signup_failed`);
+          return NextResponse.redirect(`${requestUrl.origin}/home?error=signup_failed`);
         }
 
         if (insertResult && insertResult.length > 0) {
@@ -93,7 +93,7 @@ export async function GET(request: NextRequest) {
           console.log(`✓ Successfully added user to waitlist: ${email} at position ${userData.user_position}`);
         } else {
           console.error(`⚠️ RPC succeeded but returned empty result for ${email}`);
-          return NextResponse.redirect(`${requestUrl.origin}/landing?error=signup_failed`);
+          return NextResponse.redirect(`${requestUrl.origin}/home?error=signup_failed`);
         }
       } else {
         console.log(`ℹ️ User already exists: ${email} at position ${existingUser.position}`);
