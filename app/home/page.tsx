@@ -5,6 +5,7 @@ import Image from 'next/image';
 import { createClient } from '@/lib/supabase/client';
 import { Particles } from '@/components/ui/particles';
 import { GradientText } from '@/components/ui/gradient-text';
+import { Accordion } from '@/components/ui/accordion';
 
 interface TierData {
   tier: number;
@@ -24,6 +25,50 @@ export default function HomePage() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [signingIn, setSigningIn] = useState(false);
   const [signInError, setSignInError] = useState<string | null>(null);
+
+  // FAQ Data
+  const faqItems = [
+    {
+      title: "When does the beta launch?",
+      content: "Beta access begins December 1, 2025 – exclusively for pre-order customers. You'll receive an email with login credentials on launch day."
+    },
+    {
+      title: "What if I don't get in at Tier 1?",
+      content: "Each tier has 100 spots. When Tier 1 fills, pricing moves to Tier 2 ($20/month), and so on. Lock in the lowest tier you can – you can't go back in time."
+    },
+    {
+      title: "Do I really get ALL future exams at my locked rate?",
+      content: "Yes. Your early adopter rate covers the LSAT platform now and every exam we add in the future (GRE, MCAT, GMAT, CPA, Bar, USMLE, etc.). No upsells. No surprises."
+    },
+    {
+      title: "When does my subscription start?",
+      content: "You pay 3 months upfront today. Get 1 month free beta access (December 2025). Official launch is January 1, 2026. Your monthly billing starts April 1, 2026 – after your 3-month pre-order period."
+    },
+    {
+      title: "Can I cancel anytime?",
+      content: "Yes, cancel anytime after April 2026. Your early adopter rate is locked in for life—even if you cancel. As long as you don't delete your account, you can reactivate at your original tier pricing anytime. Delete your account and you lose that rate forever."
+    },
+    {
+      title: "What if I fail my exam?",
+      content: "Keep studying at your locked rate. Use the platform for multiple attempts, switch to a different exam, or use it for future career exams. There's no time limit."
+    },
+    {
+      title: "Is this just LSAT right now?",
+      content: "We're launching with LSAT first to nail the experience. Other exams roll out in 2026-2027. You're betting on our vision—and we're rewarding that trust with lifetime pricing."
+    },
+    {
+      title: "What's included in beta access?",
+      content: "Full LSAT prep platform with adaptive learning, 1,000+ practice questions, analytics dashboard, and direct feedback channel to our team. You'll help shape the product."
+    },
+    {
+      title: "Why should I trust a new platform?",
+      content: "Fair question. We're offering 1 month free beta precisely so you can try before you commit long-term. If it's not working for you during beta, request a refund. No hard feelings."
+    },
+    {
+      title: "Can I upgrade to a better tier if I join late?",
+      content: "Yes! You can move up one tier (to lower pricing) in three ways: (1) Share via your affiliate link—every 3 signups move you 10 seats closer to the next tier. (2) Share on social media—5 seats per platform. (3) Purchase 6 months upfront at your current tier price—after 6 months from official launch (July 2026), your billing drops to the next lower tier price permanently."
+    }
+  ];
 
   const scrollToSignup = () => {
     document.getElementById('signup-section')?.scrollIntoView({
@@ -368,6 +413,78 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Problem Section */}
+      <section className="w-full bg-black px-6 py-12 lg:px-16 lg:py-20">
+        <div className="max-w-4xl mx-auto">
+          {/* Section Header */}
+          <div className="text-center mb-12">
+            <h2 className="text-3xl lg:text-5xl font-bold text-teal-400 mb-4">
+              THE PROBLEM
+            </h2>
+            <p className="text-teal-300 text-lg">
+              Test prep companies charge $2,000+ for courses that:
+            </p>
+          </div>
+
+          {/* Problem Cards */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="border border-red-500/30 bg-red-500/5 backdrop-blur-xs p-6">
+              <div className="flex items-start gap-4">
+                <div className="text-3xl">❌</div>
+                <div>
+                  <p className="text-teal-300">
+                    <strong>Use the same lessons for everyone</strong> - One-size-fits-all doesn&apos;t work for learning
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div className="border border-red-500/30 bg-red-500/5 backdrop-blur-xs p-6">
+              <div className="flex items-start gap-4">
+                <div className="text-3xl">❌</div>
+                <div>
+                  <p className="text-teal-300">
+                    <strong>Don&apos;t track what YOU actually struggle with</strong> - They can&apos;t adapt to your specific weaknesses
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div className="border border-red-500/30 bg-red-500/5 backdrop-blur-xs p-6">
+              <div className="flex items-start gap-4">
+                <div className="text-3xl">❌</div>
+                <div>
+                  <p className="text-teal-300">
+                    <strong>Make you slog through content you&apos;ve already mastered</strong> - Wasting your precious study time
+                  </p>
+                </div>
+              </div>
+            </div>
+
+            <div className="border border-red-500/30 bg-red-500/5 backdrop-blur-xs p-6">
+              <div className="flex items-start gap-4">
+                <div className="text-3xl">❌</div>
+                <div>
+                  <p className="text-teal-300">
+                    <strong>Require separate purchases for different exams</strong> - Paying over and over again
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* Statistics */}
+          <div className="mt-12 border-2 border-teal-500/30 bg-white/5 backdrop-blur-xs p-8 text-center">
+            <p className="text-2xl text-teal-400 font-bold mb-2">
+              The average LSAT student spends $1,500-$3,500 on prep.
+            </p>
+            <p className="text-xl text-teal-300">
+              What if there was a better way?
+            </p>
+          </div>
+        </div>
+      </section>
+
       {/* Features Section - NEW 60/40 SPLIT */}
       <section className="w-full bg-black px-6 py-12 lg:px-16 lg:py-20">
         <div className="max-w-7xl mx-auto">
@@ -375,70 +492,85 @@ export default function HomePage() {
 
             {/* Left 60% - Features List */}
             <div className="w-full lg:w-3/5 space-y-6">
-              <h2 className="text-3xl lg:text-4xl font-bold text-teal-400 mb-8">
-                FEATURES
+              <h2 className="text-3xl lg:text-4xl font-bold text-teal-400 mb-8 text-center">
+                THE SOLUTION
               </h2>
+              <p className="text-xl text-teal-300 mb-6 text-center">
+                AI That Actually Knows You
+              </p>
 
               {/* Feature Cards */}
               <div className="space-y-4">
-                {/* AI-Powered */}
+                {/* Personalized Learning Paths */}
                 <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6">
                   <div className="flex items-start gap-4">
-                    <div className="text-4xl">🤖</div>
+                    <div className="text-4xl">🧠</div>
                     <div>
                       <h3 className="text-xl font-bold text-teal-400 mb-2">
-                        AI-Powered Personalization
+                        Personalized Learning Paths
                       </h3>
                       <p className="text-teal-300">
-                        Adaptive learning that adjusts to your strengths and weaknesses in real-time.
-                        No more wasting time on what you already know.
+                        Our AI analyzes your performance in real-time and adapts your study plan. Struggling with logic games? We&apos;ll give you more practice. Crushing reading comp? We&apos;ll move you ahead.
                       </p>
                     </div>
                   </div>
                 </div>
 
-                {/* Gamified */}
+                {/* Gamified Progress Tracking */}
                 <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6">
                   <div className="flex items-start gap-4">
                     <div className="text-4xl">🎮</div>
                     <div>
                       <h3 className="text-xl font-bold text-teal-400 mb-2">
-                        Gamified Survival Mode
+                        Gamified Progress Tracking
                       </h3>
                       <p className="text-teal-300">
-                        Make studying addictive with our signature Survival Mode game.
-                        Learn faster when you&apos;re having fun.
+                        Turn studying into a game. Earn points, unlock achievements, and see your score predictions improve with every session. Because motivation matters as much as material.
                       </p>
                     </div>
                   </div>
                 </div>
 
-                {/* Analytics */}
+                {/* Real-Time Analytics */}
                 <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6">
                   <div className="flex items-start gap-4">
-                    <div className="text-4xl">📊</div>
+                    <div className="text-4xl">📈</div>
                     <div>
                       <h3 className="text-xl font-bold text-teal-400 mb-2">
-                        Data-Driven Progress
+                        Real-Time Analytics
                       </h3>
                       <p className="text-teal-300">
-                        Track every improvement with analytics that show you exactly where you stand.
-                        Know your score before test day.
+                        Know exactly where you stand. See which question types need work, track your pacing, and predict your score with data-driven accuracy.
                       </p>
                     </div>
                   </div>
                 </div>
 
-                {/* Affordable */}
+                {/* Adaptive Practice */}
                 <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6">
                   <div className="flex items-start gap-4">
-                    <div className="text-4xl">💰</div>
+                    <div className="text-4xl">🎯</div>
                     <div>
                       <h3 className="text-xl font-bold text-teal-400 mb-2">
-                        Affordable Pricing
+                        Adaptive Practice
                       </h3>
                       <p className="text-teal-300">
-                        LSAT prep that doesn&apos;t break the bank. Starting at $15/month vs $1,500+ for traditional courses.
+                        No more wasting time on concepts you&apos;ve mastered. Our system focuses your energy where it matters most—your weak spots.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+
+                {/* One Platform, Every Exam */}
+                <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6">
+                  <div className="flex items-start gap-4">
+                    <div className="text-4xl">📚</div>
+                    <div>
+                      <h3 className="text-xl font-bold text-teal-400 mb-2">
+                        One Platform, Every Exam
+                      </h3>
+                      <p className="text-teal-300">
+                        Starting with the LSAT. Expanding to the GRE, MCAT, GMAT, CPA, Bar Exam, USMLE, and more. One subscription. Your entire academic and professional journey.
                       </p>
                     </div>
                   </div>
@@ -524,13 +656,13 @@ export default function HomePage() {
               {/* Step Content */}
               <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6 text-center w-full">
                 <h3 className="text-xl font-bold text-teal-400 mb-2">
-                  Sign Up
-                  <span className="text-sm text-teal-300 block">
+                  Sign Up As Early Adopter
+                  {/* <span className="text-sm text-teal-300 block">
                     (30 seconds)
-                  </span>
+                  </span> */}
                 </h3>
                 <p className="text-teal-300 text-sm">
-                  Join the waitlist with Google or email. Lock in your lifetime pricing based on when you join.
+                  Join the early adopter program with Google or email. Lock in your lifetime pricing based on when you join when you pre-order 3 months. + get 1 month free beta access guaranteed.
                 </p>
               </div>
             </div>
@@ -545,7 +677,7 @@ export default function HomePage() {
                   Join the Waitlist
                 </h3>
                 <p className="text-teal-300 text-sm">
-                  You&apos;ll be assigned a position and pricing tier. Early supporters get the best rates ($15-35/month).
+                  You&apos;ll have a chance to join the early adopters in beta testing one month before our official launch. We&apos;ll send important updates to your email as our platform continues development.
                 </p>
               </div>
             </div>
@@ -560,7 +692,7 @@ export default function HomePage() {
                   Get Beta Access
                 </h3>
                 <p className="text-teal-300 text-sm">
-                  We&apos;ll email you when your spot is ready (2-4 weeks). Start studying with 30 days free to try it out.
+                  We&apos;ll email you when your spot is ready about 1 week prior to the launch of our beta program. Start studying with 30 days free to try it out.
                 </p>
               </div>
             </div>
@@ -579,82 +711,7 @@ export default function HomePage() {
           </div>
 
           {/* FAQ Accordion */}
-          <div className="space-y-4">
-            {/* FAQ Item 1 */}
-            <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6 cursor-pointer hover:bg-white/10 transition-all duration-300">
-              <div className="flex justify-between items-center">
-                <h3 className="text-lg font-bold text-teal-400">
-                  &gt; When does beta launch?
-                </h3>
-                <svg className="w-6 h-6 text-teal-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                </svg>
-              </div>
-              <p className="text-teal-300 mt-4 pl-4 text-sm">
-                We&apos;re launching beta access in 2-4 weeks. Waitlist members get first access based on their signup position. You&apos;ll receive an email notification when your spot is ready.
-              </p>
-            </div>
-
-            {/* FAQ Item 2 */}
-            <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6 cursor-pointer hover:bg-white/10 transition-all duration-300">
-              <div className="flex justify-between items-center">
-                <h3 className="text-lg font-bold text-teal-400">
-                  &gt; How does the pricing work?
-                </h3>
-                <svg className="w-6 h-6 text-teal-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                </svg>
-              </div>
-              <p className="text-teal-300 mt-4 pl-4 text-sm">
-                Your pricing is locked in based on when you join the waitlist. Early supporters get the best rates - from $15/month for the first 100 signups to $35/month for positions 401-500. After 500, everyone gets 50% off our regular $99/month price ($49/month locked in forever). Once you claim your spot, your price never changes.
-              </p>
-            </div>
-
-            {/* FAQ Item 3 */}
-            <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6 cursor-pointer hover:bg-white/10 transition-all duration-300">
-              <div className="flex justify-between items-center">
-                <h3 className="text-lg font-bold text-teal-400">
-                  &gt; Can I improve my pricing after signing up?
-                </h3>
-                <svg className="w-6 h-6 text-teal-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                </svg>
-              </div>
-              <p className="text-teal-300 mt-4 pl-4 text-sm">
-                Yes! You can move up in the queue by referring friends. Each successful referral bumps you up one position. If you started at position 150 ($20/month) and refer 50 friends, you&apos;ll move to position 100 ($15/month). Your new pricing is locked in permanently.
-              </p>
-            </div>
-
-            {/* FAQ Item 4 */}
-            <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6 cursor-pointer hover:bg-white/10 transition-all duration-300">
-              <div className="flex justify-between items-center">
-                <h3 className="text-lg font-bold text-teal-400">
-                  &gt; What makes Mellowise different from Kaplan or Princeton Review?
-                </h3>
-                <svg className="w-6 h-6 text-teal-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                </svg>
-              </div>
-              <p className="text-teal-300 mt-4 pl-4 text-sm">
-                Traditional courses cost $1,500+ and use one-size-fits-all curriculum. Mellowise adapts to YOU with AI personalization, costs 90% less, and makes studying actually fun with gamification. Our Survival Mode game is addictive - students study 3x longer because they&apos;re having fun.
-              </p>
-            </div>
-
-            {/* FAQ Item 5 */}
-            <div className="border border-teal-500/30 bg-white/5 backdrop-blur-xs p-6 cursor-pointer hover:bg-white/10 transition-all duration-300">
-              <div className="flex justify-between items-center">
-                <h3 className="text-lg font-bold text-teal-400">
-                  &gt; Is this real LSAT content or practice questions?
-                </h3>
-                <svg className="w-6 h-6 text-teal-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                </svg>
-              </div>
-              <p className="text-teal-300 mt-4 pl-4 text-sm">
-                Real LSAT content. We use authentic questions from past exams, just like Kaplan and Princeton Review. Our AI analyzes your performance across 10,000+ real LSAT questions to predict your actual test-day score with 95% accuracy.
-              </p>
-            </div>
-          </div>
+          <Accordion items={faqItems} />
         </div>
       </section>
 
